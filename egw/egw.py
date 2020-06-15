@@ -8,9 +8,10 @@ mydb = mysql.connector.connect(
   database="egw"
 )
 
+book = raw_input("bookcode: " )
 mycursor = mydb.cursor()
 
-mycursor.execute("SELECT BOOKCODE, PAGE, PARAGRAPH, WORD, TITLE  FROM egw_writings_complete WHERE BOOKCODE='DA'")
+mycursor.execute("SELECT BOOKCODE, PAGE, PARAGRAPH, WORD, TITLE  FROM egw_writings_complete WHERE BOOKCODE='"+book+"'")
 
 myresult = mycursor.fetchall()
 count = 1
