@@ -1,7 +1,7 @@
 import os
 import json
 
-f = open("imageslist.json")
+f = open("imagelist.json")
 jsondata = json.load(f) 
 f.close()
 arr = os.listdir()
@@ -27,5 +27,5 @@ folder = input("folder: " )
 if newimage not in jsondata[folder]:   
    jsondata[folder].append(newimage)
 
-with open("imageslist.json", "w") as outfile:
+with open("imagelist.json", "w") as outfile:
     json.dump(jsondata, outfile)
