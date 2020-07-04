@@ -22,10 +22,10 @@ for x in arr:
              jsondata[x].append(url)
 
 
-newimage = input("url : " )
-folder = input("folder: " )
-if newimage not in jsondata[folder]:   
-   jsondata[folder].append(newimage)
+#newimage = input("url : " )
+#folder = input("folder: " )
+#if newimage not in jsondata[folder]:   
+#   jsondata[folder].append(newimage)
 
 with open("imagelist.json", "w") as outfile:
     json.dump(jsondata, outfile)
