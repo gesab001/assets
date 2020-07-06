@@ -1,9 +1,7 @@
 import os
 import json
 
-f = open("videolist.json")
-jsondata = json.load(f) 
-f.close()
+jsondata = {"items": []}
 arr = os.listdir()
 
 for x in arr:
@@ -25,8 +23,8 @@ for x in arr:
      else:
              print("not exists")
              if (x.lower().endswith(".mp4")):
-              url = 'https://gesab001.github.io/assets/videos/' + x  
-              jsondata["items"].append(url)
+              urlsinglevideo = 'https://gesab001.github.io/assets/videos/' + x  
+              jsondata["items"].append(urlsinglevideo)
 
 
 #newimage = input("url : " )
