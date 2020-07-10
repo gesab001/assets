@@ -1,9 +1,17 @@
 import json
-
+import subprocess
 f = open("stories.json")
 jsondata = json.load(f)
 f.close()
 alphabets = "abcdefghijklmnopqrstuvwxyz"
+
+def createNewStory(title):
+   filename = title.replace(" ", "_") + ".json"
+   jsonobject = {"title": title, "slides": []}
+   with open("./articles/"+filename, "w") as outfile:
+      json.dump(jsonobject, outfile)
+
+
 
 def addStory(title, letter):
   print(title)
@@ -13,14 +21,17 @@ def addStory(title, letter):
   f.close()
   for i in range(0, 26):
      if jsondata[i]["letter"]==letter:
-         jsondata[i]["names"].append(title)
-  print(jsondata)
-  with open("stories.json", "w") as outfile:
-     json.dump(jsondata, outfile)
+        if title not in jsondata[i]["names"]:
+          jsondata[i]["names"].append(title)
+          print(jsondata)
+          with open("stories.json", "w") as outfile:
+             json.dump(jsondata, outfile)
+          createNewStory(title)
+
 def getLettersList():
   result = list(alphabets)
   return result
-  
+
 def clearDatabase():
   jsondata = []
   letterslist = getLettersList()
