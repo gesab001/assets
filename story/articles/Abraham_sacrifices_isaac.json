@@ -16,4 +16,15 @@
 
 {"text": "And the angel of the LORD called unto Abraham out of heaven the second time,  And said, By myself have I sworn, saith the LORD, for because thou hast done this thing, and hast not withheld thy son, thine only [son: ]  That in blessing I will bless thee, and in multiplying I will multiply thy seed as the stars of the heaven, and as the sand which [is] upon the sea shore; and thy seed shall possess the gate of his enemies;  And in thy seed shall all the nations of the earth be blessed; because thou hast obeyed my voice.", "image": "", "videolink": ""} 
 
-]}
+],
+"questions": [
+    {"question": "Who told Abraham to offer Isaac as a burnt offering?", "answer": "God", "choices": ["God", "Satan", "Adam", "Noah"]},
+    {"question": "In what land did God tell Abraham to perform the sacrifice?", "answer": "land of Moriah", "choices": ["land of Moriah", "land of Shinar", "land of Havilah", "land of Ethiopia"]},
+    {"quesiton": "How long did it take them to get to the land of Moriah?", "answer": "3 days", "choices": ["3 days", "4 days", "1 day", "2 days"]},
+    {"question": "What did Abraham sacrifice instead of Isaac?", "answer": "a ram", "choices": ["a ram", "a cow", "a dove", "a lion"]},
+    {"question": "What did God promise to do for Abraham for obeying Him?", "answer": "Make him a blessing to all nations", "choices": ["Make him a blessing to all nations", "Curse him", "He will not give him children", "Make him poor"]}
+     
+],
+"activities": [],
+"references": []
+}
