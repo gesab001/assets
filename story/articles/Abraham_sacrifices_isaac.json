@@ -4,17 +4,21 @@
 
 {"text": "And Abraham rose up early in the morning, and saddled his ass, and took two of his young men with him, and Isaac his son, and clave the wood for the burnt offering, and rose up, and went unto the place of which God had told him. Then on the third day Abraham lifted up his eyes, and saw the place afar off.", "image": "https://gesab001.github.io/assets/images/abrahamsaddlesdonkey.png", "videolink": ""},
 
-{"text": "And Abraham said unto his young men, Abide ye here with the ass; and I and the lad will go yonder and worship, and come again to you, And Abraham took the wood of the burnt offering, and laid [it] upon Isaac his son; and he took the fire in his hand, and a knife; and they went both of them together.", "image":"", "videolink": ""},
+{"text": "And Abraham said unto his young men, Abide ye here with the ass; and I and the lad will go yonder and worship, and come again to you, And Abraham took the wood of the burnt offering, and laid [it] upon Isaac his son; and he took the fire in his hand, and a knife; and they went both of them together.", "image":"https://gesab001.github.io/assets/images/abraham-wood-knife.jpg", "videolink": ""},
 
-{"text": "And Isaac spake unto Abraham his father, and said, My father: and he said, Here [am] I, my son. And he said, Behold the fire and the wood: but where [is] the lamb for a burnt offering?  And Abraham said, My son, God will provide himself a lamb for a burnt offering: so they went both of them together.", "image": "", "videolink": ""},
+{"text": "And Isaac spake unto Abraham his father, and said, My father: and he said, Here [am] I, my son. And he said, Behold the fire and the wood: but where [is] the lamb for a burnt offering?  And Abraham said, My son, God will provide himself a lamb for a burnt offering: so they went both of them together.", "image": "https://gesab001.github.io/assets/images/whereisthelamb.png", "videolink": ""},
 
-{"text": "And they came to the place which God had told him of; and Abraham built an altar there, and laid the wood in order, and bound Isaac his son, and laid him on the altar upon the wood. And Abraham stretched forth his hand, and took the knife to slay his son.", "image": "", "videolink": ""},
+{"text": "And they came to the place which God had told him of; and Abraham built an altar there, and laid the wood in order...", "image": "https://gesab001.github.io/assets/images/abrahambuildaltar.png", "videolink": ""},
 
-{"text": "And the angel of the LORD called unto him out of heaven, and said, Abraham, Abraham: and he said, Here [am] I. And he said, Lay not thine hand upon the lad, neither do thou any thing unto him: for now I know that thou fearest God, seeing thou hast not withheld thy son, thine only [son] from me.", "image": "", "videolink": ""},
+{"text": "... and bound Isaac his son, and laid him on the altar upon the wood", "image": "https://gesab001.github.io/assets/images/", "videolink": ""},
 
-{"text": "And Abraham lifted up his eyes, and looked, and behold behind [him] a ram caught in a thicket by his horns: and Abraham went and took the ram, and offered him up for a burnt offering in the stead of his son.  And Abraham called the name of that place Jehovah-jireh: as it is said [to] this day, In the mount of the LORD it shall be seen.", "image": "", "videolink": ""},
+{"text": "And Abraham stretched forth his hand, and took the knife to slay his son.", "image": "https://gesab001.github.io/assets/images/abrahamslaysisaac.jpg", "videolink": ""},
 
-{"text": "And the angel of the LORD called unto Abraham out of heaven the second time,  And said, By myself have I sworn, saith the LORD, for because thou hast done this thing, and hast not withheld thy son, thine only [son: ]  That in blessing I will bless thee, and in multiplying I will multiply thy seed as the stars of the heaven, and as the sand which [is] upon the sea shore; and thy seed shall possess the gate of his enemies;  And in thy seed shall all the nations of the earth be blessed; because thou hast obeyed my voice.", "image": "", "videolink": ""} 
+{"text": "And the angel of the LORD called unto him out of heaven, and said, Abraham, Abraham: and he said, Here [am] I. And he said, Lay not thine hand upon the lad, neither do thou any thing unto him: for now I know that thou fearest God, seeing thou hast not withheld thy son, thine only [son] from me.", "image": "https://gesab001.github.io/assets/images/angelcallsabraham.jpg", "videolink": ""},
+
+{"text": "And Abraham lifted up his eyes, and looked, and behold behind [him] a ram caught in a thicket by his horns: and Abraham went and took the ram, and offered him up for a burnt offering in the stead of his son.  And Abraham called the name of that place Jehovah-jireh: as it is said [to] this day, In the mount of the LORD it shall be seen.", "image": "https://gesab001.github.io/assets/images/ramcaught.jpg", "videolink": ""},
+
+{"text": "And the angel of the LORD called unto Abraham out of heaven the second time,  And said, By myself have I sworn, saith the LORD, for because thou hast done this thing, and hast not withheld thy son, thine only [son: ]  That in blessing I will bless thee, and in multiplying I will multiply thy seed as the stars of the heaven, and as the sand which [is] upon the sea shore; and thy seed shall possess the gate of his enemies;  And in thy seed shall all the nations of the earth be blessed; because thou hast obeyed my voice.", "image": "https://gesab001.github.io/assets/images/abrahamstars.png", "videolink": ""} 
 
 ],
 "questions": [
@@ -22,7 +26,8 @@
     {"question": "In what land did God tell Abraham to perform the sacrifice?", "answer": "land of Moriah", "choices": ["land of Moriah", "land of Shinar", "land of Havilah", "land of Ethiopia"]},
     {"question": "How long did it take them to get to the land of Moriah?", "answer": "3 days", "choices": ["3 days", "4 days", "1 day", "2 days"]},
     {"question": "What did Abraham sacrifice instead of Isaac?", "answer": "a ram", "choices": ["a ram", "a cow", "a dove", "a lion"]},
-    {"question": "What did God promise to do for Abraham for obeying Him?", "answer": "Make him a blessing to all nations", "choices": ["Make him a blessing to all nations", "Curse him", "He will not give him children", "Make him poor"]}
+    {"question": "What did God promise to do for Abraham for obeying Him?", "answer": "Make him a blessing to all nations", "choices": ["Make him a blessing to all nations", "Curse him", "He will not give him children", "Make him poor"]},
+    {"question": "What does God use to compare the number of Abraham's descendants?", "answer": "sand and stars", "choices": ["sand and stars", "stones and shells", "fruits and leaves", "thorns and thistles"]}
      
 ],
 "activities": [],
