@@ -1,0 +1,75 @@
+{
+    "activities": [],
+    "questions": [
+        {
+            "answer": "Gabriel",
+            "choices": ["Gabriel", "Michael", "Lucifer", "Raphael"],
+            "question": "What is the name of the angel who was sent to talked to Mary?"
+        },
+       {
+            "answer": "Nazareth",
+            "choices": ["Nazareth", "Bethlehem", "Jerusalem", "Capernaum"],
+            "question": "What is the name of the city where Mary lives?"
+        },
+       {
+            "answer": "troubled",
+            "choices": ["troubled", "happy", "excited", "disappointed"],
+            "question": "How did Mary feel when Gabriel greeted her?"
+        },
+       {
+            "answer": "impossible",
+            "choices": ["impossible", "possible", "great", "certain"],
+            "question": "Complete the sentence: 'For with God nothing shall be ____________'"
+        },
+       {
+            "answer": "through the Holy Ghost",
+            "choices": ["through the Holy Ghost", "through Joseph", "through surrogacy", "through adoption"],
+            "question": "How is Mary going to be pregnant?"
+        }
+    ],
+    "references": [],
+    "slides": [
+        {
+            "image": "https://gesab001.github.io/assets/images/gabrieltalkstomary/cityofnazareth.jpg",
+            "text": "And in the sixth month the angel Gabriel was sent from God unto a city of Galilee, named Nazareth..."
+        },
+        {
+            "image": "https://gesab001.github.io/assets/images/gabrieltalkstomary/youngmary.jpg",
+            "text": "...To a virgin espoused to a man whose name was Joseph, of the house of David; and the virgin's name [was] Mary."
+        },
+        {
+            "image": "https://gesab001.github.io/assets/images/gabrieltalkstomary/gabrielgreetsmary.jpg",
+            "text": "And the angel came in unto her, and said, Hail, [thou that art] highly favoured, the Lord [is] with thee: blessed [art] thou among women.  And when she saw [him,] she was troubled at his saying, and cast in her mind what manner of salutation this should be."
+        },
+        {
+            "image": "https://gesab001.github.io/assets/images/gabrieltalkstomary/callhimjesus.png",
+            "text": "And the angel said unto her, Fear not, Mary: for thou hast found favour with God.  And, behold, thou shalt conceive in thy womb, and bring forth a son, and shalt call his name JESUS."
+        },
+        {
+            "image": "https://gesab001.github.io/assets/images/gabrieltalkstomary/throneofdavid.jpg",
+            "text": "He shall be great, and shall be called the Son of the Highest: and the Lord God shall give unto him the throne of his father David:  And he shall reign over the house of Jacob for ever; and of his kingdom there shall be no end."
+        },
+        {
+            "image": "https://gesab001.github.io/assets/images/gabrieltalkstomary/maryasks.jpg",
+            "text": "Then said Mary unto the angel, How shall this be, seeing I know not a man?"
+        },
+        {
+            "image": "https://gesab001.github.io/assets/images/gabrieltalkstomary/holyghostcomeuponyou.jpg",
+            "text": "And the angel answered and said unto her, The Holy Ghost shall come upon thee, and the power of the Highest shall overshadow thee: therefore also that holy thing which shall be born of thee shall be called the Son of God."
+        },
+        {
+            "image": "https://gesab001.github.io/assets/images/gabrieltalkstomary/elizabethpregnant.jpg",
+            "text": "And, behold, thy cousin Elisabeth, she hath also conceived a son in her old age: and this is the sixth month with her, who was called barren."
+        },
+        {
+            "image": "https://gesab001.github.io/assets/images/gabrieltalkstomary/nothingimpossible.jpg",
+            "text": "For with God nothing shall be impossible."
+        },
+        {
+            "image": "https://gesab001.github.io/assets/images/gabrieltalkstomary/accordingtothyword.jpg",
+            "text": "And Mary said, Behold the handmaid of the Lord; be it unto me according to thy word. And the angel departed from her. "
+        }
+    ],
+    "title": "Gabriel talks to Mary"
+}
+
