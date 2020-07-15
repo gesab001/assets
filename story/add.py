@@ -7,7 +7,7 @@ alphabets = "abcdefghijklmnopqrstuvwxyz"
 
 def createNewStory(title):
    filename = title.replace(" ", "_") + ".json"
-   jsonobject = {"title": title, "slides": []}
+   jsonobject = {"title": title, "slides": [{"text": "", "image": "https://gesab001.github.io/assets/images/"}], "questions": [{"question": "", "answer": "", "choices": []}], "activities": [], "references": []}
    with open("./articles/"+filename, "w") as outfile:
       json.dump(jsonobject, outfile)
 
