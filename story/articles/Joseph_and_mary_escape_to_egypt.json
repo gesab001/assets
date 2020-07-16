@@ -4,27 +4,27 @@
         {
             "answer": "in a dream",
             "choices": ["in a dream"],
-            "question": ""
+            "question": "How did the angel of the Lord warn Joseph about Herod?"
         },
         {
             "answer": "Egypt",
             "choices": ["Egypt"],
-            "question": ""
+            "question": "To where did God tell Joseph to flee?"
         },
         {
             "answer": "two years old and under",
             "choices": ["two years old and under"],
-            "question": ""
+            "question": "What were the children's ages that Herod commanded to destroy?"
         },
         {
             "answer": "destroy",
             "choices": ["destroy"],
-            "question": ""
+            "question": "What did Herod want to do to Jesus?"
         },
         {
-            "answer": "Nazareth",
-            "choices": ["Nazareth"],
-            "question": ""
+            "answer": "land of Israel",
+            "choices": ["land of Israel"],
+            "question": "Where did God tell Joseph to go after Herod died?"
         }
     ],
     "references": [],
