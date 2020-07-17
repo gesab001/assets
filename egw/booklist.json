@@ -1,89 +1,114 @@
 {
-	"items": [{
-			"bookcode": "DA",
-			"title": "The Desire of Ages",
-			"total": 2590
-		},
-		{
-			"bookcode": "CG",
-			"title": "Child Guidance",
-			"total": 1672
-		},
-		{
-			"bookcode": "CD",
-			"title": "Counsels on Diet and Foods",
-			"total": 1554
-		},
-		{
-			"bookcode": "Ed",
-			"title": "Education",
-			"total": 981
-		},
-		{
-			"bookcode": "1MCP",
-			"title": "Mind, Character, and Personality Volume 1",
-			"total": 1225
-		},
-		{
-			"bookcode": "2MCP",
-			"title": "Mind, Character, and Personality Volume 2",
-			"total": 1500
-		},
-		{
-			"bookcode": "GC",
-			"title": "The Great Controversy",
-			"total": 1901
-		},
-		{
-			"bookcode": "CL",
-			"title": "Country Living",
-			"total": 128
-		},
-		{
-			"bookcode": "PP",
-			"title": "Patriarchs and Prophets",
-			"total": 2213
-		},
-		{
-			"bookcode": "PK",
-			"title": "Prophets and Kings",
-			"total": 1763
-		},
-		{
-			"bookcode": "AA",
-			"title": "The Acts of the Apostles",
-			"total": 1538
-		},
-		{
-			"bookcode": "MH",
-			"title": "The Ministry of Healing",
-			"total": 1500
-		},
-		{
-			"bookcode": "LDE",
-			"title": "Last Day Events",
-			"total": 1126
-		},
-		{
-			"bookcode": "Ev",
-			"title": "Evangelism",
-			"total": 2460
-		},
-		{
-			"bookcode": "POLITIC",
-			"title": "Politics",
-			"total": 139
-		},
-		{
-			"bookcode": "BIBLE",
-			"title": "Bible",
-			"total": 4720
-		},
-		{
-			"bookcode": "SABBATH",
-			"title": "Sabbath",
-			"total": 3157
-		}
-
-	]
+    "items": [
+        {
+            "total": 2590, 
+            "bookcode": "DA", 
+            "title": "The Desire of Ages"
+        }, 
+        {
+            "total": 1672, 
+            "bookcode": "CG", 
+            "title": "Child Guidance"
+        }, 
+        {
+            "total": 1554, 
+            "bookcode": "CD", 
+            "title": "Counsels on Diet and Foods"
+        }, 
+        {
+            "total": 981, 
+            "bookcode": "Ed", 
+            "title": "Education"
+        }, 
+        {
+            "total": 1225, 
+            "bookcode": "1MCP", 
+            "title": "Mind, Character, and Personality Volume 1"
+        }, 
+        {
+            "total": 1500, 
+            "bookcode": "2MCP", 
+            "title": "Mind, Character, and Personality Volume 2"
+        }, 
+        {
+            "total": 1901, 
+            "bookcode": "GC", 
+            "title": "The Great Controversy"
+        }, 
+        {
+            "total": 128, 
+            "bookcode": "CL", 
+            "title": "Country Living"
+        }, 
+        {
+            "total": 2213, 
+            "bookcode": "PP", 
+            "title": "Patriarchs and Prophets"
+        }, 
+        {
+            "total": 1763, 
+            "bookcode": "PK", 
+            "title": "Prophets and Kings"
+        }, 
+        {
+            "total": 1538, 
+            "bookcode": "AA", 
+            "title": "The Acts of the Apostles"
+        }, 
+        {
+            "total": 1500, 
+            "bookcode": "MH", 
+            "title": "The Ministry of Healing"
+        }, 
+        {
+            "total": 1126, 
+            "bookcode": "LDE", 
+            "title": "Last Day Events"
+        }, 
+        {
+            "total": 2460, 
+            "bookcode": "Ev", 
+            "title": "Evangelism"
+        }, 
+        {
+            "total": 139, 
+            "bookcode": "POLITIC", 
+            "title": "Politics"
+        }, 
+        {
+            "total": 4720, 
+            "bookcode": "BIBLE", 
+            "title": "Bible"
+        }, 
+        {
+            "total": 3157, 
+            "bookcode": "SABBATH", 
+            "title": "Sabbath"
+        }, 
+        {
+            "total": 29, 
+            "bookcode": "CHRISTMAS", 
+            "title": "Christmas"
+        }, 
+        {
+            "total": 27, 
+            "bookcode": "BIRTHDAY", 
+            "title": "Birthday"
+        }, 
+        {
+            "total": 73, 
+            "bookcode": "HOLIDAYS", 
+            "title": "Holidays"
+        }, 
+        {
+            "total": 47, 
+            "bookcode": "NEW YEAR", 
+            "title": "New year"
+        }, 
+        {
+            "total": 18820, 
+            "bookcode": "JESUS", 
+            "title": "Jesus"
+        }
+    ]
 }
