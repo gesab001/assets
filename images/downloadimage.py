@@ -23,4 +23,11 @@ while True:
     path = "./"+folder+"/"+filename
     command = "curl -L " + url + " -o " + path
     subprocess.call(command, shell=True)
-    resize(path)
+    resize(path) 
+    updateIndexHtml(path)   
+
+
+def updateIndexHtml(message):
+    fileappend = open("../index.html", "a+")
+    fileappend.write("<p>added " + message + "</p>")
+    fileappend.close() 
