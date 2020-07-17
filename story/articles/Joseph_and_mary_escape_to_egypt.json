@@ -1,89 +1,69 @@
 {
-    "activities": [],
-    "questions": [
-        {
-            "answer": "in a dream",
-            "choices": ["in a dream"],
-            "question": "How did the angel of the Lord warn Joseph about Herod?"
-        },
-        {
-            "answer": "Egypt",
-            "choices": ["Egypt"],
-            "question": "To where did God tell Joseph to flee?"
-        },
-        {
-            "answer": "two years old and under",
-            "choices": ["two years old and under"],
-            "question": "What were the children's ages that Herod commanded to destroy?"
-        },
-        {
-            "answer": "destroy",
-            "choices": ["destroy"],
-            "question": "What did Herod want to do to Jesus?"
-        },
-        {
-            "answer": "land of Israel",
-            "choices": ["land of Israel"],
-            "question": "Where did God tell Joseph to go after Herod died?"
-        }
-    ],
-    "references": [],
-    "slides": [
-        {
-            "image": "https://gesab001.github.io/assets/images/josephandmaryescapetoegypt/",
-            "text": "And when they were departed, behold, the angel of the Lord appeareth to Joseph in a dream, saying, Arise, and take the young child and his mother, and flee into Egypt, and be thou there until I bring thee word: for Herod will seek the young child to destroy him."
-        },
-        {
-            "image": "https://gesab001.github.io/assets/images/josephandmaryescapetoegypt/",
-            "text": "When he arose, he took the young child and his mother by night, and departed into Egypt:"
-        },
-        {
-            "image": "https://gesab001.github.io/assets/images/josephandmaryescapetoegypt/",
-            "text": "And was there until the death of Herod: that it might be fulfilled which was spoken of the Lord by the prophet, saying, Out of Egypt have I called my son."
-        },
-        {
-            "image": "https://gesab001.github.io/assets/images/josephandmaryescapetoegypt/",
-            "text": "Then Herod, when he saw that he was mocked of the wise men, was exceeding wroth, and sent forth, and slew all the children that were in Bethlehem, and in all the coasts thereof, from two years old and under, according to the time which he had diligently enquired of the wise men."
-        },
-        {
-            "image": "https://gesab001.github.io/assets/images/josephandmaryescapetoegypt/",
-            "text": "Then was fulfilled that which was spoken by Jeremy the prophet, saying, In Rama was there a voice heard, lamentation, and weeping, and great mourning, Rachel weeping [for] her children, and would not be comforted, because they are not."
-        },
-        {
-            "image": "https://gesab001.github.io/assets/images/josephandmaryescapetoegypt/",
-            "text": "But when Herod was dead, behold, an angel of the Lord appeareth in a dream to Joseph in Egypt, Saying, Arise, and take the young child and his mother, and go into the land of Israel: for they are dead which sought the young child's life."
-        },
-        {
-            "image": "https://gesab001.github.io/assets/images/josephandmaryescapetoegypt/",
-            "text": "And he arose, and took the young child and his mother, and came into the land of Israel.
-"
-        },
-        {
-            "image": "https://gesab001.github.io/assets/images/josephandmaryescapetoegypt/",
-            "text": "But when he heard that Archelaus did reign in Judaea in the room of his father Herod, he was afraid to go thither: notwithstanding, being warned of God in a dream, he turned aside into the parts of Galilee:"
-        },
-        {
-            "image": "https://gesab001.github.io/assets/images/josephandmaryescapetoegypt/",
-            "text": "And he came and dwelt in a city called Nazareth: that it might be fulfilled which was spoken by the prophets, He shall be called a Nazarene. "
-        }
+	"activities": [],
+	"questions": [{
+			"answer": "in a dream",
+			"choices": ["in a dream"],
+			"question": "How did the angel of the Lord warn Joseph about Herod?"
+		},
+		{
+			"answer": "Egypt",
+			"choices": ["Egypt"],
+			"question": "To where did God tell Joseph to flee?"
+		},
+		{
+			"answer": "two years old and under",
+			"choices": ["two years old and under"],
+			"question": "What were the children's ages that Herod commanded to destroy?"
+		},
+		{
+			"answer": "destroy",
+			"choices": ["destroy"],
+			"question": "What did Herod want to do to Jesus?"
+		},
+		{
+			"answer": "land of Israel",
+			"choices": ["land of Israel"],
+			"question": "Where did God tell Joseph to go after Herod died?"
+		}
+	],
+	"references": [],
+	"slides": [{
+			"image": "https://gesab001.github.io/assets/images/josephandmaryescapetoegypt/josephdream.jpg",
+			"text": "And when they were departed, behold, the angel of the Lord appeareth to Joseph in a dream, saying, Arise, and take the young child and his mother, and flee into Egypt, and be thou there until I bring thee word: for Herod will seek the young child to destroy him."
+		},
+		{
+			"image": "https://gesab001.github.io/assets/images/josephandmaryescapetoegypt/departtoegypt.jpg",
+			"text": "When he arose, he took the young child and his mother by night, and departed into Egypt:"
+		},
+		{
+			"image": "https://gesab001.github.io/assets/images/josephandmaryescapetoegypt/toegypt.jpg",
+			"text": "And was there until the death of Herod: that it might be fulfilled which was spoken of the Lord by the prophet, saying, Out of Egypt have I called my son."
+		},
+		{
+			"image": "https://gesab001.github.io/assets/images/josephandmaryescapetoegypt/kingherodangry.jpg",
+			"text": "Then Herod, when he saw that he was mocked of the wise men, was exceeding wroth, and sent forth, and slew all the children that were in Bethlehem, and in all the coasts thereof, from two years old and under, according to the time which he had diligently enquired of the wise men."
+		},
+		{
+			"image": "https://gesab001.github.io/assets/images/josephandmaryescapetoegypt/2yearsoldkilled.png",
+			"text": "Then was fulfilled that which was spoken by Jeremy the prophet, saying, In Rama was there a voice heard, lamentation, and weeping, and great mourning, Rachel weeping [for] her children, and would not be comforted, because they are not."
+		},
+		{
+			"image": "https://gesab001.github.io/assets/images/josephandmaryescapetoegypt/josephdream2.png",
+			"text": "But when Herod was dead, behold, an angel of the Lord appeareth in a dream to Joseph in Egypt, Saying, Arise, and take the young child and his mother, and go into the land of Israel: for they are dead which sought the young child's life."
+		},
+		{
+			"image": "https://gesab001.github.io/assets/images/josephandmaryescapetoegypt/returntoisrael.png",
+			"text": "And he arose, and took the young child and his mother, and came into the land of Israel."
+		},
+		{
+			"image": "https://gesab001.github.io/assets/images/josephandmaryescapetoegypt/galilee.jpg",
+			"text": "But when he heard that Archelaus did reign in Judaea in the room of his father Herod, he was afraid to go thither: notwithstanding, being warned of God in a dream, he turned aside into the parts of Galilee:"
+		},
+		{
+			"image": "https://gesab001.github.io/assets/images/josephandmaryescapetoegypt/nazareth.jpg",
+			"text": "And he came and dwelt in a city called Nazareth: that it might be fulfilled which was spoken by the prophets, He shall be called a Nazarene. "
+		}
 
-    ],
-    "title": "Joseph and Mary escape to Egypt"
+	],
+	"title": "Joseph and Mary escape to Egypt"
 }
-
-13. 
-
-14. 
-
-15. 
-
-16. 
-
-17. 
-
-19. 
-
-21. 
-22. 
-
-23. 
