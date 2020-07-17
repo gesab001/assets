@@ -16,10 +16,16 @@ def resize(filename):
     result = p.communicate()[0].decode("utf-8") 
     print ("new size: " + result)
 
+def updateIndexHtml(message):
+    fileappend = open("../index.html", "a+")
+    fileappend.write("<p>added " + message + "</p>")
+    fileappend.close() 
 
 while True:
     url = input("url: " )
     filename = input("filename: " )
+    if filename=="cancel":
+        break
     path = "./"+folder+"/"+filename
     command = "curl -L " + url + " -o " + path
     subprocess.call(command, shell=True)
@@ -27,7 +33,4 @@ while True:
     updateIndexHtml(path)   
 
 
-def updateIndexHtml(message):
-    fileappend = open("../index.html", "a+")
-    fileappend.write("<p>added " + message + "</p>")
-    fileappend.close() 
+
