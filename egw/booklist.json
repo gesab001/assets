@@ -74,6 +74,17 @@
             "bookcode": "POLITIC",
             "title": "Politics",
             "total": 139
+        },
+        {
+            "bookcode": "BIBLE",
+            "title": "Bible",
+            "total" 4720: 
+        },
+        {
+            "bookcode": "SABBATH",
+            "title": "Sabbath",
+            "total": 3157
         }
+
     ]
 }
