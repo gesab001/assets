@@ -109,6 +109,16 @@
             "total": 18820, 
             "bookcode": "JESUS", 
             "title": "Jesus"
+        }, 
+        {
+            "total": 1090, 
+            "bookcode": "COL", 
+            "title": "Christ's Object Lessons"
+        }, 
+        {
+            "total": 271, 
+            "bookcode": "SC", 
+            "title": "Steps to Christ (1892, 1893)"
         }
     ]
 }
