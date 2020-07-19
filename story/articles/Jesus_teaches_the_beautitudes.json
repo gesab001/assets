@@ -2,73 +2,95 @@
     "activities": [],
     "questions": [
         {
-            "answer": "",
-            "choices": [],
-            "question": ""
+            "answer": "mountain",
+            "choices": ["mountain", "church building", "shopping mall", "store"],
+            "question": "Where did Jesus teach the people?"
         },
         {
-            "answer": "",
-            "choices": [],
-            "question": ""
+            "answer": "earth",
+            "choices": ["money", "houses", "earth", "food"],
+            "question": "What will you inherit if you are meek?"
         },
         {
-            "answer": "",
-            "choices": [],
-            "question": ""
+            "answer": "children of God",
+            "choices": ["children of Satan", "children of God", "children of men", "bad person"],
+            "question": "What will you be called if you are a peacemaker?"
         },
         {
-            "answer": "",
-            "choices": [],
-            "question": ""
+            "answer": "God",
+            "choices": ["Satan", "God", "angels", "other planets"],
+            "question": "What will you see if you are pure in heart?"
         },
         {
-            "answer": "",
-            "choices": [],
-            "question": ""
+            "answer": "rejoice",
+            "choices": ["be angry", "rejoice", "be sad", "fight back"],
+            "question": "What should you do if you are persecuted because you follow Jesus?"
         }
     ],
     "references": [],
     "slides": [
         {
             "image": "https://gesab001.github.io/assets/images/jesusteachesthebeautitudes/",
-            "text": ""
+            "text": "And seeing the multitudes, he went up into a mountain: and when he was set, his disciples came unto him:  And he opened his mouth, and taught them, saying,"
         },
         {
             "image": "https://gesab001.github.io/assets/images/jesusteachesthebeautitudes/",
-            "text": ""
+            "text": "Blessed [are] the poor in spirit: for theirs is the kingdom of heaven."
         },
         {
             "image": "https://gesab001.github.io/assets/images/jesusteachesthebeautitudes/",
-            "text": ""
+            "text": "Blessed [are] they that mourn: for they shall be comforted."
         },
         {
             "image": "https://gesab001.github.io/assets/images/jesusteachesthebeautitudes/",
-            "text": ""
+            "text": "Blessed [are] the meek: for they shall inherit the earth."
         },
         {
             "image": "https://gesab001.github.io/assets/images/jesusteachesthebeautitudes/",
-            "text": ""
+            "text": "Blessed [are] they which do hunger and thirst after righteousness: for they shall be filled."
         },
         {
             "image": "https://gesab001.github.io/assets/images/jesusteachesthebeautitudes/",
-            "text": ""
+            "text": "Blessed [are] the merciful: for they shall obtain mercy."
         },
         {
             "image": "https://gesab001.github.io/assets/images/jesusteachesthebeautitudes/",
-            "text": ""
+            "text": "Blessed [are] the pure in heart: for they shall see God."
         },
         {
             "image": "https://gesab001.github.io/assets/images/jesusteachesthebeautitudes/",
-            "text": ""
+            "text": "Blessed [are] the peacemakers: for they shall be called the children of God."
         },
         {
             "image": "https://gesab001.github.io/assets/images/jesusteachesthebeautitudes/",
-            "text": ""
+            "text": "Blessed [are] they which are persecuted for righteousness sake: for theirs is the kingdom of heaven."
         },
         {
             "image": "https://gesab001.github.io/assets/images/jesusteachesthebeautitudes/",
-            "text": ""
+            "text": "Blessed are ye, when [men] shall revile you, and persecute [you,] and shall say all manner of evil against you falsely, for my sake.  Rejoice, and be exceeding glad: for great [is] your reward in heaven: for so persecuted they the prophets which were before you. "
         }
     ],
     "title": "Jesus teaches the beautitudes"
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
