@@ -5,12 +5,32 @@ jsondata = json.load(f)
 f.close()
 alphabets = "abcdefghijklmnopqrstuvwxyz"
 
+
+def updateIndexHtml(message):
+    fileappend = open("../index.html", "a+")
+    fileappend.write("<p>added " + message + "</p>")
+    fileappend.close() 
+
+def createQuestions():
+   questions = []
+   for x in range(5):
+     data = {"question": "", "answer": "", "choices": ["", "", "", ""]}
+     questions.append(data)
+   return questions
+
+def createSlides(folder):
+   slides = []
+   for x in range(10):
+     data = {"text": "", "image": "https://gesab001.github.io/assets/images/"+folder+"/"}
+     slides.append(data)
+   return slides
+
 def createNewStory(title):
    filename = title.replace(" ", "_") + ".json"
    folder = title.replace(" ", "").lower()
-   jsonobject = {"title": title, "slides": [{"text": "", "image": "https://gesab001.github.io/assets/images/"+folder}], "questions": [{"question": "", "answer": "", "choices": []}], "activities": [], "references": []}
+   jsonobject = {"title": title, "slides": createSlides(folder), "questions": createQuestions(), "activities": [], "references": []}
    with open("./articles/"+filename, "w") as outfile:
-      json.dump(jsonobject, outfile, indent=4, sort_keys=True)
+      json.dump(jsonobject, outfile, indent=4)
    subprocess.call("mkdir  ~/assets/public/images/" + folder, shell=True)
 
 
@@ -51,3 +71,4 @@ while True:
    newstory = input("story title: " )
    letter = newstory[0:1].upper()
    addStory(newstory.capitalize(), letter)
+   updateIndexHtml("added a new story - " + newstory) 
