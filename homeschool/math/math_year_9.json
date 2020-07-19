@@ -1,0 +1,1567 @@
+[
+    {
+        "title": "Number theory",
+        "letter": "A",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Factors",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Divisibility rules",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Prime or composite",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Prime factorisation",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Highest common factor",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Least common multiple",
+                "resource": "url"
+            },
+            {
+                "number": 7,
+                "title": "HCF and LCM: word problems",
+                "resource": "url"
+            },
+            {
+                "number": 8,
+                "title": "Classify numbers",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Integers",
+        "letter": "B",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Integers on number lines",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Graph integers on horizontal and vertical number lines",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Absolute value and opposite integers",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Compare and order integers",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Integer inequalities with absolute values",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Operations with integers",
+        "letter": "C",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Integer addition and subtraction rules",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Add and subtract integers using counters",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Add and subtract integers",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Add and subtract three or more integers",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Add and subtract integers: word problems",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Integer multiplication and division rules",
+                "resource": "url"
+            },
+            {
+                "number": 7,
+                "title": "Multiply and divide integers",
+                "resource": "url"
+            },
+            {
+                "number": 8,
+                "title": "Evaluate numerical expressions involving integers",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Rational numbers",
+        "letter": "D",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Identify rational and irrational numbers",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Write fractions in lowest terms",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Least common denominator",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Round decimals and mixed numbers",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Absolute value of rational numbers",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Convert between decimals and fractions or mixed numbers",
+                "resource": "url"
+            },
+            {
+                "number": 7,
+                "title": "Compare rational numbers",
+                "resource": "url"
+            },
+            {
+                "number": 8,
+                "title": "Put rational numbers in order",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Operations with rational numbers",
+        "letter": "E",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Reciprocals and multiplicative inverses",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Add and subtract rational numbers",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Add and subtract rational numbers: word problems",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Apply addition and subtraction rules",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Multiply and divide rational numbers",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Multiply and divide rational numbers: word problems",
+                "resource": "url"
+            },
+            {
+                "number": 7,
+                "title": "Apply multiplication and division rules",
+                "resource": "url"
+            },
+            {
+                "number": 8,
+                "title": "Apply addition, subtraction, multiplication and division rules",
+                "resource": "url"
+            },
+            {
+                "number": 9,
+                "title": "Evaluate numerical expressions involving rational numbers",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Exponents and roots",
+        "letter": "F",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Understanding exponents",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Evaluate exponents",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Solve equations with variable exponents",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Exponents with negative bases",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Exponents with decimal and fractional bases",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Understanding negative exponents",
+                "resource": "url"
+            },
+            {
+                "number": 7,
+                "title": "Evaluate negative exponents",
+                "resource": "url"
+            },
+            {
+                "number": 8,
+                "title": "Multiplication with exponents",
+                "resource": "url"
+            },
+            {
+                "number": 9,
+                "title": "Division with exponents",
+                "resource": "url"
+            },
+            {
+                "number": 10,
+                "title": "Multiplication and division with exponents",
+                "resource": "url"
+            },
+            {
+                "number": 11,
+                "title": "Power rule",
+                "resource": "url"
+            },
+            {
+                "number": 12,
+                "title": "Evaluate expressions using properties of exponents",
+                "resource": "url"
+            },
+            {
+                "number": 13,
+                "title": "Identify equivalent expressions involving exponents",
+                "resource": "url"
+            },
+            {
+                "number": 14,
+                "title": "Square roots of perfect squares",
+                "resource": "url"
+            },
+            {
+                "number": 15,
+                "title": "Positive and negative square roots",
+                "resource": "url"
+            },
+            {
+                "number": 16,
+                "title": "Estimate square roots",
+                "resource": "url"
+            },
+            {
+                "number": 17,
+                "title": "Relationship between squares and square roots",
+                "resource": "url"
+            },
+            {
+                "number": 18,
+                "title": "Solve equations involving squares and square roots",
+                "resource": "url"
+            },
+            {
+                "number": 19,
+                "title": "Cube roots of perfect cubes",
+                "resource": "url"
+            },
+            {
+                "number": 20,
+                "title": "Estimate cube roots",
+                "resource": "url"
+            },
+            {
+                "number": 21,
+                "title": "Solve equations involving cubes and cube roots",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Standard form",
+        "letter": "G",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Convert between ordinary numbers and standard form",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Compare numbers written in standard form",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Multiply numbers written in standard form",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Divide numbers written in standard form",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Ratios, rates and proportions",
+        "letter": "H",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Understanding ratios",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Identify equivalent ratios",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Write an equivalent ratio",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Equivalent ratios: word problems",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Unit rates",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Compare ratios: word problems",
+                "resource": "url"
+            },
+            {
+                "number": 7,
+                "title": "Solve proportions: word problems",
+                "resource": "url"
+            },
+            {
+                "number": 8,
+                "title": "Do the ratios form a proportion?",
+                "resource": "url"
+            },
+            {
+                "number": 9,
+                "title": "Do the ratios form a proportion: word problems",
+                "resource": "url"
+            },
+            {
+                "number": 10,
+                "title": "Solve proportions",
+                "resource": "url"
+            },
+            {
+                "number": 11,
+                "title": "Estimate population size using proportions",
+                "resource": "url"
+            },
+            {
+                "number": 12,
+                "title": "Scale drawings: word problems",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Proportional relationships",
+        "letter": "I",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Find the constant of proportionality from a table",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Write equations for proportional relationships from tables",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Identify proportional relationships by graphing",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Find the constant of proportionality from a graph",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Write equations for proportional relationships from graphs",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Identify proportional relationships",
+                "resource": "url"
+            },
+            {
+                "number": 7,
+                "title": "Graph proportional relationships",
+                "resource": "url"
+            },
+            {
+                "number": 8,
+                "title": "Interpret graphs of proportional relationships",
+                "resource": "url"
+            },
+            {
+                "number": 9,
+                "title": "Write and solve equations for proportional relationships",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Percents",
+        "letter": "J",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Convert between percents, fractions and decimals",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Compare percents to fractions and decimals",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Find what percent one number is of another",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Find what percent one number is of another: word problems",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Estimate percents of numbers",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Percents of numbers and money amounts",
+                "resource": "url"
+            },
+            {
+                "number": 7,
+                "title": "Percents of numbers: word problems",
+                "resource": "url"
+            },
+            {
+                "number": 8,
+                "title": "Compare percents of numbers",
+                "resource": "url"
+            },
+            {
+                "number": 9,
+                "title": "Solve percent equations",
+                "resource": "url"
+            },
+            {
+                "number": 10,
+                "title": "Percent of change",
+                "resource": "url"
+            },
+            {
+                "number": 11,
+                "title": "Percent of change: word problems",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Consumer maths",
+        "letter": "K",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Price lists",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Unit prices",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Unit prices: find the total price",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Percent of a number: GST, discount and more",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Find the percent: discount and mark-up",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Sale prices: find the original price",
+                "resource": "url"
+            },
+            {
+                "number": 7,
+                "title": "Multi-step problems with percents",
+                "resource": "url"
+            },
+            {
+                "number": 8,
+                "title": "Simple interest",
+                "resource": "url"
+            },
+            {
+                "number": 9,
+                "title": "Compound interest",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Units of measurement",
+        "letter": "L",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Convert rates and measurements: metric units",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Metric mixed units",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Convert between square metres and hectares",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Convert square and cubic units of length",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Convert between cubic metres and litres",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Precision",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Problem solving",
+        "letter": "M",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Multi-step word problems",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Guess-and-check word problems",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Use Venn diagrams to solve problems",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Elapsed time word problems",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Coordinate plane",
+        "letter": "N",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Coordinate plane review",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Quadrants and axes",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Follow directions on a coordinate plane",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Find the distance between two points",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Two-dimensional figures",
+        "letter": "O",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Identify and classify polygons",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Classify triangles",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Identify trapeziums",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Classify quadrilaterals",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Graph triangles and quadrilaterals",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Find missing angles in triangles and quadrilaterals",
+                "resource": "url"
+            },
+            {
+                "number": 7,
+                "title": "Interior angles of polygons",
+                "resource": "url"
+            },
+            {
+                "number": 8,
+                "title": "Identify complementary, supplementary, vertical, adjacent and congruent angles",
+                "resource": "url"
+            },
+            {
+                "number": 9,
+                "title": "Find measures of complementary, supplementary, vertical and adjacent angles",
+                "resource": "url"
+            },
+            {
+                "number": 10,
+                "title": "Transversal of parallel lines",
+                "resource": "url"
+            },
+            {
+                "number": 11,
+                "title": "Find lengths and measures of bisected line segments and angles",
+                "resource": "url"
+            },
+            {
+                "number": 12,
+                "title": "Parts of a circle",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Transformations and congruence",
+        "letter": "P",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Symmetry",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Identify reflections, rotations and translations",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Translations: graph the image",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Translations: find the coordinates",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Reflections: graph the image",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Reflections: find the coordinates",
+                "resource": "url"
+            },
+            {
+                "number": 7,
+                "title": "Rotations: graph the image",
+                "resource": "url"
+            },
+            {
+                "number": 8,
+                "title": "Rotations: find the coordinates",
+                "resource": "url"
+            },
+            {
+                "number": 9,
+                "title": "Side lengths and angle measures of congruent figures",
+                "resource": "url"
+            },
+            {
+                "number": 10,
+                "title": "Congruence statements and corresponding parts",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Transformations and similarity",
+        "letter": "Q",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Similar and congruent figures",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Dilations: graph the image",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Dilations: find the coordinates",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Dilations: scale factor and classification",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Side lengths and angle measures of similar figures",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Pythagoras' theorem",
+        "letter": "R",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Pythagoras' theorem: find the length of the hypotenuse",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Pythagoras' theorem: find the missing leg length",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Pythagoras' theorem: find the perimeter",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Pythagoras' theorem: word problems",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Converse of Pythagoras' theorem: is it a right triangle?",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Three-dimensional figures",
+        "letter": "S",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Parts of three-dimensional figures",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Nets of three-dimensional figures",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Front, side and top view",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Base plans",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Similar solids",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Geometric measurement",
+        "letter": "T",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Perimeter",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Area",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Area between two shapes",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Area and perimeter: word problems",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Circles, semicircles and quarter circles",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Circles: word problems",
+                "resource": "url"
+            },
+            {
+                "number": 7,
+                "title": "Volume of prisms and cylinders",
+                "resource": "url"
+            },
+            {
+                "number": 8,
+                "title": "Surface area of prisms",
+                "resource": "url"
+            },
+            {
+                "number": 9,
+                "title": "Surface area of cylinders",
+                "resource": "url"
+            },
+            {
+                "number": 10,
+                "title": "Volume of pyramids and cones",
+                "resource": "url"
+            },
+            {
+                "number": 11,
+                "title": "Surface area of pyramids",
+                "resource": "url"
+            },
+            {
+                "number": 12,
+                "title": "Surface area of cones",
+                "resource": "url"
+            },
+            {
+                "number": 13,
+                "title": "Volume and surface area of spheres",
+                "resource": "url"
+            },
+            {
+                "number": 14,
+                "title": "Volume and surface area of similar solids",
+                "resource": "url"
+            },
+            {
+                "number": 15,
+                "title": "Perimeter, area and volume: changes in scale",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Number sequences",
+        "letter": "U",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Identify arithmetic and geometric sequences",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Arithmetic sequences",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Geometric sequences",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Number sequences: mixed review",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Number sequences: word problems",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Evaluate variable expressions for number sequences",
+                "resource": "url"
+            },
+            {
+                "number": 7,
+                "title": "Write variable expressions for arithmetic sequences",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Expressions and properties",
+        "letter": "V",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Write variable expressions",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Write variable expressions from diagrams",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Write variable expressions: word problems",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Evaluate one-variable expressions",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Evaluate multi-variable expressions",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Evaluate absolute value expressions",
+                "resource": "url"
+            },
+            {
+                "number": 7,
+                "title": "Evaluate radical expressions",
+                "resource": "url"
+            },
+            {
+                "number": 8,
+                "title": "Evaluate rational expressions",
+                "resource": "url"
+            },
+            {
+                "number": 9,
+                "title": "Identify terms and coefficients",
+                "resource": "url"
+            },
+            {
+                "number": 10,
+                "title": "Sort factors of expressions",
+                "resource": "url"
+            },
+            {
+                "number": 11,
+                "title": "Properties of addition and multiplication",
+                "resource": "url"
+            },
+            {
+                "number": 12,
+                "title": "Multiply using the distributive property",
+                "resource": "url"
+            },
+            {
+                "number": 13,
+                "title": "Simplify variable expressions using properties",
+                "resource": "url"
+            },
+            {
+                "number": 14,
+                "title": "Add and subtract like terms",
+                "resource": "url"
+            },
+            {
+                "number": 15,
+                "title": "Add, subtract and multiply linear expressions",
+                "resource": "url"
+            },
+            {
+                "number": 16,
+                "title": "Factors of linear expressions",
+                "resource": "url"
+            },
+            {
+                "number": 17,
+                "title": "Identify equivalent linear expressions",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "One-variable equations",
+        "letter": "W",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Which x satisfies an equation?",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Write an equation from words",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Model and solve equations using algebra tiles",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Write and solve equations that represent diagrams",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Properties of equality",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Solve one-step equations",
+                "resource": "url"
+            },
+            {
+                "number": 7,
+                "title": "Solve two-step equations",
+                "resource": "url"
+            },
+            {
+                "number": 8,
+                "title": "Solve multi-step equations",
+                "resource": "url"
+            },
+            {
+                "number": 9,
+                "title": "Solve equations involving like terms",
+                "resource": "url"
+            },
+            {
+                "number": 10,
+                "title": "Solve equations: complete the solution",
+                "resource": "url"
+            },
+            {
+                "number": 11,
+                "title": "Solve equations: word problems",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "One-variable inequalities",
+        "letter": "X",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Solutions to inequalities",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Write inequalities from number lines",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Solve one-step inequalities",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Solve two-step linear inequalities",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Solve multi-step inequalities",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Linear functions",
+        "letter": "Y",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Identify functions",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Does (x, y) satisfy the linear function?",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Identify independent and dependent variables",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Rate of change",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Constant rate of change",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Evaluate a linear function",
+                "resource": "url"
+            },
+            {
+                "number": 7,
+                "title": "Complete a table for a linear function",
+                "resource": "url"
+            },
+            {
+                "number": 8,
+                "title": "Complete a table and graph a linear function",
+                "resource": "url"
+            },
+            {
+                "number": 9,
+                "title": "Interpret the graph of a linear function: word problems",
+                "resource": "url"
+            },
+            {
+                "number": 10,
+                "title": "Find the gradient of a graph",
+                "resource": "url"
+            },
+            {
+                "number": 11,
+                "title": "Find the gradient from two points",
+                "resource": "url"
+            },
+            {
+                "number": 12,
+                "title": "Find a missing coordinate using gradient",
+                "resource": "url"
+            },
+            {
+                "number": 13,
+                "title": "Find the gradient of an equation",
+                "resource": "url"
+            },
+            {
+                "number": 14,
+                "title": "Graph a line using gradient",
+                "resource": "url"
+            },
+            {
+                "number": 15,
+                "title": "Graph a line from an equation",
+                "resource": "url"
+            },
+            {
+                "number": 16,
+                "title": "Write a linear function from a table",
+                "resource": "url"
+            },
+            {
+                "number": 17,
+                "title": "Write linear functions: word problems",
+                "resource": "url"
+            },
+            {
+                "number": 18,
+                "title": "Compare linear functions: graphs, tables and equations",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Nonlinear functions",
+        "letter": "Z",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Identify linear and nonlinear functions",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Does (x, y) satisfy the nonlinear function?",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Evaluate a nonlinear function",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Find values using function graphs",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Complete a table for a function graph",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Monomials and polynomials",
+        "letter": "AA",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Identify monomials",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Model polynomials with algebra tiles",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Add and subtract polynomials using algebra tiles",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Add and subtract polynomials",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Add polynomials to find perimeter",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Multiply monomials",
+                "resource": "url"
+            },
+            {
+                "number": 7,
+                "title": "Divide monomials",
+                "resource": "url"
+            },
+            {
+                "number": 8,
+                "title": "Multiply and divide monomials",
+                "resource": "url"
+            },
+            {
+                "number": 9,
+                "title": "Powers of monomials",
+                "resource": "url"
+            },
+            {
+                "number": 10,
+                "title": "0 Square and cube roots of monomials",
+                "resource": "url"
+            },
+            {
+                "number": 11,
+                "title": "1 Multiply polynomials using algebra tiles",
+                "resource": "url"
+            },
+            {
+                "number": 12,
+                "title": "2 Multiply polynomials",
+                "resource": "url"
+            },
+            {
+                "number": 13,
+                "title": "3 Multiply polynomials to find area",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Data and graphs",
+        "letter": "BB",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Interpret tables",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Interpret bar graphs",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Create bar graphs",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Interpret line graphs",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Create line graphs",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Interpret line plots",
+                "resource": "url"
+            },
+            {
+                "number": 7,
+                "title": "Create line plots",
+                "resource": "url"
+            },
+            {
+                "number": 8,
+                "title": "Interpret stem-and-leaf plots",
+                "resource": "url"
+            },
+            {
+                "number": 9,
+                "title": "Create stem-and-leaf plots",
+                "resource": "url"
+            },
+            {
+                "number": 10,
+                "title": "0 Interpret histograms",
+                "resource": "url"
+            },
+            {
+                "number": 11,
+                "title": "1 Create histograms",
+                "resource": "url"
+            },
+            {
+                "number": 12,
+                "title": "2 Create frequency charts",
+                "resource": "url"
+            },
+            {
+                "number": 13,
+                "title": "3 Interpret box-and-whisker plots",
+                "resource": "url"
+            },
+            {
+                "number": 14,
+                "title": "4 Scatter plots",
+                "resource": "url"
+            },
+            {
+                "number": 15,
+                "title": "5 Interpret circle graphs",
+                "resource": "url"
+            },
+            {
+                "number": 16,
+                "title": "6 Circle graphs and central angles",
+                "resource": "url"
+            },
+            {
+                "number": 17,
+                "title": "7 Choose the best type of graph",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Statistics",
+        "letter": "CC",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Calculate mean, median, mode and range",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Interpret charts to find mean, median, mode and range",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Mean, median, mode and range: find the missing number",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Changes in mean, median, mode and range",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Quartiles",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Identify representative, random and biased samples",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Probability",
+        "letter": "DD",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Probability of simple events",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Probability of opposite, mutually exclusive and overlapping events",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Experimental probability",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Make predictions",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Compound events: find the number of outcomes",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Identify independent and dependent events",
+                "resource": "url"
+            },
+            {
+                "number": 7,
+                "title": "Probability of independent and dependent events",
+                "resource": "url"
+            },
+            {
+                "number": 8,
+                "title": "Counting principle",
+                "resource": "url"
+            }
+        ]
+    }
+]

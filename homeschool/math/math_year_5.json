@@ -1,0 +1,1126 @@
+[
+    {
+        "title": "Number sense",
+        "letter": "A",
+        "activities": [
+            {
+                "number": "1",
+                "title": "Place values",
+                "resource": "url"
+            },
+            {
+                "number": "2",
+                "title": "Convert between place values",
+                "resource": "url"
+            },
+            {
+                "number": "3",
+                "title": "Word names for numbers",
+                "resource": "url"
+            },
+            {
+                "number": "4",
+                "title": "Roman numerals",
+                "resource": "url"
+            },
+            {
+                "number": "5",
+                "title": "Prime and composite numbers",
+                "resource": "url"
+            },
+            {
+                "number": "6",
+                "title": "Rounding",
+                "resource": "url"
+            },
+            {
+                "number": "7",
+                "title": "Even or odd: arithmetic rules",
+                "resource": "url"
+            },
+            {
+                "number": "8",
+                "title": "Inequalities with number lines",
+                "resource": "url"
+            },
+            {
+                "number": "9",
+                "title": "Compare numbers up to five digits",
+                "resource": "url"
+            },
+            {
+                "number": "1",
+                "title": " Number sequences",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Addition",
+        "letter": "B",
+        "activities": [
+            {
+                "number": "1",
+                "title": "Add numbers up to five digits",
+                "resource": "url"
+            },
+            {
+                "number": "2",
+                "title": "Add numbers up to five digits: word problems",
+                "resource": "url"
+            },
+            {
+                "number": "3",
+                "title": "Addition: fill in the missing digits",
+                "resource": "url"
+            },
+            {
+                "number": "4",
+                "title": "Properties of addition",
+                "resource": "url"
+            },
+            {
+                "number": "5",
+                "title": "Input/output tables with addition",
+                "resource": "url"
+            },
+            {
+                "number": "6",
+                "title": "Add three or more numbers up to five digits each",
+                "resource": "url"
+            },
+            {
+                "number": "7",
+                "title": "Addition patterns over increasing place values",
+                "resource": "url"
+            },
+            {
+                "number": "8",
+                "title": "Choose numbers with a particular sum",
+                "resource": "url"
+            },
+            {
+                "number": "9",
+                "title": "Estimate sums",
+                "resource": "url"
+            },
+            {
+                "number": "1",
+                "title": " Estimate sums: word problems",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Subtraction",
+        "letter": "C",
+        "activities": [
+            {
+                "number": "1",
+                "title": "Subtract numbers up to five digits",
+                "resource": "url"
+            },
+            {
+                "number": "2",
+                "title": "Subtract numbers up to five digits: word problems",
+                "resource": "url"
+            },
+            {
+                "number": "3",
+                "title": "Subtraction: fill in the missing digits",
+                "resource": "url"
+            },
+            {
+                "number": "4",
+                "title": "Subtraction patterns over increasing place values",
+                "resource": "url"
+            },
+            {
+                "number": "5",
+                "title": "Input/output tables with subtraction",
+                "resource": "url"
+            },
+            {
+                "number": "6",
+                "title": "Choose numbers with a particular difference",
+                "resource": "url"
+            },
+            {
+                "number": "7",
+                "title": "Estimate differences",
+                "resource": "url"
+            },
+            {
+                "number": "8",
+                "title": "Estimate differences: word problems",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Multiplication",
+        "letter": "D",
+        "activities": [
+            {
+                "number": "1",
+                "title": "Multiplication facts to 10",
+                "resource": "url"
+            },
+            {
+                "number": "2",
+                "title": "Multiplication facts up to 10: find the missing factor",
+                "resource": "url"
+            },
+            {
+                "number": "3",
+                "title": "Compare numbers using multiplication",
+                "resource": "url"
+            },
+            {
+                "number": "4",
+                "title": "Choose the multiples of a given number up to 12",
+                "resource": "url"
+            },
+            {
+                "number": "5",
+                "title": "Multiply one-digit numbers by two-digit numbers",
+                "resource": "url"
+            },
+            {
+                "number": "6",
+                "title": "Multiply one-digit numbers by three-digit or four-digit numbers",
+                "resource": "url"
+            },
+            {
+                "number": "7",
+                "title": "Multiply one-digit numbers by larger numbers",
+                "resource": "url"
+            },
+            {
+                "number": "8",
+                "title": "Multiplication patterns over increasing place values",
+                "resource": "url"
+            },
+            {
+                "number": "9",
+                "title": "Properties of multiplication",
+                "resource": "url"
+            },
+            {
+                "number": "1",
+                "title": " Input/output tables with multiplication",
+                "resource": "url"
+            },
+            {
+                "number": "1",
+                "title": " Estimate products",
+                "resource": "url"
+            },
+            {
+                "number": "1",
+                "title": " Estimate products: word problems",
+                "resource": "url"
+            },
+            {
+                "number": "1",
+                "title": " Box multiplication",
+                "resource": "url"
+            },
+            {
+                "number": "1",
+                "title": " Lattice multiplication",
+                "resource": "url"
+            },
+            {
+                "number": "1",
+                "title": " Choose numbers with a particular product",
+                "resource": "url"
+            },
+            {
+                "number": "1",
+                "title": " Multiply numbers ending in zeroes",
+                "resource": "url"
+            },
+            {
+                "number": "1",
+                "title": " Multiply numbers ending in zeroes: word problems",
+                "resource": "url"
+            },
+            {
+                "number": "1",
+                "title": " Multiply three numbers",
+                "resource": "url"
+            },
+            {
+                "number": "1",
+                "title": " Inequalities with multiplication",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Division",
+        "letter": "E",
+        "activities": [
+            {
+                "number": "1",
+                "title": "Division facts to 10",
+                "resource": "url"
+            },
+            {
+                "number": "2",
+                "title": "Division facts to 10: word problems",
+                "resource": "url"
+            },
+            {
+                "number": "3",
+                "title": "Properties of division",
+                "resource": "url"
+            },
+            {
+                "number": "4",
+                "title": "Divide larger numbers",
+                "resource": "url"
+            },
+            {
+                "number": "5",
+                "title": "Divide larger numbers: word problems",
+                "resource": "url"
+            },
+            {
+                "number": "6",
+                "title": "Complete the division table",
+                "resource": "url"
+            },
+            {
+                "number": "7",
+                "title": "Interpret remainders",
+                "resource": "url"
+            },
+            {
+                "number": "8",
+                "title": "Input/output tables with division",
+                "resource": "url"
+            },
+            {
+                "number": "9",
+                "title": "Choose numbers with a particular quotient",
+                "resource": "url"
+            },
+            {
+                "number": "1",
+                "title": " Divide numbers ending in zeroes",
+                "resource": "url"
+            },
+            {
+                "number": "1",
+                "title": " Estimate quotients",
+                "resource": "url"
+            },
+            {
+                "number": "1",
+                "title": " Estimate quotients: word problems",
+                "resource": "url"
+            },
+            {
+                "number": "1",
+                "title": " Divisibility rules",
+                "resource": "url"
+            },
+            {
+                "number": "1",
+                "title": " Divisibility rules: word problems",
+                "resource": "url"
+            },
+            {
+                "number": "1",
+                "title": " Division patterns over increasing place values",
+                "resource": "url"
+            },
+            {
+                "number": "1",
+                "title": " Inequalities with division",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Mixed operations",
+        "letter": "F",
+        "activities": [
+            {
+                "number": "1",
+                "title": "Add, subtract, multiply and divide",
+                "resource": "url"
+            },
+            {
+                "number": "2",
+                "title": "Addition, subtraction, multiplication and division word problems",
+                "resource": "url"
+            },
+            {
+                "number": "3",
+                "title": "Estimate sums, differences, products and quotients: word problems",
+                "resource": "url"
+            },
+            {
+                "number": "4",
+                "title": "Multi-step word problems",
+                "resource": "url"
+            },
+            {
+                "number": "5",
+                "title": "Word problems with extra or missing information",
+                "resource": "url"
+            },
+            {
+                "number": "6",
+                "title": "Solve word problems using guess-and-check",
+                "resource": "url"
+            },
+            {
+                "number": "7",
+                "title": "Choose numbers with a particular sum, difference, product or quotient",
+                "resource": "url"
+            },
+            {
+                "number": "8",
+                "title": "Mentally add and subtract numbers ending in zeroes",
+                "resource": "url"
+            },
+            {
+                "number": "9",
+                "title": "Understanding parentheses",
+                "resource": "url"
+            },
+            {
+                "number": "1",
+                "title": " Inequalities involving addition, subtraction, multiplication and division",
+                "resource": "url"
+            },
+            {
+                "number": "1",
+                "title": " Input/output tables with addition, subtraction, multiplication and division",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Patterns and sequences",
+        "letter": "G",
+        "activities": [
+            {
+                "number": "1",
+                "title": "Find the next shape in a repeating pattern",
+                "resource": "url"
+            },
+            {
+                "number": "2",
+                "title": "Complete a repeating pattern",
+                "resource": "url"
+            },
+            {
+                "number": "3",
+                "title": "Make a repeating pattern",
+                "resource": "url"
+            },
+            {
+                "number": "4",
+                "title": "Find the next row in a growing pattern of shapes",
+                "resource": "url"
+            },
+            {
+                "number": "5",
+                "title": "Complete an increasing number pattern",
+                "resource": "url"
+            },
+            {
+                "number": "6",
+                "title": "Complete a geometric number pattern",
+                "resource": "url"
+            },
+            {
+                "number": "7",
+                "title": "Number patterns: word problems",
+                "resource": "url"
+            },
+            {
+                "number": "8",
+                "title": "Number patterns: mixed review",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Data and graphs",
+        "letter": "H",
+        "activities": [
+            {
+                "number": "1",
+                "title": "Read a table",
+                "resource": "url"
+            },
+            {
+                "number": "2",
+                "title": "Interpret line graphs",
+                "resource": "url"
+            },
+            {
+                "number": "3",
+                "title": "Create line graphs",
+                "resource": "url"
+            },
+            {
+                "number": "4",
+                "title": "Interpret bar graphs",
+                "resource": "url"
+            },
+            {
+                "number": "5",
+                "title": "Create bar graphs",
+                "resource": "url"
+            },
+            {
+                "number": "6",
+                "title": "Interpret line plots",
+                "resource": "url"
+            },
+            {
+                "number": "7",
+                "title": "Create line plots",
+                "resource": "url"
+            },
+            {
+                "number": "8",
+                "title": "Frequency charts",
+                "resource": "url"
+            },
+            {
+                "number": "9",
+                "title": "Interpret stem-and-leaf plots",
+                "resource": "url"
+            },
+            {
+                "number": "1",
+                "title": " Create stem-and-leaf plots",
+                "resource": "url"
+            },
+            {
+                "number": "1",
+                "title": " Circle graphs",
+                "resource": "url"
+            },
+            {
+                "number": "1",
+                "title": " Choose the best type of graph",
+                "resource": "url"
+            },
+            {
+                "number": "1",
+                "title": " Objects on a coordinate plane",
+                "resource": "url"
+            },
+            {
+                "number": "1",
+                "title": " Coordinate planes as maps",
+                "resource": "url"
+            },
+            {
+                "number": "1",
+                "title": " Follow directions on a coordinate plane",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Money",
+        "letter": "I",
+        "activities": [
+            {
+                "number": "1",
+                "title": "Compare money amounts",
+                "resource": "url"
+            },
+            {
+                "number": "2",
+                "title": "Round to the nearest ten cents",
+                "resource": "url"
+            },
+            {
+                "number": "3",
+                "title": "Round to the nearest ten cents: word problems",
+                "resource": "url"
+            },
+            {
+                "number": "4",
+                "title": "Round to the nearest dollar or more",
+                "resource": "url"
+            },
+            {
+                "number": "5",
+                "title": "Add and subtract money amounts",
+                "resource": "url"
+            },
+            {
+                "number": "6",
+                "title": "Making change",
+                "resource": "url"
+            },
+            {
+                "number": "7",
+                "title": "Price lists",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Units of measurement",
+        "letter": "J",
+        "activities": [
+            {
+                "number": "1",
+                "title": "Choose the appropriate metric unit of measure",
+                "resource": "url"
+            },
+            {
+                "number": "2",
+                "title": "Which metric unit of length is appropriate?",
+                "resource": "url"
+            },
+            {
+                "number": "3",
+                "title": "Compare and convert metric units of length",
+                "resource": "url"
+            },
+            {
+                "number": "4",
+                "title": "Which metric unit of mass is appropriate?",
+                "resource": "url"
+            },
+            {
+                "number": "5",
+                "title": "Compare and convert metric units of mass",
+                "resource": "url"
+            },
+            {
+                "number": "6",
+                "title": "Which metric unit of volume is appropriate?",
+                "resource": "url"
+            },
+            {
+                "number": "7",
+                "title": "Compare and convert metric units of volume",
+                "resource": "url"
+            },
+            {
+                "number": "8",
+                "title": "Metric mixed units",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Time",
+        "letter": "K",
+        "activities": [
+            {
+                "number": "1",
+                "title": "Convert time units",
+                "resource": "url"
+            },
+            {
+                "number": "2",
+                "title": "Add and subtract mixed time units",
+                "resource": "url"
+            },
+            {
+                "number": "3",
+                "title": "Fractions of time units",
+                "resource": "url"
+            },
+            {
+                "number": "4",
+                "title": "Elapsed time",
+                "resource": "url"
+            },
+            {
+                "number": "5",
+                "title": "Find start and end times: multi-step word problems",
+                "resource": "url"
+            },
+            {
+                "number": "6",
+                "title": "Transportation schedules",
+                "resource": "url"
+            },
+            {
+                "number": "7",
+                "title": "Time patterns",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Two-dimensional figures",
+        "letter": "L",
+        "activities": [
+            {
+                "number": "1",
+                "title": "Is it a polygon?",
+                "resource": "url"
+            },
+            {
+                "number": "2",
+                "title": "Number of sides in polygons",
+                "resource": "url"
+            },
+            {
+                "number": "3",
+                "title": "Which two-dimensional figure is being described?",
+                "resource": "url"
+            },
+            {
+                "number": "4",
+                "title": "Lines, intervals and rays",
+                "resource": "url"
+            },
+            {
+                "number": "5",
+                "title": "Parallel, perpendicular and intersecting lines",
+                "resource": "url"
+            },
+            {
+                "number": "6",
+                "title": "Angles greater than, less than or equal to a right angle",
+                "resource": "url"
+            },
+            {
+                "number": "7",
+                "title": "Acute, right, obtuse and straight angles",
+                "resource": "url"
+            },
+            {
+                "number": "8",
+                "title": "Types of triangles",
+                "resource": "url"
+            },
+            {
+                "number": "9",
+                "title": "Reflection, rotation and translation",
+                "resource": "url"
+            },
+            {
+                "number": "1",
+                "title": " Identify congruent figures",
+                "resource": "url"
+            },
+            {
+                "number": "1",
+                "title": " Identify lines of symmetry",
+                "resource": "url"
+            },
+            {
+                "number": "1",
+                "title": " Rotational symmetry",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Three-dimensional figures",
+        "letter": "M",
+        "activities": [
+            {
+                "number": "1",
+                "title": "Identify three-dimensional figures",
+                "resource": "url"
+            },
+            {
+                "number": "2",
+                "title": "Count vertices, edges and faces",
+                "resource": "url"
+            },
+            {
+                "number": "3",
+                "title": "Identify faces of three-dimensional figures",
+                "resource": "url"
+            },
+            {
+                "number": "4",
+                "title": "Which three-dimensional figure is being described?",
+                "resource": "url"
+            },
+            {
+                "number": "5",
+                "title": "Bases of three-dimensional figures",
+                "resource": "url"
+            },
+            {
+                "number": "6",
+                "title": "Nets of three-dimensional figures",
+                "resource": "url"
+            },
+            {
+                "number": "7",
+                "title": "Front, side and top view",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Geometric measurement",
+        "letter": "N",
+        "activities": [
+            {
+                "number": "1",
+                "title": "Perimeter",
+                "resource": "url"
+            },
+            {
+                "number": "2",
+                "title": "Perimeter: find the missing side lengths",
+                "resource": "url"
+            },
+            {
+                "number": "3",
+                "title": "Find the area of figures made of unit squares",
+                "resource": "url"
+            },
+            {
+                "number": "4",
+                "title": "Select figures with a given area",
+                "resource": "url"
+            },
+            {
+                "number": "5",
+                "title": "Select two figures with the same area",
+                "resource": "url"
+            },
+            {
+                "number": "6",
+                "title": "Create figures with a given area",
+                "resource": "url"
+            },
+            {
+                "number": "7",
+                "title": "Find the area or missing side length of a rectangle",
+                "resource": "url"
+            },
+            {
+                "number": "8",
+                "title": "Area and perimeter: word problems",
+                "resource": "url"
+            },
+            {
+                "number": "9",
+                "title": "Volume",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Logical reasoning",
+        "letter": "O",
+        "activities": [
+            {
+                "number": "1",
+                "title": "Find two numbers based on sum and difference",
+                "resource": "url"
+            },
+            {
+                "number": "2",
+                "title": "Find two numbers based on sum, difference, product and quotient",
+                "resource": "url"
+            },
+            {
+                "number": "3",
+                "title": "Find the order",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Fractions and mixed numbers",
+        "letter": "P",
+        "activities": [
+            {
+                "number": "1",
+                "title": "Fractions review",
+                "resource": "url"
+            },
+            {
+                "number": "2",
+                "title": "Fractions of a whole: word problems",
+                "resource": "url"
+            },
+            {
+                "number": "3",
+                "title": "Fractions of a group: word problems",
+                "resource": "url"
+            },
+            {
+                "number": "4",
+                "title": "Find equivalent fractions using area models",
+                "resource": "url"
+            },
+            {
+                "number": "5",
+                "title": "Graph equivalent fractions on number lines",
+                "resource": "url"
+            },
+            {
+                "number": "6",
+                "title": "Equivalent fractions",
+                "resource": "url"
+            },
+            {
+                "number": "7",
+                "title": "Patterns of equivalent fractions",
+                "resource": "url"
+            },
+            {
+                "number": "8",
+                "title": "Write fractions in lowest terms",
+                "resource": "url"
+            },
+            {
+                "number": "9",
+                "title": "Graph and compare fractions on number lines",
+                "resource": "url"
+            },
+            {
+                "number": "1",
+                "title": " Compare fractions",
+                "resource": "url"
+            },
+            {
+                "number": "1",
+                "title": " Order fractions with like numerators or denominators",
+                "resource": "url"
+            },
+            {
+                "number": "1",
+                "title": " Order fractions",
+                "resource": "url"
+            },
+            {
+                "number": "1",
+                "title": " Find smaller or larger fractions",
+                "resource": "url"
+            },
+            {
+                "number": "1",
+                "title": " Fractions of a number",
+                "resource": "url"
+            },
+            {
+                "number": "1",
+                "title": " Fractions of a number: word problems",
+                "resource": "url"
+            },
+            {
+                "number": "1",
+                "title": " Mixed numbers: what mixed number is shown?",
+                "resource": "url"
+            },
+            {
+                "number": "1",
+                "title": " Mixed numbers: write the mixed number in words",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Decimals",
+        "letter": "Q",
+        "activities": [
+            {
+                "number": "1",
+                "title": "What decimal number is illustrated?",
+                "resource": "url"
+            },
+            {
+                "number": "2",
+                "title": "Model decimals and fractions",
+                "resource": "url"
+            },
+            {
+                "number": "3",
+                "title": "Understanding decimals expressed in words",
+                "resource": "url"
+            },
+            {
+                "number": "4",
+                "title": "Place values in decimal numbers",
+                "resource": "url"
+            },
+            {
+                "number": "5",
+                "title": "Equivalent decimals",
+                "resource": "url"
+            },
+            {
+                "number": "6",
+                "title": "Graph decimals on number lines",
+                "resource": "url"
+            },
+            {
+                "number": "7",
+                "title": "Decimal number lines",
+                "resource": "url"
+            },
+            {
+                "number": "8",
+                "title": "Graph fractions as decimals on number lines",
+                "resource": "url"
+            },
+            {
+                "number": "9",
+                "title": "Convert fractions and mixed numbers to decimals",
+                "resource": "url"
+            },
+            {
+                "number": "1",
+                "title": " Convert decimals to fractions and mixed numbers",
+                "resource": "url"
+            },
+            {
+                "number": "1",
+                "title": " Compare decimals and fractions on number lines",
+                "resource": "url"
+            },
+            {
+                "number": "1",
+                "title": " Compare decimals and fractions",
+                "resource": "url"
+            },
+            {
+                "number": "1",
+                "title": " Round decimals",
+                "resource": "url"
+            },
+            {
+                "number": "1",
+                "title": " Compare decimals on number lines",
+                "resource": "url"
+            },
+            {
+                "number": "1",
+                "title": " Compare decimal numbers",
+                "resource": "url"
+            },
+            {
+                "number": "1",
+                "title": " Put decimal numbers in order I",
+                "resource": "url"
+            },
+            {
+                "number": "1",
+                "title": " Put decimal numbers in order II",
+                "resource": "url"
+            },
+            {
+                "number": "1",
+                "title": " Number sequences involving decimals",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Add and subtract decimals",
+        "letter": "R",
+        "activities": [
+            {
+                "number": "1",
+                "title": "Add decimal numbers",
+                "resource": "url"
+            },
+            {
+                "number": "2",
+                "title": "Subtract decimal numbers",
+                "resource": "url"
+            },
+            {
+                "number": "3",
+                "title": "Add and subtract decimals: word problems",
+                "resource": "url"
+            },
+            {
+                "number": "4",
+                "title": "Choose decimals with a particular sum or difference",
+                "resource": "url"
+            },
+            {
+                "number": "5",
+                "title": "Add three or more decimals",
+                "resource": "url"
+            },
+            {
+                "number": "6",
+                "title": "Add three or more decimals: word problems",
+                "resource": "url"
+            },
+            {
+                "number": "7",
+                "title": "Complete the addition or subtraction sentence",
+                "resource": "url"
+            },
+            {
+                "number": "8",
+                "title": "Inequalities with addition and subtraction",
+                "resource": "url"
+            },
+            {
+                "number": "9",
+                "title": "Estimate sums and differences of decimals",
+                "resource": "url"
+            },
+            {
+                "number": "1",
+                "title": " Solve decimal problems using diagrams",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Probability and statistics",
+        "letter": "S",
+        "activities": [
+            {
+                "number": "1",
+                "title": "More, less and equally likely",
+                "resource": "url"
+            },
+            {
+                "number": "2",
+                "title": "Certain, probable, unlikely and impossible",
+                "resource": "url"
+            },
+            {
+                "number": "3",
+                "title": "Find the probability",
+                "resource": "url"
+            },
+            {
+                "number": "4",
+                "title": "Make predictions",
+                "resource": "url"
+            },
+            {
+                "number": "5",
+                "title": "Mean and mode",
+                "resource": "url"
+            },
+            {
+                "number": "6",
+                "title": "Interpret charts to find mean and mode",
+                "resource": "url"
+            },
+            {
+                "number": "7",
+                "title": "Combinations",
+                "resource": "url"
+            }
+        ]
+    }
+]

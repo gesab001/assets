@@ -1,0 +1,123 @@
+{
+	"subjects": [{
+		"title": "Math",
+		"levels": [{
+				"level": 1,
+				"letters": [{
+					"letter": "A",
+					"title": "Numbers and counting up to 3",
+					"activities": [{
+						"number": 1,
+						"title": "Learn to count to 3",
+						"resource": "url"
+					}]
+				}]
+	    }]
+	},
+    {
+        "title": "English",
+		"levels": [{
+				"level": 1,
+				"letters": [{
+					"letter": "A",
+					"title": "Numbers and counting up to 3",
+					"activities": [{
+						"number": 1,
+						"title": "Learn to count to 3",
+						"resource": "url"
+					}]
+				}]
+	    }]
+	},
+    {
+        "title": "Bible",
+		"levels": [{
+				"level": 1,
+				"letters": [{
+					"letter": "A",
+					"title": "Numbers and counting up to 3",
+					"activities": [{
+						"number": 1,
+						"title": "Learn to count to 3",
+						"resource": "url"
+					}]
+				}]
+	    }]
+	},
+    {
+        "title": "Science",
+		"levels": [{
+				"level": 1,
+				"letters": [{
+					"letter": "A",
+					"title": "Numbers and counting up to 3",
+					"activities": [{
+						"number": 1,
+						"title": "Learn to count to 3",
+						"resource": "url"
+					}]
+				}]
+	    }]
+	},
+    {
+        "title": "Digital Technology",
+		"levels": [{
+				"level": 1,
+				"letters": [{
+					"letter": "A",
+					"title": "Numbers and counting up to 3",
+					"activities": [{
+						"number": 1,
+						"title": "Learn to count to 3",
+						"resource": "url"
+					}]
+				}]
+	    }]
+	},
+    {
+        "title": "Arts",
+		"levels": [{
+				"level": 1,
+				"letters": [{
+					"letter": "A",
+					"title": "Numbers and counting up to 3",
+					"activities": [{
+						"number": 1,
+						"title": "Learn to count to 3",
+						"resource": "url"
+					}]
+				}]
+	    }]
+	},
+    {
+        "title": "Social Science",
+		"levels": [{
+				"level": 1,
+				"letters": [{
+					"letter": "A",
+					"title": "Numbers and counting up to 3",
+					"activities": [{
+						"number": 1,
+						"title": "Learn to count to 3",
+						"resource": "url"
+					}]
+				}]
+	    }]
+	},
+    {
+        "title": "Physical Education",
+		"levels": [{
+				"level": 1,
+				"letters": [{
+					"letter": "A",
+					"title": "Numbers and counting up to 3",
+					"activities": [{
+						"number": 1,
+						"title": "Learn to count to 3",
+						"resource": "url"
+					}]
+				}]
+	    }]
+	}
+   ]
+}

@@ -1,0 +1,714 @@
+[
+    {
+        "title": "Sentence structure",
+        "letter": "A",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Is the sentence declarative, interrogative, imperative or exclamatory?",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Identify sentence fragments",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Identify run-on sentences",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Choose punctuation to avoid fragments and run-ons",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Is it a phrase or a clause?",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Identify prepositional phrases",
+                "resource": "url"
+            },
+            {
+                "number": 7,
+                "title": "Identify appositives and appositive phrases",
+                "resource": "url"
+            },
+            {
+                "number": 8,
+                "title": "Identify dependent and independent clauses",
+                "resource": "url"
+            },
+            {
+                "number": 9,
+                "title": "Is the sentence simple, compound, complex or compound-complex?",
+                "resource": "url"
+            },
+            {
+                "number": 10,
+                "title": "Combine sentences using relative clauses",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Nouns",
+        "letter": "B",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Form and use plurals: review",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Form and use plurals of compound nouns",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Identify and correct errors with plural and possessive nouns",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Identify and correct errors with compound and joint possession",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Pronouns",
+        "letter": "C",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Identify and correct errors with subject and object pronouns",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Subject and object pronouns review",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Pronouns after 'than' and 'as'",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Identify and correct pronoun errors with 'who'",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Use relative pronouns: who and whom",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Use relative pronouns: who, whom, whose, which and that",
+                "resource": "url"
+            },
+            {
+                "number": 7,
+                "title": "Identify vague pronoun references",
+                "resource": "url"
+            },
+            {
+                "number": 8,
+                "title": "Identify all of the possible antecedents",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Verbs and verbals",
+        "letter": "D",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Identify transitive and intransitive verbs",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Identify linking verbs, predicate adjectives and predicate nouns",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Identify and correct errors with subject-verb agreement",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Identify and correct errors with indefinite pronoun-verb agreement",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Identify and correct verb agreement with compound subjects",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Identify and correct inappropriate shifts in verb tense",
+                "resource": "url"
+            },
+            {
+                "number": 7,
+                "title": "Form the progressive verb tenses",
+                "resource": "url"
+            },
+            {
+                "number": 8,
+                "title": "Form the perfect verb tenses",
+                "resource": "url"
+            },
+            {
+                "number": 9,
+                "title": "Identify active and passive voice",
+                "resource": "url"
+            },
+            {
+                "number": 10,
+                "title": "Rewrite the sentence in active voice",
+                "resource": "url"
+            },
+            {
+                "number": 11,
+                "title": "Identify participles and what they modify",
+                "resource": "url"
+            },
+            {
+                "number": 12,
+                "title": "Identify gerunds and their functions",
+                "resource": "url"
+            },
+            {
+                "number": 13,
+                "title": "Identify infinitives and infinitive phrases",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Adjectives and adverbs",
+        "letter": "E",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Form and use comparative and superlative adjectives",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Good, better, best, bad, worse and worst",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Form and use comparative and superlative adverbs",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Well, better, best, badly, worse and worst",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Punctuation, capitalisation and formatting",
+        "letter": "F",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Commas with direct addresses, introductory words, interjections, interrupters and antithetical phrases",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Commas with compound and complex sentences",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Commas with coordinate adjectives",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "What does the punctuation suggest?",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Commas with nonrestrictive elements",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Use semicolons and commas to separate clauses",
+                "resource": "url"
+            },
+            {
+                "number": 7,
+                "title": "Use semicolons, colons and commas with lists",
+                "resource": "url"
+            },
+            {
+                "number": 8,
+                "title": "Semicolons, colons and commas review",
+                "resource": "url"
+            },
+            {
+                "number": 9,
+                "title": "Use dashes",
+                "resource": "url"
+            },
+            {
+                "number": 10,
+                "title": "Use hyphens in compound adjectives",
+                "resource": "url"
+            },
+            {
+                "number": 11,
+                "title": "Decide whether ellipses are used appropriately",
+                "resource": "url"
+            },
+            {
+                "number": 12,
+                "title": "Correct capitalisation errors",
+                "resource": "url"
+            },
+            {
+                "number": 13,
+                "title": "Capitalising titles",
+                "resource": "url"
+            },
+            {
+                "number": 14,
+                "title": "Formatting titles",
+                "resource": "url"
+            },
+            {
+                "number": 15,
+                "title": "Formatting and capitalising titles: review",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Prefixes and suffixes",
+        "letter": "G",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Word pattern analogies",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Word pattern sentences",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Words with pre-",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Words with re-",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Words with sub-",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Words with mis-",
+                "resource": "url"
+            },
+            {
+                "number": 7,
+                "title": "Words with un-, dis-, in-, im- and non-",
+                "resource": "url"
+            },
+            {
+                "number": 8,
+                "title": "Words with -ful",
+                "resource": "url"
+            },
+            {
+                "number": 9,
+                "title": "Words with -less",
+                "resource": "url"
+            },
+            {
+                "number": 10,
+                "title": "Words with -able and -ible",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Etymologies and foreign expressions",
+        "letter": "H",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Sort words by shared Greek or Latin roots",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Use Greek and Latin roots as clues to the meanings of words",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Use words as clues to the meanings of Greek and Latin roots",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Determine the meanings of Greek and Latin roots",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Determine the meanings of words with Greek and Latin roots",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Use etymologies to determine the meanings of words",
+                "resource": "url"
+            },
+            {
+                "number": 7,
+                "title": "Use context as a clue to the meanings of foreign expressions",
+                "resource": "url"
+            },
+            {
+                "number": 8,
+                "title": "Use the correct foreign expression",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Reference skills",
+        "letter": "I",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Use dictionary entries",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Use dictionary definitions",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Use thesaurus entries",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Word choice and usage",
+        "letter": "J",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Choose the word whose connotation and denotation best match the sentence",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Use words accurately and precisely",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Replace words using a thesaurus",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Use dictionary entries to determine correct usage",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Explore words with new or contested usages",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Analogies",
+                "resource": "url"
+            },
+            {
+                "number": 7,
+                "title": "Analogies: challenge",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Context clues",
+        "letter": "K",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Determine the meaning of words using synonyms in context",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Determine the meaning of words using antonyms in context",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Use context to identify the meaning of a word",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Writing clear and concise sentences",
+        "letter": "L",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Transitions with conjunctive adverbs",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Avoid double, illogical and unclear comparisons",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Use the correct pair of correlative conjunctions",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Identify sentences with parallel structure",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Use parallel structure",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Remove redundant words or phrases",
+                "resource": "url"
+            },
+            {
+                "number": 7,
+                "title": "Misplaced modifiers with pictures",
+                "resource": "url"
+            },
+            {
+                "number": 8,
+                "title": "Select the misplaced or dangling modifier",
+                "resource": "url"
+            },
+            {
+                "number": 9,
+                "title": "Are the modifiers used correctly?",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Common errors",
+        "letter": "M",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Use the correct homophone",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Identify and correct errors with homophones",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Use the correct frequently confused word",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Identify and correct errors with frequently confused words",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Identify and correct errors with frequently confused pronouns and contractions",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Correct errors with commonly misspelled words",
+                "resource": "url"
+            },
+            {
+                "number": 7,
+                "title": "Correct errors in everyday use",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Writing process",
+        "letter": "N",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Order topics from broadest to narrowest",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Organise information by main idea",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Choose the topic sentence that best captures the main idea",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Identify plagiarism",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Writing arguments",
+        "letter": "O",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Distinguish facts from opinions",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Choose the best evidence to support a claim",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Identify supporting evidence in a text",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Choose the most appropriate counterclaim for a given claim",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Choose the analysis that logically connects the evidence to the claim",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Author's purpose and tone",
+        "letter": "P",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Which text is most formal?",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Compare passages for tone",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Identify audience and purpose",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Identify appeals to ethos, pathos and logos in advertisements",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Use appeals to ethos, pathos and logos in persuasive writing",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Literary devices",
+        "letter": "Q",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Identify the narrative point of view",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Use personification",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Interpret the meaning of an allusion from its source",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Recall the source of an allusion",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Interpret figures of speech",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Classify figures of speech: euphemism, hyperbole, oxymoron, paradox",
+                "resource": "url"
+            },
+            {
+                "number": 7,
+                "title": "Classify figures of speech: review",
+                "resource": "url"
+            }
+        ]
+    }
+]

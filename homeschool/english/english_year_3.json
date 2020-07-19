@@ -1,0 +1,999 @@
+[
+    {
+        "title": "Rhyming",
+        "letter": "A",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Choose the picture that rhymes with the word",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Which word does not rhyme?",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Complete the rhyme",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Complete the poem with a word that rhymes",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Spell rhyming words to answer riddles",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Consonant blends and digraphs",
+        "letter": "B",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Complete the word with the correct initial consonant blend",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Complete the word with the correct final consonant blend",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Spell the word with a consonant blend",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Complete the word with the correct digraph: ch, sh, th",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Complete the word with the correct digraph: ph, qu, wh",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Spell the digraph word: ch, sh, th",
+                "resource": "url"
+            },
+            {
+                "number": 7,
+                "title": "Spell the digraph word: ph, qu, wh",
+                "resource": "url"
+            },
+            {
+                "number": 8,
+                "title": "Sort by initial consonant blend or digraph",
+                "resource": "url"
+            },
+            {
+                "number": 9,
+                "title": "Complete the word with a three-letter consonant blend",
+                "resource": "url"
+            },
+            {
+                "number": 10,
+                "title": "Complete the sentence with a three-letter consonant blend word",
+                "resource": "url"
+            },
+            {
+                "number": 11,
+                "title": "Complete the words with silent letters",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Short vowels",
+        "letter": "C",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Complete the word with the correct short vowel",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Spell the short a word",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Spell the short e word",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Spell the short i word",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Spell the short o word",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Spell the short u word",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Short and long vowels",
+        "letter": "D",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Sort short and long vowel words",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Match the short a and long a words to pictures",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Match the short e and long e words to pictures",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Choose the short i or long i word that matches the picture",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Choose the short o or long o word that matches the picture",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Choose the short u or long u word that matches the picture",
+                "resource": "url"
+            },
+            {
+                "number": 7,
+                "title": "Use spelling patterns to sort long and short vowel words",
+                "resource": "url"
+            },
+            {
+                "number": 8,
+                "title": "Is the syllable open or closed?",
+                "resource": "url"
+            },
+            {
+                "number": 9,
+                "title": "Spell words with open and closed syllables",
+                "resource": "url"
+            },
+            {
+                "number": 10,
+                "title": "Complete the sentence with the correct -ild, -ind, -old, -olt or -ost word",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Long vowels",
+        "letter": "E",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Choose the silent e word that matches the picture",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Complete the silent e words",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Spell the silent e word",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Choose the picture that matches the vowel digraph word",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Complete the vowel digraph words",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Complete the word with the correct vowel digraph",
+                "resource": "url"
+            },
+            {
+                "number": 7,
+                "title": "Choose the vowel digraph sentence that matches the picture",
+                "resource": "url"
+            },
+            {
+                "number": 8,
+                "title": "Choose the words with a given long vowel",
+                "resource": "url"
+            },
+            {
+                "number": 9,
+                "title": "Spell the long a word: silent e, ai, ay",
+                "resource": "url"
+            },
+            {
+                "number": 10,
+                "title": "Spell the long e word: ee, ea",
+                "resource": "url"
+            },
+            {
+                "number": 11,
+                "title": "Spell the long i word: silent e, ie, y",
+                "resource": "url"
+            },
+            {
+                "number": 12,
+                "title": "Spell the long o word: silent e, oa, ow",
+                "resource": "url"
+            },
+            {
+                "number": 13,
+                "title": "Spell the long u word: silent e, ue, oo, ew",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Diphthongs: oi, oy, ou, ow",
+        "letter": "F",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Choose the diphthong word that matches the picture",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Complete the word with the correct diphthong: oi, oy, ou, ow",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Choose the diphthong sentence that matches the picture",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Variant vowels",
+        "letter": "G",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Complete words with variant vowels",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Which word has a different vowel sound?",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Soft g and c",
+        "letter": "H",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Sort soft and hard g words and soft and hard c words",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Pick the soft g or soft c word that matches the picture",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Choose the soft g or soft c sentence that matches the picture",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Spell the soft g or soft c word",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Syllables",
+        "letter": "I",
+        "activities": [
+            {
+                "number": 1,
+                "title": "How many syllables does the word have?",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Sort by the number of syllables",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Put two syllables together to create a word",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Complete the two-syllable words",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Complete the sentence with a two-syllable word",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Complete the consonant-l-e words",
+                "resource": "url"
+            },
+            {
+                "number": 7,
+                "title": "Choose the correct spelling of the consonant-l-e word",
+                "resource": "url"
+            },
+            {
+                "number": 8,
+                "title": "Spell the consonant-l-e word",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Sight words",
+        "letter": "J",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Choose the sight word that you hear",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Complete the sentence with the correct sight word",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Spell the sight word",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Sentence structure",
+        "letter": "K",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Is the sentence a statement, question, command or exclamation?",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Identify the subject of a sentence",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Identify the predicate of a sentence",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Is it a complete sentence or a fragment?",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Is it a complete sentence or a run-on?",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Is it a complete sentence, a fragment or a run-on?",
+                "resource": "url"
+            },
+            {
+                "number": 7,
+                "title": "Unscramble the words to make a complete sentence",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Nouns",
+        "letter": "L",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Select the nouns",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Which word is a noun?",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Identify nouns",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Sort common and proper nouns",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Identify common and proper nouns",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Form regular plurals with -s and -es",
+                "resource": "url"
+            },
+            {
+                "number": 7,
+                "title": "Use regular plurals with -s and -es",
+                "resource": "url"
+            },
+            {
+                "number": 8,
+                "title": "Use singular and plural nouns",
+                "resource": "url"
+            },
+            {
+                "number": 9,
+                "title": "Is the noun singular or plural?",
+                "resource": "url"
+            },
+            {
+                "number": 10,
+                "title": "Form and use irregular plurals",
+                "resource": "url"
+            },
+            {
+                "number": 11,
+                "title": "Identify plurals, singular possessives and plural possessives",
+                "resource": "url"
+            },
+            {
+                "number": 12,
+                "title": "Form the singular or plural possessive",
+                "resource": "url"
+            },
+            {
+                "number": 13,
+                "title": "Identify and correct errors with plural and possessive nouns",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Pronouns",
+        "letter": "M",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Identify personal pronouns",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Choose between subject and object personal pronouns",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Replace the singular noun with a personal pronoun",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Replace the plural noun with a personal pronoun",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Compound subjects and objects with \"I\" and \"me\"",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Choose the correct personal pronoun",
+                "resource": "url"
+            },
+            {
+                "number": 7,
+                "title": "Identify possessive pronouns",
+                "resource": "url"
+            },
+            {
+                "number": 8,
+                "title": "Use possessive pronouns",
+                "resource": "url"
+            },
+            {
+                "number": 9,
+                "title": "Choose between personal and reflexive pronouns",
+                "resource": "url"
+            },
+            {
+                "number": 10,
+                "title": "Use reflexive pronouns",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Verbs",
+        "letter": "N",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Use action verbs",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Identify action verbs",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Identify helping verbs",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "One or more than one?",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Use the correct subject or verb",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Pronoun-verb agreement",
+                "resource": "url"
+            },
+            {
+                "number": 7,
+                "title": "Which sentence is in the regular past tense?",
+                "resource": "url"
+            },
+            {
+                "number": 8,
+                "title": "Identify verbs in the regular past tense",
+                "resource": "url"
+            },
+            {
+                "number": 9,
+                "title": "Form and use the regular past tense",
+                "resource": "url"
+            },
+            {
+                "number": 10,
+                "title": "Change the sentence to future tense",
+                "resource": "url"
+            },
+            {
+                "number": 11,
+                "title": "Identify the irregular past tense I",
+                "resource": "url"
+            },
+            {
+                "number": 12,
+                "title": "Identify the irregular past tense II",
+                "resource": "url"
+            },
+            {
+                "number": 13,
+                "title": "Form and use the irregular past tense: set 1",
+                "resource": "url"
+            },
+            {
+                "number": 14,
+                "title": "Form and use the irregular past tense: set 2",
+                "resource": "url"
+            },
+            {
+                "number": 15,
+                "title": "Form and use the irregular past tense: set 3",
+                "resource": "url"
+            },
+            {
+                "number": 16,
+                "title": "Form and use the irregular past tense: set 4",
+                "resource": "url"
+            },
+            {
+                "number": 17,
+                "title": "Complete the word with the ending that you hear",
+                "resource": "url"
+            },
+            {
+                "number": 18,
+                "title": "Match the -ed and -ing sentences to the pictures",
+                "resource": "url"
+            },
+            {
+                "number": 19,
+                "title": "To be: use the correct present tense form",
+                "resource": "url"
+            },
+            {
+                "number": 20,
+                "title": "To be: use the correct past tense form",
+                "resource": "url"
+            },
+            {
+                "number": 21,
+                "title": "To be: use the correct form",
+                "resource": "url"
+            },
+            {
+                "number": 22,
+                "title": "To have: use the correct form",
+                "resource": "url"
+            },
+            {
+                "number": 23,
+                "title": "Place sentences with irregular verbs on a timeline",
+                "resource": "url"
+            },
+            {
+                "number": 24,
+                "title": "Is the sentence in the past, present or future tense?",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Articles",
+        "letter": "O",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Use the correct article: a or an",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Identify articles",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Adjectives and adverbs",
+        "letter": "P",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Use sense words",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Does the adjective tell you what kind or how many?",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Identify the adjective that describes the noun",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Identify adjectives",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Identify comparative and superlative adjectives",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Does the adverb tell you how, when or where?",
+                "resource": "url"
+            },
+            {
+                "number": 7,
+                "title": "Identify adverbs",
+                "resource": "url"
+            },
+            {
+                "number": 8,
+                "title": "Choose between adjectives and adverbs",
+                "resource": "url"
+            },
+            {
+                "number": 9,
+                "title": "Is the word an adjective or adverb?",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Prepositions",
+        "letter": "Q",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Select the best preposition to match the picture",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Select the best preposition to complete the sentence",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Transitions and sequence",
+        "letter": "R",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Use conjunctions",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Identify time-order words",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Put the sentences in order",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Contractions",
+        "letter": "S",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Form pronoun-verb contractions",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Form contractions with \"not\"",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Use pronoun-verb contractions",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Use contractions with \"not\"",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Use contractions in a sentence",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Capitalisation and formatting",
+        "letter": "T",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Capitalising the names of people and pets",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Capitalising days, months and holidays",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Capitalising the names of places and geographic features",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Greetings and closings of letters",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Capitalising titles",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Reference skills",
+        "letter": "U",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Order alphabetically based on the first letter",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Order alphabetically based on the first two letters",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Order alphabetically based on the first three letters",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Use guide words",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Use dictionary entries",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Word meanings",
+        "letter": "V",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Use context to identify the meaning of a word",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Choose the synonym",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Which sentence has the same meaning?",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Find synonyms in context",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Choose the antonym",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Which sentence uses an antonym?",
+                "resource": "url"
+            },
+            {
+                "number": 7,
+                "title": "Find antonyms in context",
+                "resource": "url"
+            },
+            {
+                "number": 8,
+                "title": "Sort words into categories",
+                "resource": "url"
+            },
+            {
+                "number": 9,
+                "title": "Find the words with related meanings",
+                "resource": "url"
+            },
+            {
+                "number": 10,
+                "title": "Which word is not like the others?",
+                "resource": "url"
+            },
+            {
+                "number": 11,
+                "title": "Describe the difference between related words",
+                "resource": "url"
+            },
+            {
+                "number": 12,
+                "title": "Order related words based on meaning",
+                "resource": "url"
+            },
+            {
+                "number": 13,
+                "title": "Form compound words",
+                "resource": "url"
+            },
+            {
+                "number": 14,
+                "title": "Form and use compound words",
+                "resource": "url"
+            },
+            {
+                "number": 15,
+                "title": "Multiple-meaning words with pictures",
+                "resource": "url"
+            },
+            {
+                "number": 16,
+                "title": "Homophones with pictures",
+                "resource": "url"
+            },
+            {
+                "number": 17,
+                "title": "Identify homophones",
+                "resource": "url"
+            },
+            {
+                "number": 18,
+                "title": "Use the correct homophone",
+                "resource": "url"
+            },
+            {
+                "number": 19,
+                "title": "Identify base words, prefixes and suffixes",
+                "resource": "url"
+            },
+            {
+                "number": 20,
+                "title": "Determine the meaning of a word with pre-, re- or mis-",
+                "resource": "url"
+            },
+            {
+                "number": 21,
+                "title": "Use the prefixes pre-, re- and mis-",
+                "resource": "url"
+            },
+            {
+                "number": 22,
+                "title": "Determine the meaning of a word with -ful or -less",
+                "resource": "url"
+            },
+            {
+                "number": 23,
+                "title": "Prefixes and suffixes: review",
+                "resource": "url"
+            }
+        ]
+    }
+]

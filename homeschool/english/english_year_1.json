@@ -1,0 +1,603 @@
+[
+    {
+        "title": "Text features",
+        "letter": "A",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Identify book parts and features",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Choose the sentence that is spaced correctly",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Choose the two words that are the same",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Alphabet",
+        "letter": "B",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Find letters in the alphabet",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Choose the letter that you hear: lowercase",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Choose the letter that you hear: uppercase",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Identify frequently confused letters",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Choose the lowercase letter that matches",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Find the lowercase letters",
+                "resource": "url"
+            },
+            {
+                "number": 7,
+                "title": "Choose the uppercase letter that matches",
+                "resource": "url"
+            },
+            {
+                "number": 8,
+                "title": "Find the uppercase letters",
+                "resource": "url"
+            },
+            {
+                "number": 9,
+                "title": "Put the letters in ABC order",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Consonants and vowels",
+        "letter": "C",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Sort consonants and vowels",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Find the vowel in the word",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Syllables",
+        "letter": "D",
+        "activities": [
+            {
+                "number": 1,
+                "title": "How many syllables does the word have?",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Which word has more syllables?",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Sort by the number of syllables",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Rhyming",
+        "letter": "E",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Choose the words that have a given ending",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Choose the picture that rhymes with the word",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Which word does not rhyme?",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Complete the rhyme",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Blending and segmenting",
+        "letter": "F",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Blend the sounds together to make a word",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Identify the first, second and last sound in a word",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Put the sounds in order",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Consonant sounds and letters",
+        "letter": "G",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Which two words start with the same sound?",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Find all the words that start with a given sound",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Which two words end with the same sound?",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Choose the letter that matches the consonant sound",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Which letter does the word start with?",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Which letter does the word end with?",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Consonant blends and digraphs",
+        "letter": "H",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Which consonant blend does the word start with?",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Complete the word with the right initial consonant blend",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Does the word start with a consonant blend?",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Which consonant blend does the word end with?",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Complete the word with the right final consonant blend",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Does the word end with a consonant blend?",
+                "resource": "url"
+            },
+            {
+                "number": 7,
+                "title": "Choose the word that matches the picture: -ss, -ll, -ff, -zz, -ck",
+                "resource": "url"
+            },
+            {
+                "number": 8,
+                "title": "Choose the correct digraph",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Short vowels",
+        "letter": "I",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Find the short a word",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Choose the short a word that matches the picture",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Complete the short a word",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Choose the short a sentence that matches the picture",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Find the short e word",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Choose the picture that matches the short e word",
+                "resource": "url"
+            },
+            {
+                "number": 7,
+                "title": "Complete the short e word",
+                "resource": "url"
+            },
+            {
+                "number": 8,
+                "title": "Choose the short e sentence that matches the picture",
+                "resource": "url"
+            },
+            {
+                "number": 9,
+                "title": "Find the short i word",
+                "resource": "url"
+            },
+            {
+                "number": 10,
+                "title": "Choose the short i word that matches the picture",
+                "resource": "url"
+            },
+            {
+                "number": 11,
+                "title": "Complete the short i words",
+                "resource": "url"
+            },
+            {
+                "number": 12,
+                "title": "Choose the short i sentence that matches the picture",
+                "resource": "url"
+            },
+            {
+                "number": 13,
+                "title": "Find the short o word",
+                "resource": "url"
+            },
+            {
+                "number": 14,
+                "title": "Choose the short o word that matches the picture",
+                "resource": "url"
+            },
+            {
+                "number": 15,
+                "title": "Complete the short o word",
+                "resource": "url"
+            },
+            {
+                "number": 16,
+                "title": "Choose the short o sentence that matches the picture",
+                "resource": "url"
+            },
+            {
+                "number": 17,
+                "title": "Find the short u word",
+                "resource": "url"
+            },
+            {
+                "number": 18,
+                "title": "Choose the picture that matches the short u word",
+                "resource": "url"
+            },
+            {
+                "number": 19,
+                "title": "Complete the short u word",
+                "resource": "url"
+            },
+            {
+                "number": 20,
+                "title": "Choose the short u sentence that matches the picture",
+                "resource": "url"
+            },
+            {
+                "number": 21,
+                "title": "Identify the short vowel sound in a word",
+                "resource": "url"
+            },
+            {
+                "number": 22,
+                "title": "Complete the word with the right short vowel",
+                "resource": "url"
+            },
+            {
+                "number": 23,
+                "title": "Spell the short vowel word",
+                "resource": "url"
+            },
+            {
+                "number": 24,
+                "title": "Complete the sentence with the correct short vowel word",
+                "resource": "url"
+            },
+            {
+                "number": 25,
+                "title": "Read questions with short vowel words",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Long vowels",
+        "letter": "J",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Choose the word that has a different vowel sound",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Find the long a word",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Find the long e word",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Find the long i word",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Find the long o word",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Find the long u word",
+                "resource": "url"
+            },
+            {
+                "number": 7,
+                "title": "Sort short and long vowel words",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Sight words",
+        "letter": "K",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Find a word in a sentence",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Choose the two sight words that are the same",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Choose the sight word that you hear",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Complete the sentence with the correct sight word",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Spell the sight word",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Sentences",
+        "letter": "L",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Is it a telling sentence or an asking sentence?",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Who, what, when, where or why?",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Identify and use end marks",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Find the complete sentence",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Parts of speech",
+        "letter": "M",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Is the noun a person, animal, place or thing?",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Choose the singular or plural noun that matches the picture",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Find the picture that matches the action verb",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Find the action verb",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Complete the sentence with an action verb to match the picture",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Compare pictures using adjectives",
+                "resource": "url"
+            },
+            {
+                "number": 7,
+                "title": "Use number words: one to ten",
+                "resource": "url"
+            },
+            {
+                "number": 8,
+                "title": "Use colour words",
+                "resource": "url"
+            },
+            {
+                "number": 9,
+                "title": "Inside and outside, above and below, next to and beside",
+                "resource": "url"
+            },
+            {
+                "number": 10,
+                "title": "Choose the best location word to match the picture",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Capitalisation",
+        "letter": "N",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Capitalise the first letter of a sentence",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Capitalise the pronoun \"I\"",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Word relationships",
+        "letter": "O",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Match antonyms to pictures",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Match synonyms",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Sort objects into categories",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Which one is not like the others?",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Multiple-meaning words with pictures",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Literacy skills",
+        "letter": "P",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Which could happen in real life?",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Which feeling matches the picture?",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "What is the picture about?",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "What will happen next?",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "What am I?",
+                "resource": "url"
+            }
+        ]
+    }
+]

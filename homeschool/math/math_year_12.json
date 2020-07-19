@@ -1,0 +1,1613 @@
+[
+    {
+        "title": "Measurement",
+        "letter": "A",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Convert rates and measurements",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Precision",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Greatest possible error",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Minimum and maximum area and volume",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Percent error",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Percent error: area and volume",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Coordinate geometry",
+        "letter": "B",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Coordinate plane review",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Midpoints",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Distance between two points",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Dilations and parallel lines",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Equations and inequalities",
+        "letter": "C",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Solve linear equations",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Solve linear equations: word problems",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Graph a linear inequality in one variable",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Graph a linear inequality in the coordinate plane",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Write inequalities from graphs",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Write a linear inequality: word problems",
+                "resource": "url"
+            },
+            {
+                "number": 7,
+                "title": "Solve linear inequalities",
+                "resource": "url"
+            },
+            {
+                "number": 8,
+                "title": "Graph solutions to linear inequalities",
+                "resource": "url"
+            },
+            {
+                "number": 9,
+                "title": "Graph solutions to quadratic inequalities",
+                "resource": "url"
+            },
+            {
+                "number": 10,
+                "title": "Solve quadratic inequalities",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Functions",
+        "letter": "D",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Domain and range",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Identify functions",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Evaluate functions",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Find values using function graphs",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Complete a table for a function graph",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Find the gradient of a linear function",
+                "resource": "url"
+            },
+            {
+                "number": 7,
+                "title": "Graph a linear function",
+                "resource": "url"
+            },
+            {
+                "number": 8,
+                "title": "Write the equation of a linear function",
+                "resource": "url"
+            },
+            {
+                "number": 9,
+                "title": "Linear functions over unit intervals",
+                "resource": "url"
+            },
+            {
+                "number": 10,
+                "title": "Identify linear, quadratic and exponential functions from graphs",
+                "resource": "url"
+            },
+            {
+                "number": 11,
+                "title": "Identify linear, quadratic and exponential functions from tables",
+                "resource": "url"
+            },
+            {
+                "number": 12,
+                "title": "Write linear, quadratic and exponential functions",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Simultaneous equations",
+        "letter": "E",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Is (x, y) a solution to the simultaneous equations?",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Solve simultaneous equations by graphing",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Solve simultaneous equations by graphing: word problems",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Find the number of solutions to simultaneous equations",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Classify simultaneous equations",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Solve simultaneous equations using substitution",
+                "resource": "url"
+            },
+            {
+                "number": 7,
+                "title": "Solve simultaneous equations using substitution: word problems",
+                "resource": "url"
+            },
+            {
+                "number": 8,
+                "title": "Solve simultaneous equations using elimination",
+                "resource": "url"
+            },
+            {
+                "number": 9,
+                "title": "Solve simultaneous equations using elimination: word problems",
+                "resource": "url"
+            },
+            {
+                "number": 10,
+                "title": "Solve simultaneous equations using any method",
+                "resource": "url"
+            },
+            {
+                "number": 11,
+                "title": "Solve simultaneous equations using any method: word problems",
+                "resource": "url"
+            },
+            {
+                "number": 12,
+                "title": "Solve simultaneous equations in three variables using substitution",
+                "resource": "url"
+            },
+            {
+                "number": 13,
+                "title": "Solve simultaneous equations in three variables using elimination",
+                "resource": "url"
+            },
+            {
+                "number": 14,
+                "title": "Determine the number of solutions to a system of equations in three variables",
+                "resource": "url"
+            },
+            {
+                "number": 15,
+                "title": "Solve non-linear simultaneous equations",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Inequalities and linear programming",
+        "letter": "F",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Is (x, y) a solution to the system of inequalities?",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Solve systems of inequalities by graphing",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Find the vertices of a solution set",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Linear programming",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Complex numbers",
+        "letter": "G",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Introduction to complex numbers",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Add and subtract complex numbers",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Complex conjugates",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Multiply complex numbers",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Divide complex numbers",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Add, subtract, multiply and divide complex numbers",
+                "resource": "url"
+            },
+            {
+                "number": 7,
+                "title": "Absolute values of complex numbers",
+                "resource": "url"
+            },
+            {
+                "number": 8,
+                "title": "Powers of i",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Factorising",
+        "letter": "H",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Factorise out a monomial",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Factorise quadratics",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Factorise quadratics using algebra tiles",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Factorise using a quadratic pattern",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Factorise by grouping",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Factorise sums and differences of cubes",
+                "resource": "url"
+            },
+            {
+                "number": 7,
+                "title": "Factorise polynomials",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Quadratic functions",
+        "letter": "I",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Characteristics of quadratic functions",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Complete a function table: quadratic functions",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Find a quadratic function",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Graph a quadratic function",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Match quadratic functions and graphs",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Solve a quadratic equation using square roots",
+                "resource": "url"
+            },
+            {
+                "number": 7,
+                "title": "Solve a quadratic equation using the zero product property",
+                "resource": "url"
+            },
+            {
+                "number": 8,
+                "title": "Solve a quadratic equation by factorising",
+                "resource": "url"
+            },
+            {
+                "number": 9,
+                "title": "Complete the square",
+                "resource": "url"
+            },
+            {
+                "number": 10,
+                "title": "Solve a quadratic equation using the quadratic formula",
+                "resource": "url"
+            },
+            {
+                "number": 11,
+                "title": "Using the discriminant",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Polynomials",
+        "letter": "J",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Polynomial vocabulary",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Add and subtract polynomials",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Multiply polynomials",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Divide polynomials using long division",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Write a polynomial from its roots",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Find the roots of factorised polynomials",
+                "resource": "url"
+            },
+            {
+                "number": 7,
+                "title": "Complex conjugate theorem",
+                "resource": "url"
+            },
+            {
+                "number": 8,
+                "title": "Conjugate root theorems",
+                "resource": "url"
+            },
+            {
+                "number": 9,
+                "title": "Descartes' Rule of Signs",
+                "resource": "url"
+            },
+            {
+                "number": 10,
+                "title": "Fundamental Theorem of Algebra",
+                "resource": "url"
+            },
+            {
+                "number": 11,
+                "title": "Match polynomials and graphs",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Radical functions and expressions",
+        "letter": "K",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Roots of integers",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Roots of rational numbers",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Find roots using a calculator",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Nth roots",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Simplify radical expressions with variables I",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Simplify radical expressions with variables II",
+                "resource": "url"
+            },
+            {
+                "number": 7,
+                "title": "Multiply radical expressions",
+                "resource": "url"
+            },
+            {
+                "number": 8,
+                "title": "Divide radical expressions",
+                "resource": "url"
+            },
+            {
+                "number": 9,
+                "title": "Add and subtract radical expressions",
+                "resource": "url"
+            },
+            {
+                "number": 10,
+                "title": "Simplify radical expressions using the distributive property",
+                "resource": "url"
+            },
+            {
+                "number": 11,
+                "title": "Simplify radical expressions using conjugates",
+                "resource": "url"
+            },
+            {
+                "number": 12,
+                "title": "Domain and range of radical functions",
+                "resource": "url"
+            },
+            {
+                "number": 13,
+                "title": "Solve radical equations",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Rational exponents",
+        "letter": "L",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Evaluate rational exponents",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Multiplication with rational exponents",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Division with rational exponents",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Power rule",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Simplify expressions involving rational exponents I",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Simplify expressions involving rational exponents II",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Rational functions and expressions",
+        "letter": "M",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Rational functions: asymptotes and excluded values",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Evaluate rational expressions I",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Evaluate rational expressions II",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Simplify rational expressions",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Multiply and divide rational expressions",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Add and subtract rational expressions",
+                "resource": "url"
+            },
+            {
+                "number": 7,
+                "title": "Solve rational equations",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Function operations",
+        "letter": "N",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Add and subtract functions",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Multiply functions",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Divide functions",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Composition of linear functions: find a value",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Composition of linear functions: find an equation",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Composition of linear and quadratic functions: find a value",
+                "resource": "url"
+            },
+            {
+                "number": 7,
+                "title": "Composition of linear and quadratic functions: find an equation",
+                "resource": "url"
+            },
+            {
+                "number": 8,
+                "title": "Find values of inverse functions from tables",
+                "resource": "url"
+            },
+            {
+                "number": 9,
+                "title": "Find values of inverse functions from graphs",
+                "resource": "url"
+            },
+            {
+                "number": 10,
+                "title": "Find inverse functions and relations",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Families of functions",
+        "letter": "O",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Translations of functions",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Reflections of functions",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Dilations of functions",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Transformations of functions",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Logarithms",
+        "letter": "P",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Convert between exponential and logarithmic form: rational bases",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Convert between natural exponential and logarithmic form",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Convert between exponential and logarithmic form: all bases",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Evaluate logarithms",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Evaluate natural logarithms",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Change of base formula",
+                "resource": "url"
+            },
+            {
+                "number": 7,
+                "title": "Identify properties of logarithms",
+                "resource": "url"
+            },
+            {
+                "number": 8,
+                "title": "Product property of logarithms",
+                "resource": "url"
+            },
+            {
+                "number": 9,
+                "title": "Quotient property of logarithms",
+                "resource": "url"
+            },
+            {
+                "number": 10,
+                "title": "Power property of logarithms",
+                "resource": "url"
+            },
+            {
+                "number": 11,
+                "title": "Properties of logarithms: mixed review",
+                "resource": "url"
+            },
+            {
+                "number": 12,
+                "title": "Evaluate logarithms: mixed review",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Exponential and logarithmic functions",
+        "letter": "Q",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Domain and range of exponential and logarithmic functions",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Evaluate exponential functions",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Match exponential functions and graphs",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Solve exponential equations by factorising",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Solve exponential equations using common logarithms",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Solve exponential equations using natural logarithms",
+                "resource": "url"
+            },
+            {
+                "number": 7,
+                "title": "Solve logarithmic equations I",
+                "resource": "url"
+            },
+            {
+                "number": 8,
+                "title": "Solve logarithmic equations II",
+                "resource": "url"
+            },
+            {
+                "number": 9,
+                "title": "Identify linear and exponential functions",
+                "resource": "url"
+            },
+            {
+                "number": 10,
+                "title": "Exponential functions over unit intervals",
+                "resource": "url"
+            },
+            {
+                "number": 11,
+                "title": "Describe linear and exponential growth and decay",
+                "resource": "url"
+            },
+            {
+                "number": 12,
+                "title": "Exponential growth and decay: word problems",
+                "resource": "url"
+            },
+            {
+                "number": 13,
+                "title": "Compound interest: word problems",
+                "resource": "url"
+            },
+            {
+                "number": 14,
+                "title": "Continuously compounded interest: word problems",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Parabolas",
+        "letter": "R",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Identify the direction a parabola opens",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Find the vertex of a parabola",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Find the focus or directrix of a parabola",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Find the axis of symmetry of a parabola",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Write equations of parabolas in vertex form from graphs",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Write equations of parabolas in vertex form using properties",
+                "resource": "url"
+            },
+            {
+                "number": 7,
+                "title": "Convert equations of parabolas from general to vertex form",
+                "resource": "url"
+            },
+            {
+                "number": 8,
+                "title": "Find properties of a parabola from equations in general form",
+                "resource": "url"
+            },
+            {
+                "number": 9,
+                "title": "Graph parabolas",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Circles",
+        "letter": "S",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Find the centre of a circle",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Find the radius or diameter of a circle",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Write equations of circles in standard form from graphs",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Write equations of circles in standard form using properties",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Convert equations of circles from general to standard form",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Find properties of circles from equations in general form",
+                "resource": "url"
+            },
+            {
+                "number": 7,
+                "title": "Graph circles",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Ellipses",
+        "letter": "T",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Find the centre, vertices or co-vertices of an ellipse",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Find the length of the major or minor axes of an ellipse",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Find the foci of an ellipse",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Write equations of ellipses in standard form from graphs",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Write equations of ellipses in standard form using properties",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Convert equations of ellipses from general to standard form",
+                "resource": "url"
+            },
+            {
+                "number": 7,
+                "title": "Find properties of ellipses from equations in general form",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Hyperbolas",
+        "letter": "U",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Find the centre of a hyperbola",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Find the vertices of a hyperbola",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Find the length of the transverse or conjugate axes of a hyperbola",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Find the equations for the asymptotes of a hyperbola",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Find the foci of a hyperbola",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Write equations of hyperbolas in standard form from graphs",
+                "resource": "url"
+            },
+            {
+                "number": 7,
+                "title": "Write equations of hyperbolas in standard form using properties",
+                "resource": "url"
+            },
+            {
+                "number": 8,
+                "title": "Convert equations of hyperbolas from general to standard form",
+                "resource": "url"
+            },
+            {
+                "number": 9,
+                "title": "Find properties of hyperbolas from equations in general form",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Angle measures",
+        "letter": "V",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Convert between radians and degrees",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Radians and arc length",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Quadrants",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Graphs of angles",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Coterminal angles",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Reference angles",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Trigonometry",
+        "letter": "W",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Pythagoras' Theorem and its converse",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Special right triangles",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Trigonometric ratios: sin, cos and tan",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Trigonometric ratios: csc, sec and cot",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Trigonometric ratios in similar right triangles",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Find trigonometric ratios using the unit circle",
+                "resource": "url"
+            },
+            {
+                "number": 7,
+                "title": "Sin, cos and tan of special angles",
+                "resource": "url"
+            },
+            {
+                "number": 8,
+                "title": "Csc, sec and cot of special angles",
+                "resource": "url"
+            },
+            {
+                "number": 9,
+                "title": "Find trigonometric functions using a calculator",
+                "resource": "url"
+            },
+            {
+                "number": 10,
+                "title": "Inverses of sin, cos and tan",
+                "resource": "url"
+            },
+            {
+                "number": 11,
+                "title": "Inverses of csc, sec and cot",
+                "resource": "url"
+            },
+            {
+                "number": 12,
+                "title": "Solve trigonometric equations I",
+                "resource": "url"
+            },
+            {
+                "number": 13,
+                "title": "Solve trigonometric equations II",
+                "resource": "url"
+            },
+            {
+                "number": 14,
+                "title": "Trigonometric ratios: find a side length",
+                "resource": "url"
+            },
+            {
+                "number": 15,
+                "title": "Trigonometric ratios: find an angle measure",
+                "resource": "url"
+            },
+            {
+                "number": 16,
+                "title": "Solve a right triangle",
+                "resource": "url"
+            },
+            {
+                "number": 17,
+                "title": "Law of Sines",
+                "resource": "url"
+            },
+            {
+                "number": 18,
+                "title": "Law of Cosines",
+                "resource": "url"
+            },
+            {
+                "number": 19,
+                "title": "Solve a triangle",
+                "resource": "url"
+            },
+            {
+                "number": 20,
+                "title": "Area of a triangle: sine formula",
+                "resource": "url"
+            },
+            {
+                "number": 21,
+                "title": "Area of a triangle: Law of Sines",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Trigonometric functions",
+        "letter": "X",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Find properties of sine functions",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Write equations of sine functions from graphs",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Write equations of sine functions using properties",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Graph sine functions",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Find properties of cosine functions",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Write equations of cosine functions from graphs",
+                "resource": "url"
+            },
+            {
+                "number": 7,
+                "title": "Write equations of cosine functions using properties",
+                "resource": "url"
+            },
+            {
+                "number": 8,
+                "title": "Graph cosine functions",
+                "resource": "url"
+            },
+            {
+                "number": 9,
+                "title": "Graph sine and cosine functions",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Trigonometric identities",
+        "letter": "Y",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Complementary angle identities",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Symmetry and periodicity of trigonometric functions",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Trigonometric identities I",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Trigonometric identities II",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Surface area and volume",
+        "letter": "Z",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Introduction to surface area and volume",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Surface area of prisms and cylinders",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Surface area of pyramids and cones",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Volume of prisms and cylinders",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Volume of pyramids and cones",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Surface area and volume of spheres",
+                "resource": "url"
+            },
+            {
+                "number": 7,
+                "title": "Introduction to similar solids",
+                "resource": "url"
+            },
+            {
+                "number": 8,
+                "title": "Surface area and volume of similar solids",
+                "resource": "url"
+            },
+            {
+                "number": 9,
+                "title": "Surface area and volume review",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Sequences and series",
+        "letter": "AA",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Classify formulas and sequences",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Find terms of an arithmetic sequence",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Find terms of a geometric sequence",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Find terms of a recursive sequence",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Evaluate formulas for sequences",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Write a formula for an arithmetic sequence",
+                "resource": "url"
+            },
+            {
+                "number": 7,
+                "title": "Write a formula for a geometric sequence",
+                "resource": "url"
+            },
+            {
+                "number": 8,
+                "title": "Write a formula for a recursive sequence",
+                "resource": "url"
+            },
+            {
+                "number": 9,
+                "title": "Sequences: mixed review",
+                "resource": "url"
+            },
+            {
+                "number": 10,
+                "title": "0 Introduction to sigma notation",
+                "resource": "url"
+            },
+            {
+                "number": 11,
+                "title": "1 Identify arithmetic and geometric series",
+                "resource": "url"
+            },
+            {
+                "number": 12,
+                "title": "2 Find the sum of a finite arithmetic or geometric series",
+                "resource": "url"
+            },
+            {
+                "number": 13,
+                "title": "3 Introduction to partial sums",
+                "resource": "url"
+            },
+            {
+                "number": 14,
+                "title": "4 Partial sums of arithmetic series",
+                "resource": "url"
+            },
+            {
+                "number": 15,
+                "title": "5 Partial sums of geometric series",
+                "resource": "url"
+            },
+            {
+                "number": 16,
+                "title": "6 Partial sums: mixed review",
+                "resource": "url"
+            },
+            {
+                "number": 17,
+                "title": "7 Convergent and divergent geometric series",
+                "resource": "url"
+            },
+            {
+                "number": 18,
+                "title": "8 Find the value of an infinite geometric series",
+                "resource": "url"
+            },
+            {
+                "number": 19,
+                "title": "9 Write a repeating decimal as a fraction",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Probability",
+        "letter": "BB",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Introduction to probability",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Theoretical and experimental probability",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Compound events: find the number of outcomes",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Calculate probabilities of events",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Permutations",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Counting principle",
+                "resource": "url"
+            },
+            {
+                "number": 7,
+                "title": "Permutation and combination notation",
+                "resource": "url"
+            },
+            {
+                "number": 8,
+                "title": "Find probabilities using permutations and combinations",
+                "resource": "url"
+            },
+            {
+                "number": 9,
+                "title": "Find probabilities using two-way frequency tables",
+                "resource": "url"
+            },
+            {
+                "number": 10,
+                "title": "0 Identify independent events",
+                "resource": "url"
+            },
+            {
+                "number": 11,
+                "title": "1 Probability of independent and dependent events",
+                "resource": "url"
+            },
+            {
+                "number": 12,
+                "title": "2 Geometric probability",
+                "resource": "url"
+            },
+            {
+                "number": 13,
+                "title": "3 Find conditional probabilities",
+                "resource": "url"
+            },
+            {
+                "number": 14,
+                "title": "4 Independence and conditional probability",
+                "resource": "url"
+            },
+            {
+                "number": 15,
+                "title": "5 Find conditional probabilities using two-way frequency tables",
+                "resource": "url"
+            },
+            {
+                "number": 16,
+                "title": "6 Find probabilities using the addition rule",
+                "resource": "url"
+            },
+            {
+                "number": 17,
+                "title": "7 Find probabilities using the normal distribution",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Statistics",
+        "letter": "CC",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Mean, median, mode and range",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Quartiles",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Identify biased samples",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Mean absolute deviation",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Variance and standard deviation",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Data and graphs",
+        "letter": "DD",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Interpret histograms",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Create histograms",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Interpret stem-and-leaf plots",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Interpret box-and-whisker plots",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Interpret a scatter plot",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Scatter plots: line of best fit",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Introduction to derivatives",
+        "letter": "EE",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Sum and difference rules",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Power rule for derivatives",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Find derivatives of polynomials",
+                "resource": "url"
+            }
+        ]
+    }
+]

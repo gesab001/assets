@@ -1,0 +1,742 @@
+[
+    {
+        "title": "Sentence structure",
+        "letter": "A",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Is the sentence declarative, interrogative, imperative or exclamatory?",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Identify the complete subject of a sentence",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Identify the complete predicate of a sentence",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Identify the simple subject or predicate of a sentence",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Is it a complete sentence or a fragment?",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Is it a complete sentence or a run-on?",
+                "resource": "url"
+            },
+            {
+                "number": 7,
+                "title": "Is it a complete sentence, a fragment or a run-on?",
+                "resource": "url"
+            },
+            {
+                "number": 8,
+                "title": "Is the sentence simple or compound?",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Nouns",
+        "letter": "B",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Which word is a noun?",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Identify nouns",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Identify nouns \u2013 with abstract nouns",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Identify common and proper nouns",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Form regular plurals with -s, -es and -ies",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Use regular plurals with -s, -es and -ies",
+                "resource": "url"
+            },
+            {
+                "number": 7,
+                "title": "Form regular plurals with -s, -es, -ies and -ves",
+                "resource": "url"
+            },
+            {
+                "number": 8,
+                "title": "Use regular plurals with -s, -es, -ies and -ves",
+                "resource": "url"
+            },
+            {
+                "number": 9,
+                "title": "Is the noun singular or plural?",
+                "resource": "url"
+            },
+            {
+                "number": 10,
+                "title": "Form and use irregular plurals",
+                "resource": "url"
+            },
+            {
+                "number": 11,
+                "title": "Identify plurals, singular possessives and plural possessives",
+                "resource": "url"
+            },
+            {
+                "number": 12,
+                "title": "Form the singular or plural possessive",
+                "resource": "url"
+            },
+            {
+                "number": 13,
+                "title": "Identify and correct errors with plural and possessive nouns",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Pronouns",
+        "letter": "C",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Identify personal pronouns",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Choose between subject and object personal pronouns",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Replace the noun with a personal pronoun",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Compound subjects and objects with \"I\" and \"me\"",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Identify possessive pronouns",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Use possessive pronouns",
+                "resource": "url"
+            },
+            {
+                "number": 7,
+                "title": "Choose between personal and reflexive pronouns",
+                "resource": "url"
+            },
+            {
+                "number": 8,
+                "title": "Use reflexive pronouns",
+                "resource": "url"
+            },
+            {
+                "number": 9,
+                "title": "Identify relative pronouns",
+                "resource": "url"
+            },
+            {
+                "number": 10,
+                "title": "Use relative pronouns: who and whom",
+                "resource": "url"
+            },
+            {
+                "number": 11,
+                "title": "Use relative pronouns: who, whom, whose, which and that",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Verbs",
+        "letter": "D",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Use action verbs",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Identify action verbs",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Identify main verbs and helping verbs",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "What does the modal verb show?",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Use the correct modal verb",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Is the subject singular or plural?",
+                "resource": "url"
+            },
+            {
+                "number": 7,
+                "title": "Use the correct subject or verb",
+                "resource": "url"
+            },
+            {
+                "number": 8,
+                "title": "Pronoun-verb agreement",
+                "resource": "url"
+            },
+            {
+                "number": 9,
+                "title": "Use the correct subject or verb \u2013 with compound subjects",
+                "resource": "url"
+            },
+            {
+                "number": 10,
+                "title": "Which sentence is in the regular past tense?",
+                "resource": "url"
+            },
+            {
+                "number": 11,
+                "title": "Identify verbs in the regular past tense",
+                "resource": "url"
+            },
+            {
+                "number": 12,
+                "title": "Form and use the regular past tense",
+                "resource": "url"
+            },
+            {
+                "number": 13,
+                "title": "Identify the irregular past tense",
+                "resource": "url"
+            },
+            {
+                "number": 14,
+                "title": "Form and use the irregular past tense: set 1",
+                "resource": "url"
+            },
+            {
+                "number": 15,
+                "title": "Form and use the irregular past tense: set 2",
+                "resource": "url"
+            },
+            {
+                "number": 16,
+                "title": "Form and use the irregular past tense: set 3",
+                "resource": "url"
+            },
+            {
+                "number": 17,
+                "title": "Form and use the irregular past tense: set 4",
+                "resource": "url"
+            },
+            {
+                "number": 18,
+                "title": "To be: use the correct form",
+                "resource": "url"
+            },
+            {
+                "number": 19,
+                "title": "To have: use the correct form",
+                "resource": "url"
+            },
+            {
+                "number": 20,
+                "title": "Is the sentence in the past, present or future tense?",
+                "resource": "url"
+            },
+            {
+                "number": 21,
+                "title": "Change the sentence to future tense",
+                "resource": "url"
+            },
+            {
+                "number": 22,
+                "title": "Use the progressive verb tenses",
+                "resource": "url"
+            },
+            {
+                "number": 23,
+                "title": "Form the progressive verb tenses",
+                "resource": "url"
+            },
+            {
+                "number": 24,
+                "title": "Choose between the past tense and past participle",
+                "resource": "url"
+            },
+            {
+                "number": 25,
+                "title": "Use the perfect verb tenses",
+                "resource": "url"
+            },
+            {
+                "number": 26,
+                "title": "Form the perfect verb tenses",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Articles",
+        "letter": "E",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Use the correct article: a or an",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Use the correct article: a, an or the",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Identify articles",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Adjectives and adverbs",
+        "letter": "F",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Does the adjective tell you what kind or how many?",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Identify the adjective that describes the noun",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Identify adjectives",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Order adjectives",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Does the adverb tell you how, when or where?",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Identify adverbs",
+                "resource": "url"
+            },
+            {
+                "number": 7,
+                "title": "Use relative adverbs",
+                "resource": "url"
+            },
+            {
+                "number": 8,
+                "title": "Choose between adjectives and adverbs",
+                "resource": "url"
+            },
+            {
+                "number": 9,
+                "title": "Is the word an adjective or adverb?",
+                "resource": "url"
+            },
+            {
+                "number": 10,
+                "title": "Use adjectives to compare",
+                "resource": "url"
+            },
+            {
+                "number": 11,
+                "title": "Spell adjectives that compare",
+                "resource": "url"
+            },
+            {
+                "number": 12,
+                "title": "Use adjectives with more and most",
+                "resource": "url"
+            },
+            {
+                "number": 13,
+                "title": "Use adverbs to compare",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Prepositions",
+        "letter": "G",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Identify prepositions",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Identify prepositions and their objects",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Identify prepositional phrases",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Prepositions: review",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Conjunctions",
+        "letter": "H",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Use coordinating conjunctions",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Identify coordinating conjunctions",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Use subordinating conjunctions",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Identify subordinating conjunctions",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Contractions",
+        "letter": "I",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Pronoun-verb contractions",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Contractions with \"not\"",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Punctuation, capitalisation and formatting",
+        "letter": "J",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Commas with direct addresses and after introductory words",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Capitalising the names of people and pets and titles of respect",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Capitalising days, months and holidays",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Capitalising the names of places and geographic features",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Capitalising proper adjectives, nationalities and languages",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Greetings and closings of letters",
+                "resource": "url"
+            },
+            {
+                "number": 7,
+                "title": "Capitalising titles",
+                "resource": "url"
+            },
+            {
+                "number": 8,
+                "title": "Formatting titles",
+                "resource": "url"
+            },
+            {
+                "number": 9,
+                "title": "Formatting and capitalising titles",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Prefixes and suffixes",
+        "letter": "K",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Identify base words, prefixes and suffixes",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Determine the meaning of a word with pre-, re- or mis-",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Use the prefixes pre-, re- and mis-",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Determine the meaning of a word with -ful or -less",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Determine the meaning of a word with -ly or -ness",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Determine the meaning of a word with -able or -ment",
+                "resource": "url"
+            },
+            {
+                "number": 7,
+                "title": "Determine the meaning of a word with a suffix: review",
+                "resource": "url"
+            },
+            {
+                "number": 8,
+                "title": "Prefixes and suffixes: review",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Greek and Latin roots",
+        "letter": "L",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Use Greek and Latin roots as clues to the meanings of words",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Use the meanings of words as clues to the meanings of Greek and Latin roots",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Determine the meanings of Greek and Latin roots",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Determine the meanings of words with Greek and Latin roots",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Reference skills",
+        "letter": "M",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Order alphabetically based on the first letter",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Order alphabetically based on the first two letters",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Order alphabetically based on the first three letters",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Order alphabetically: challenge",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Use guide words",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Use dictionary entries",
+                "resource": "url"
+            },
+            {
+                "number": 7,
+                "title": "Use dictionary definitions",
+                "resource": "url"
+            },
+            {
+                "number": 8,
+                "title": "Use thesaurus entries",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Word relationships and usage",
+        "letter": "N",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Choose the synonym",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Which sentence has the same meaning?",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Find synonyms in context",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Choose the antonym",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Which sentence uses an antonym?",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Find antonyms in context",
+                "resource": "url"
+            },
+            {
+                "number": 7,
+                "title": "Form compound words",
+                "resource": "url"
+            },
+            {
+                "number": 8,
+                "title": "Form and use compound words",
+                "resource": "url"
+            },
+            {
+                "number": 9,
+                "title": "Describe the difference between related words",
+                "resource": "url"
+            },
+            {
+                "number": 10,
+                "title": "Positive and negative connotation",
+                "resource": "url"
+            },
+            {
+                "number": 11,
+                "title": "Homophones with pictures",
+                "resource": "url"
+            },
+            {
+                "number": 12,
+                "title": "Identify homophones",
+                "resource": "url"
+            },
+            {
+                "number": 13,
+                "title": "Use the correct homophone",
+                "resource": "url"
+            },
+            {
+                "number": 14,
+                "title": "Which definition matches the sentence?",
+                "resource": "url"
+            },
+            {
+                "number": 15,
+                "title": "Which sentence matches the definition?",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Figurative language",
+        "letter": "O",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Identify similes and metaphors",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Determine the meanings of similes and metaphors",
+                "resource": "url"
+            }
+        ]
+    }
+]
