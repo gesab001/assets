@@ -61,6 +61,21 @@
             "total": 736, 
             "bookcode": "PAM", 
             "title": "Pam"
+        }, 
+        {
+            "total": 343, 
+            "bookcode": "SECOND COMING", 
+            "title": "Second coming"
+        }, 
+        {
+            "total": 724, 
+            "bookcode": "AMUSEMENT", 
+            "title": "Amusement"
+        }, 
+        {
+            "total": 1074, 
+            "bookcode": "SANCTUARY", 
+            "title": "Sanctuary"
         }
     ]
 }

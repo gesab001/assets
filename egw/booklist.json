@@ -124,6 +124,21 @@
             "total": 736, 
             "bookcode": "PAM", 
             "title": "Pastoral Ministry"
+        }, 
+        {
+            "total": 343, 
+            "bookcode": "SECOND COMING", 
+            "title": "Second Coming"
+        }, 
+        {
+            "total": 724, 
+            "bookcode": "AMUSEMENT", 
+            "title": "Amusement"
+        }, 
+        {
+            "total": 1074, 
+            "bookcode": "SANCTUARY", 
+            "title": "Sanctuary"
         }
     ]
 }
