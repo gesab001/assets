@@ -1,4 +1,13 @@
-{
+{	"letters": [{
+					"letter": "A",
+					"title": "Numbers and counting up to 3",
+					"activities": [{
+						"number": 1,
+						"title": "Learn to count to 3",
+						"resource": "url"
+					}]
+				}]
+	    }]
 	"subjects": [{
 		"title": "Math",
 		"levels": [{
@@ -15,9 +24,8 @@
 	    }]
 	},
     {
-        "title": "English",
-		"levels": [{
-				"level": 1,
+        
+john
 				"letters": [{
 					"letter": "A",
 					"title": "Numbers and counting up to 3",
@@ -63,16 +71,7 @@
         "title": "Digital Technology",
 		"levels": [{
 				"level": 1,
-				"letters": [{
-					"letter": "A",
-					"title": "Numbers and counting up to 3",
-					"activities": [{
-						"number": 1,
-						"title": "Learn to count to 3",
-						"resource": "url"
-					}]
-				}]
-	    }]
+			
 	},
     {
         "title": "Arts",
