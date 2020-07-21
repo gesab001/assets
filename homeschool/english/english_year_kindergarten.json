@@ -1,0 +1,302 @@
+[
+    {
+        "title": "Text features",
+        "letter": "A",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Identify book parts and features",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Choose the sentence that is spaced correctly",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Choose the two words that are the same",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Alphabet",
+        "letter": "B",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Find the letter in the alphabet: lowercase",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Find the letter in the alphabet: uppercase",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Choose the letter that you hear: lowercase",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Choose the letter that you hear: uppercase",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Frequently confused letters: find the letter",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Frequently confused letters: find all the letters",
+                "resource": "url"
+            },
+            {
+                "number": 7,
+                "title": "Choose the lowercase letter that matches: easier letters",
+                "resource": "url"
+            },
+            {
+                "number": 8,
+                "title": "Choose the lowercase letter that matches: harder letters",
+                "resource": "url"
+            },
+            {
+                "number": 9,
+                "title": "Find all the lowercase letters",
+                "resource": "url"
+            },
+            {
+                "number": 10,
+                "title": "Choose the uppercase letter that matches: easier letters",
+                "resource": "url"
+            },
+            {
+                "number": 11,
+                "title": "Choose the uppercase letter that matches: harder letters",
+                "resource": "url"
+            },
+            {
+                "number": 12,
+                "title": "Find all the uppercase letters",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Rhyming",
+        "letter": "C",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Choose the words that have a given ending",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Choose the picture that rhymes with the word",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Blending and segmenting",
+        "letter": "D",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Blend the sounds together to make a word",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Identify the first sound in a word",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Put the sounds in order",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Consonants",
+        "letter": "E",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Which two words start with the same sound?",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Find all the words that start with a given sound",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Which two words end with the same sound?",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Choose the letter that matches the consonant sound",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Short vowels",
+        "letter": "F",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Find the short a word",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Find the short e word",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Find the short i word",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Find the short o word",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Find the short u word",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Sight words",
+        "letter": "G",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Find a word in a sentence",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Choose the two sight words that are the same",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Choose the sight word that you hear",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Parts of speech",
+        "letter": "H",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Find the picture that matches the action verb",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Choose the singular or plural noun that matches the picture",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Compare pictures using adjectives",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Use number words: one to five",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Use number words: six to ten",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Use number words: one to ten",
+                "resource": "url"
+            },
+            {
+                "number": 7,
+                "title": "Use colour words",
+                "resource": "url"
+            },
+            {
+                "number": 8,
+                "title": "Inside and outside",
+                "resource": "url"
+            },
+            {
+                "number": 9,
+                "title": "Above and below",
+                "resource": "url"
+            },
+            {
+                "number": 10,
+                "title": "Next to and beside",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Word relationships",
+        "letter": "I",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Match antonyms to pictures",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Sort objects into categories",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Which one is not like the others?",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Literacy skills",
+        "letter": "J",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Which could happen in real life?",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Which feeling matches the picture?",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "What will happen next?",
+                "resource": "url"
+            }
+        ]
+    }
+]

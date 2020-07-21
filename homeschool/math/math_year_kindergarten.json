@@ -1,0 +1,404 @@
+[
+    {
+        "title": "Count to 3",
+        "letter": "A",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Learn to count - up to 3",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Count objects - up to 3",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Count dots - up to 3",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Count shapes - up to 3",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Count on ten frames - up to 3",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Represent numbers - up to 3",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Count to 5",
+        "letter": "B",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Learn to count - up to 5",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Count objects - up to 5",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Count dots - up to 5",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Count shapes - up to 5",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Count on ten frames - up to 5",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Represent numbers - up to 5",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Count to 10",
+        "letter": "C",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Learn to count - up to 10",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Count objects - up to 10",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Count dots - up to 10",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Count shapes - up to 10",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Count on ten frames - up to 10",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Represent numbers - up to 10",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Count to 20",
+        "letter": "D",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Count objects - up to 20",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Count dots - up to 20",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Count shapes - up to 20",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Count on ten frames - up to 20",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Represent numbers - up to 20",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Comparing",
+        "letter": "E",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Are there enough?",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "More",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Fewer",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Fewer and more - compare by counting",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Compare in a mixed group",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Positions",
+        "letter": "F",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Inside and outside",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Above and below",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Beside and next to",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Left and right",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Left, middle and right",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Top and bottom",
+                "resource": "url"
+            },
+            {
+                "number": 7,
+                "title": "Top, middle and bottom",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Classify",
+        "letter": "G",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Same",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Different",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Same and different",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Classify shapes by colour",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Classify and sort by colour",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Patterns",
+        "letter": "H",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Colour patterns",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Size patterns",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Shape patterns",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "What comes next?",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Size",
+        "letter": "I",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Long and short",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Tall and short",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Wide and narrow",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Light and heavy",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Holds more or less",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Compare size, weight and capacity",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Money",
+        "letter": "J",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Coin values - 10c and 20c",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Coin values - 50c, $1 and $2",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Coin values - all coins",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Flat shapes",
+        "letter": "K",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Name the shape",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Circles",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Squares",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Triangles",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Rectangles",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Circles, squares and triangles",
+                "resource": "url"
+            }
+        ]
+    },
+    {
+        "title": "Solid shapes",
+        "letter": "L",
+        "activities": [
+            {
+                "number": 1,
+                "title": "Flat and solid shapes",
+                "resource": "url"
+            },
+            {
+                "number": 2,
+                "title": "Name the solid shape",
+                "resource": "url"
+            },
+            {
+                "number": 3,
+                "title": "Spheres",
+                "resource": "url"
+            },
+            {
+                "number": 4,
+                "title": "Cubes",
+                "resource": "url"
+            },
+            {
+                "number": 5,
+                "title": "Cones",
+                "resource": "url"
+            },
+            {
+                "number": 6,
+                "title": "Cylinders",
+                "resource": "url"
+            },
+            {
+                "number": 7,
+                "title": "Select solid shapes",
+                "resource": "url"
+            }
+        ]
+    }
+]
