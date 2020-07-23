@@ -1,0 +1,38 @@
+{
+	"items": [{
+		"iphone": [{
+			"width": 120,
+			"height": 120
+		}, {
+			"width": 180,
+			"height": 180
+		}, {
+			"width": 76,
+			"height": 76
+		}],
+		"android": [{
+			"width": 72,
+			"height": 72
+		}, {
+			"width": 96,
+			"height": 96
+		}, {
+			"width": 128,
+			"height": 128
+		}, {
+			"width": 152,
+			"height": 152
+		}, {
+			"width": 192,
+			"height": 192
+		}, {
+			"width": 384,
+			"height": 384
+		}, {
+			"width": 512,
+			"height": 512
+		}]
+
+	}]
+
+}
