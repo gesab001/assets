@@ -18,23 +18,23 @@ def createQuestions():
      questions.append(data)
    return questions
 
-def createSlides(folder):
+def createSlides(folder, book, chapter):
    slides = []
    for x in range(10):
-     data = {"text": "", "image": "https://gesab001.github.io/assets/images/"+folder+"/"}
+     data = {"text": "", "reference": [{"book": book, "chapter": chapter, "verse": [{"start": "", "end": ""}]}], "image": "https://gesab001.github.io/assets/images/"+folder+"/"}
      slides.append(data)
    return slides
 
-def createNewStory(title):
+def createNewStory(title, book, chapter):
    filename = title.replace(" ", "_") + ".json"
    folder = title.replace(" ", "").lower()
-   jsonobject = {"title": title, "slides": createSlides(folder), "questions": createQuestions(), "activities": [], "references": []}
+   jsonobject = {"title": title, "slides": createSlides(folder, book, chapter), "questions": createQuestions(), "activities": [], "references": []}
    with open("./articles/"+filename, "w") as outfile:
       json.dump(jsonobject, outfile, indent=4)
    subprocess.call("mkdir  ~/assets/public/images/" + folder, shell=True)
 
 
-def addStory(title, letter):
+def addStory(title, letter, book, chapter):
   print(title)
   print(letter)
   f = open("stories.json")
@@ -47,7 +47,7 @@ def addStory(title, letter):
           print(jsondata)
           with open("stories.json", "w") as outfile:
              json.dump(jsondata, outfile)
-          createNewStory(title)
+          createNewStory(title, book, chapter)
 
 def getLettersList():
   result = list(alphabets)
@@ -69,6 +69,8 @@ def clearDatabase():
 
 while True:
    newstory = input("story title: " )
+   book = input("book: ")
+   chapter = input("chapter: ")
    letter = newstory[0:1].upper()
-   addStory(newstory.capitalize(), letter)
+   addStory(newstory.capitalize(), letter, book, chapter)
    updateIndexHtml("added a new story - " + newstory) 
