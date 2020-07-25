@@ -2,43 +2,123 @@
     "title": "Zacchaeus",
     "slides": [
         {
-            "text": "",
+            "text": "And [Jesus] entered and passed through Jericho.  ",
+            "reference": {
+                "book": "Luke",
+                "chapter": "19",
+                "verse": {
+                    "start": "1.",
+                    "end": "1."
+                }
+            },
             "image": "https://gesab001.github.io/assets/images/zacchaeus/"
         },
         {
-            "text": "",
+            "text": "And, behold, [there was] a man named Zacchaeus, which was the chief among the publicans, and he was rich.  ",
+            "reference": {
+                "book": "Luke",
+                "chapter": "19",
+                "verse": {
+                    "start": "2.",
+                    "end": "2."
+                }
+            },
             "image": "https://gesab001.github.io/assets/images/zacchaeus/"
         },
         {
-            "text": "",
+            "text": "And he sought to see Jesus who he was; and could not for the press, because he was little of stature.  ",
+            "reference": {
+                "book": "Luke",
+                "chapter": "19",
+                "verse": {
+                    "start": "3.",
+                    "end": "3."
+                }
+            },
             "image": "https://gesab001.github.io/assets/images/zacchaeus/"
         },
         {
-            "text": "",
+            "text": "And he ran before, and climbed up into a sycomore tree to see him: for he was to pass that [way. ]  ",
+            "reference": {
+                "book": "Luke",
+                "chapter": "19",
+                "verse": {
+                    "start": "4.",
+                    "end": "4."
+                }
+            },
             "image": "https://gesab001.github.io/assets/images/zacchaeus/"
         },
         {
-            "text": "",
+            "text": "And when Jesus came to the place, he looked up, and saw him, and said unto him, Zacchaeus, make haste, and come down; for to day I must abide at thy house.  ",
+            "reference": {
+                "book": "Luke",
+                "chapter": "19",
+                "verse": {
+                    "start": "5.",
+                    "end": "5."
+                }
+            },
             "image": "https://gesab001.github.io/assets/images/zacchaeus/"
         },
         {
-            "text": "",
+            "text": "And he made haste, and came down, and received him joyfully.  ",
+            "reference": {
+                "book": "Luke",
+                "chapter": "19",
+                "verse": {
+                    "start": "6.",
+                    "end": "6."
+                }
+            },
             "image": "https://gesab001.github.io/assets/images/zacchaeus/"
         },
         {
-            "text": "",
+            "text": "And when they saw [it,] they all murmured, saying, That he was gone to be guest with a man that is a sinner.  ",
+            "reference": {
+                "book": "Luke",
+                "chapter": "19",
+                "verse": {
+                    "start": "7.",
+                    "end": "7."
+                }
+            },
             "image": "https://gesab001.github.io/assets/images/zacchaeus/"
         },
         {
-            "text": "",
+            "text": "And Zacchaeus stood, and said unto the Lord; Behold, Lord, the half of my goods I give to the poor; and if I have taken any thing from any man by false accusation, I restore [him] fourfold.  ",
+            "reference": {
+                "book": "Luke",
+                "chapter": "19",
+                "verse": {
+                    "start": "8.",
+                    "end": "8."
+                }
+            },
             "image": "https://gesab001.github.io/assets/images/zacchaeus/"
         },
         {
-            "text": "",
+            "text": "And Jesus said unto him, This day is salvation come to this house, forsomuch as he also is a son of Abraham.  ",
+            "reference": {
+                "book": "Luke",
+                "chapter": "19",
+                "verse": {
+                    "start": "9.",
+                    "end": "9."
+                }
+            },
             "image": "https://gesab001.github.io/assets/images/zacchaeus/"
         },
         {
-            "text": "",
+            "text": "For the Son of man is come to seek and to save that which was lost.   ",
+            "reference": {
+                "book": "Luke",
+                "chapter": "19",
+                "verse": {
+                    "start": "10",
+                    "end": "10"
+                }
+            },
             "image": "https://gesab001.github.io/assets/images/zacchaeus/"
         }
     ],
