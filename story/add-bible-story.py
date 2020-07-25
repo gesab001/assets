@@ -61,7 +61,7 @@ def addStory(title, letter, book, chapter):
           jsondata[i]["names"].append(title)
           print(jsondata)
           with open("stories.json", "w") as outfile:
-             json.dump(jsondata, outfile)
+             json.dump(jsondata, outfile, indent=4)
           createNewStory(title, book, chapter)
 
 def getLettersList():
