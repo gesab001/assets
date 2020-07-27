@@ -13,7 +13,7 @@ def resize(folder,filename, device, width, height):
     p = subprocess.Popen(['identify', '-format', '%w', path], stdout=subprocess.PIPE)
     result = p.communicate()[0].decode("utf-8") 
     print (result)
-    command = "convert "+path+" -resize " + str(width) + "x" + str(height) + "\! "+folder+"/icon-" + str(width)+".png"
+    command = "convert "+path+" -resize " + str(width) + "x" + str(height) + "\! "+folder+"/icon-" + str(width)+"x"+str(height)+".png"
     print(command)
     subprocess.call(command, shell=True)
     p = subprocess.Popen(['identify', '-format', '%wx%h', path], stdout=subprocess.PIPE)

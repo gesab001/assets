@@ -11,7 +11,7 @@
                     "end": "1."
                 }
             },
-            "image": "https://gesab001.github.io/assets/images/zacchaeus/"
+            "image": "https://gesab001.github.io/assets/images/zacchaeus/jericho.jpg"
         },
         {
             "text": "And, behold, [there was] a man named Zacchaeus, which was the chief among the publicans, and he was rich.  ",
@@ -23,7 +23,7 @@
                     "end": "2."
                 }
             },
-            "image": "https://gesab001.github.io/assets/images/zacchaeus/"
+            "image": "https://gesab001.github.io/assets/images/zacchaeus/rich.jpg"
         },
         {
             "text": "And he sought to see Jesus who he was; and could not for the press, because he was little of stature.  ",
@@ -35,7 +35,7 @@
                     "end": "3."
                 }
             },
-            "image": "https://gesab001.github.io/assets/images/zacchaeus/"
+            "image": "https://gesab001.github.io/assets/images/zacchaeus/short.jpg"
         },
         {
             "text": "And he ran before, and climbed up into a sycomore tree to see him: for he was to pass that [way. ]  ",
@@ -47,7 +47,7 @@
                     "end": "4."
                 }
             },
-            "image": "https://gesab001.github.io/assets/images/zacchaeus/"
+            "image": "https://gesab001.github.io/assets/images/zacchaeus/sycamore.jpg"
         },
         {
             "text": "And when Jesus came to the place, he looked up, and saw him, and said unto him, Zacchaeus, make haste, and come down; for to day I must abide at thy house.  ",
@@ -59,7 +59,7 @@
                     "end": "5."
                 }
             },
-            "image": "https://gesab001.github.io/assets/images/zacchaeus/"
+            "image": "https://gesab001.github.io/assets/images/zacchaeus/jesus.jpg"
         },
         {
             "text": "And he made haste, and came down, and received him joyfully.  ",
@@ -71,7 +71,7 @@
                     "end": "6."
                 }
             },
-            "image": "https://gesab001.github.io/assets/images/zacchaeus/"
+            "image": "https://gesab001.github.io/assets/images/zacchaeus/comedown.jpg"
         },
         {
             "text": "And when they saw [it,] they all murmured, saying, That he was gone to be guest with a man that is a sinner.  ",
@@ -83,7 +83,7 @@
                     "end": "7."
                 }
             },
-            "image": "https://gesab001.github.io/assets/images/zacchaeus/"
+            "image": "https://gesab001.github.io/assets/images/zacchaeus/murmur.jpg"
         },
         {
             "text": "And Zacchaeus stood, and said unto the Lord; Behold, Lord, the half of my goods I give to the poor; and if I have taken any thing from any man by false accusation, I restore [him] fourfold.  ",
@@ -95,7 +95,7 @@
                     "end": "8."
                 }
             },
-            "image": "https://gesab001.github.io/assets/images/zacchaeus/"
+            "image": "https://gesab001.github.io/assets/images/zacchaeus/repent.jpg"
         },
         {
             "text": "And Jesus said unto him, This day is salvation come to this house, forsomuch as he also is a son of Abraham.  ",
@@ -107,7 +107,7 @@
                     "end": "9."
                 }
             },
-            "image": "https://gesab001.github.io/assets/images/zacchaeus/"
+            "image": "https://gesab001.github.io/assets/images/zacchaeus/salvation.jpg"
         },
         {
             "text": "For the Son of man is come to seek and to save that which was lost.   ",
@@ -119,58 +119,58 @@
                     "end": "10"
                 }
             },
-            "image": "https://gesab001.github.io/assets/images/zacchaeus/"
+            "image": "https://gesab001.github.io/assets/images/zacchaeus/lostsheep.png"
         }
     ],
     "questions": [
         {
-            "question": "",
-            "answer": "",
+            "question": "Where was Jesus passing through?",
+            "answer": "Jericho",
             "choices": [
-                "",
-                "",
-                "",
-                ""
+                "Jericho",
+                "Jerusalem",
+                "Bethlehem",
+                "Nazareth"
             ]
         },
         {
-            "question": "",
-            "answer": "",
+            "question": "What tree did Zacchaeus climb?",
+            "answer": "sycamore",
             "choices": [
-                "",
-                "",
-                "",
-                ""
+                "sycamore tree",
+                "olive tree",
+                "oak tree",
+                "cedar tree"
             ]
         },
         {
-            "question": "",
-            "answer": "",
+            "question": "Why did Zacchaeus climb the tree?",
+            "answer": "to see Jesus",
             "choices": [
-                "",
-                "",
-                "",
-                ""
+                "to see Jesus",
+                "to sleep",
+                "to cut down the tree",
+                "to hide"
             ]
         },
         {
-            "question": "",
-            "answer": "",
+            "question": "How many times did Zacchaeus promise to give back to people he stole from?",
+            "answer": "four times",
             "choices": [
-                "",
-                "",
-                "",
-                ""
+                "four times",
+                "two times",
+                "five times",
+                "one time"
             ]
         },
         {
-            "question": "",
-            "answer": "",
+            "question": "Why did Jesus call Zacchaeus to come down from the tree?",
+            "answer": "because he wants abide at his house",
             "choices": [
-                "",
-                "",
-                "",
-                ""
+                "because he wants abide at his house",
+                "because he wants to punish him",
+                "because he wants to take him to the police",
+                "because he wants to stone him"
             ]
         }
     ],
