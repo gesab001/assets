@@ -1,7 +1,10 @@
 import subprocess
 import json
+import os
+arr = os.listdir("../story/articles")
 
 folder = input("folder: " )
+print(arr)
 articlejson = input("story json filename:")
 def resize(filename):
     command = "identify -format " + "%wx%h "
@@ -43,6 +46,7 @@ def updateImage(jsondata, slidenumber, filename):
         json.dump(jsondata, outfile, indent=4)
 
 slidenumber = 0
+
 
 while True:
     jsondata = getSlides()
