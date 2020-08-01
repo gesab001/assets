@@ -49,22 +49,25 @@ slidenumber = 0
 
 
 while True:
+    print("slide number:" + str(slidenumber))
     jsondata = getSlides()
     slides = jsondata["slides"]
     print(slides[slidenumber]["text"])
     print(slides[slidenumber]["image"])
+    subprocess.call("ls " + folder, shell=True)
     url = input("url: " )
-    filename = input("filename: " )   
-    updateImage(jsondata, slidenumber, filename)
-  
-    if filename=="cancel":
-        break
-    path = "./"+folder+"/"+filename
-    command = "curl -L " + url + " -o " + path
-    subprocess.call(command, shell=True)
-    resize(path) 
-    updateIndexHtml(path)   
-    slidenumber = slidenumber + 1
+    if url=="skip":
+       print("skip")
+       slidenumber = slidenumber + 1
+    else:
+      filename = input("filename: " )   
+      updateImage(jsondata, slidenumber, filename)
+      path = "./"+folder+"/"+filename
+      command = "curl -L " + url + " -o " + path
+      subprocess.call(command, shell=True)
+      resize(path) 
+      updateIndexHtml(path)   
+      slidenumber = slidenumber + 1
 
 
 
