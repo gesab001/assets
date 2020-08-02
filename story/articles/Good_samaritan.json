@@ -124,53 +124,53 @@
     ],
     "questions": [
         {
-            "question": "",
-            "answer": "",
+            "question": "Who asked Jesus about how to inherit eternal life?",
+            "answer": "lawyer",
             "choices": [
-                "",
-                "",
-                "",
-                ""
+                "lawyer",
+                "doctor",
+                "priest",
+                "teacher"
             ]
         },
         {
-            "question": "",
-            "answer": "",
+            "question": "Who was the first to pass by the wounded man who fell among thieves?",
+            "answer": "priest",
             "choices": [
-                "",
-                "",
-                "",
-                ""
+                "priest",
+                "doctor",
+                "lawyer",
+                "nurse"
             ]
         },
         {
-            "question": "",
-            "answer": "",
+            "question": "Who was the second to pass by the wounded man on the road who fell among thieves?",
+            "answer": "Levite",
             "choices": [
-                "",
-                "",
-                "",
-                ""
+                "Levite",
+                "priest",
+                "merchant",
+                "scribe"
             ]
         },
         {
-            "question": "",
-            "answer": "",
+            "question": "Who helped the wounded man who fell among thieves?",
+            "answer": "Samaritan",
             "choices": [
-                "",
-                "",
-                "",
-                ""
+                "Samaritan",
+                "priest",
+                "Levite",
+                "doctor"
             ]
         },
         {
-            "question": "",
-            "answer": "",
+            "question": "What did Jesus say we should do for our neighbor?",
+            "answer": "show mercy",
             "choices": [
-                "",
-                "",
-                "",
-                ""
+                "show mercy",
+                "hate our neighbor",
+                "hit our neighbor",
+                "lie to your neighbor"
             ]
         }
     ],

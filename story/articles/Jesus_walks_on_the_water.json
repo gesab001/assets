@@ -124,53 +124,53 @@
     ],
     "questions": [
         {
-            "question": "",
-            "answer": "",
+            "question": "What did Jesus constrain his disciples to do?",
+            "answer": "get into a ship and go to the other side of the lake",
             "choices": [
-                "",
-                "",
-                "",
-                ""
+                "get into a ship and go to the other side of the lake",
+                "play games",
+                "take a nap",
+                "go home"
             ]
         },
         {
-            "question": "",
-            "answer": "",
+            "question": "What did the discples think first when they saw Jesus walking on water",
+            "answer": "they thought he was a spirit",
             "choices": [
-                "",
-                "",
-                "",
-                ""
+                "they thought he was an angel",
+                "they thought he was satan",
+                "they thought he was a spirit",
+                "they thought he was God"
             ]
         },
         {
-            "question": "",
-            "answer": "",
+            "question": "Who asked to walk on the water",
+            "answer": "Peter",
             "choices": [
-                "",
-                "",
-                "",
-                ""
+                "Peter",
+                "John",
+                "James",
+                "Andrew"
             ]
         },
         {
-            "question": "",
-            "answer": "",
+            "question": "What did Peter say when he began to sink?",
+            "answer": "Lord, save me",
             "choices": [
-                "",
-                "",
-                "",
-                ""
+                "Lord, save me",
+                "I'm going to die",
+                "I'm drowning",
+                "Help"
             ]
         },
         {
-            "question": "",
-            "answer": "",
+            "question": "What did Jesus say that made Peter sink?",
+            "answer": "because he had little faith and doubted",
             "choices": [
-                "",
-                "",
-                "",
-                ""
+                "because he had little faith and doubted",
+                "because he was heavy",
+                "because he sharks and became afraid",
+                "because the waves were so big"
             ]
         }
     ],
