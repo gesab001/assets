@@ -124,53 +124,53 @@
     ],
     "questions": [
         {
-            "question": "",
-            "answer": "",
+            "question": "Who rolled back the stone from Jesus' tomb?",
+            "answer": "angel of the Lord",
             "choices": [
-                "",
-                "",
-                "",
-                ""
+                "Satan",
+                "angel of the Lord",
+                "soldiers",
+                "disciples"
             ]
         },
         {
-            "question": "",
-            "answer": "",
+            "question": "On what day did the angel come down to open Jesus' tomb",
+            "answer": "first day of the week(Sunday)",
             "choices": [
-                "",
-                "",
-                "",
-                ""
+                "first day of the week(Sunday)",
+                "second day of the week(Monday)",
+                "third day of the week(Tuesday)",
+                "seventh day of the week(Saturday)"
             ]
         },
         {
-            "question": "",
-            "answer": "",
+            "question": "What happened to the soldiers who guarded the tomb when they saw the angel?",
+            "answer": "became as dead men",
             "choices": [
-                "",
-                "",
-                "",
-                ""
+                "became as dead men",
+                "ran away",
+                "fight the angel",
+                "worshipped the angel"
             ]
         },
         {
-            "question": "",
-            "answer": "",
+            "question": "How much power has been given to Jesus?",
+            "answer": "all power",
             "choices": [
-                "",
-                "",
-                "",
-                ""
+                "little power",
+                "some power",
+                "much power",
+                "all power"
             ]
         },
         {
-            "question": "",
-            "answer": "",
+            "question": "What did Jesus command his disciples to do?",
+            "answer": "teach all nations, baptize them and teach them God's commandments",
             "choices": [
-                "",
-                "",
-                "",
-                ""
+                "teach all nations, baptize them and teach them God's commandments",
+                "don't baptize them",
+                "teach only the Jews",
+                "only teach nations God's commandments"
             ]
         }
     ],
