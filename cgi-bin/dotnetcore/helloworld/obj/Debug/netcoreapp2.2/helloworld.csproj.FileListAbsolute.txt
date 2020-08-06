@@ -1,0 +1,11 @@
+/home/gesab001/assets/public/cgi-bin/dotnetcore/helloworld/bin/Debug/netcoreapp2.2/helloworld.deps.json
+/home/gesab001/assets/public/cgi-bin/dotnetcore/helloworld/bin/Debug/netcoreapp2.2/helloworld.runtimeconfig.json
+/home/gesab001/assets/public/cgi-bin/dotnetcore/helloworld/bin/Debug/netcoreapp2.2/helloworld.runtimeconfig.dev.json
+/home/gesab001/assets/public/cgi-bin/dotnetcore/helloworld/bin/Debug/netcoreapp2.2/helloworld.dll
+/home/gesab001/assets/public/cgi-bin/dotnetcore/helloworld/bin/Debug/netcoreapp2.2/helloworld.pdb
+/home/gesab001/assets/public/cgi-bin/dotnetcore/helloworld/obj/Debug/netcoreapp2.2/helloworld.csprojAssemblyReference.cache
+/home/gesab001/assets/public/cgi-bin/dotnetcore/helloworld/obj/Debug/netcoreapp2.2/helloworld.csproj.CoreCompileInputs.cache
+/home/gesab001/assets/public/cgi-bin/dotnetcore/helloworld/obj/Debug/netcoreapp2.2/helloworld.AssemblyInfoInputs.cache
+/home/gesab001/assets/public/cgi-bin/dotnetcore/helloworld/obj/Debug/netcoreapp2.2/helloworld.AssemblyInfo.cs
+/home/gesab001/assets/public/cgi-bin/dotnetcore/helloworld/obj/Debug/netcoreapp2.2/helloworld.dll
+/home/gesab001/assets/public/cgi-bin/dotnetcore/helloworld/obj/Debug/netcoreapp2.2/helloworld.pdb

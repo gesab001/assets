@@ -1,0 +1,179 @@
+{
+    "title": "Capernaum",
+    "slides": [
+        {
+            "text": "And again he entered into Capernaum, after [some] days; and it was noised that he was in the house.  ",
+            "reference": {
+                "book": "Mark",
+                "chapter": "2",
+                "verse": {
+                    "start": "1.",
+                    "end": "1."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/capernaum"
+        },
+        {
+            "text": "And straightway many were gathered together, insomuch that there was no room to receive [them,] no, not so much as about the door: and he preached the word unto them.  ",
+            "reference": {
+                "book": "Mark",
+                "chapter": "2",
+                "verse": {
+                    "start": "2.",
+                    "end": "2."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/capernaum"
+        },
+        {
+            "text": "And they come unto him, bringing one sick of the palsy, which was borne of four.  ",
+            "reference": {
+                "book": "Mark",
+                "chapter": "2",
+                "verse": {
+                    "start": "3.",
+                    "end": "3."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/capernaum"
+        },
+        {
+            "text": "And when they could not come nigh unto him for the press, they uncovered the roof where he was: and when they had broken [it] up, they let down the bed wherein the sick of the palsy lay.  ",
+            "reference": {
+                "book": "Mark",
+                "chapter": "2",
+                "verse": {
+                    "start": "4.",
+                    "end": "4."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/capernaum"
+        },
+        {
+            "text": "When Jesus saw their faith, he said unto the sick of the palsy, Son, thy sins be forgiven thee.  ",
+            "reference": {
+                "book": "Mark",
+                "chapter": "2",
+                "verse": {
+                    "start": "5.",
+                    "end": "5."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/capernaum"
+        },
+        {
+            "text": "But there were certain of the scribes sitting there, and reasoning in their hearts,  Why doth this [man] thus speak blasphemies? who can forgive sins but God only?  ",
+            "reference": {
+                "book": "Mark",
+                "chapter": "2",
+                "verse": {
+                    "start": "6.",
+                    "end": "7."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/capernaum"
+        },
+        {
+            "text": "And immediately when Jesus perceived in his spirit that they so reasoned within themselves, he said unto them, Why reason ye these things in your hearts?  Whether is it easier to say to the sick of the palsy, [Thy] sins be forgiven thee; or to say, Arise, and take up thy bed, and walk?  ",
+            "reference": {
+                "book": "Mark",
+                "chapter": "2",
+                "verse": {
+                    "start": "8.",
+                    "end": "9."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/capernaum"
+        },
+        {
+            "text": "But that ye may know that the Son of man hath power on earth to forgive sins, (he saith to the sick of the palsy,)  ",
+            "reference": {
+                "book": "Mark",
+                "chapter": "2",
+                "verse": {
+                    "start": "10",
+                    "end": "10"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/capernaum"
+        },
+        {
+            "text": "I say unto thee, Arise, and take up thy bed, and go thy way into thine house.  ",
+            "reference": {
+                "book": "Mark",
+                "chapter": "2",
+                "verse": {
+                    "start": "11",
+                    "end": "11"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/capernaum"
+        },
+        {
+            "text": "And immediately he arose, took up the bed, and went forth before them all; insomuch that they were all amazed, and glorified God, saying, We never saw it on this fashion.  ",
+            "reference": {
+                "book": "Mark",
+                "chapter": "2",
+                "verse": {
+                    "start": "12",
+                    "end": "12"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/capernaum"
+        }
+    ],
+    "questions": [
+        {
+            "question": "Where did Jesus go in the story?",
+            "answer": "Capernaum",
+            "choices": [
+                "Capernaum",
+                "Nazareth",
+                "Cana",
+                "Nain"
+            ]
+        },
+        {
+            "question": "What was Jesus doing in the house in Capernaum?",
+            "answer": "He was preaching the word to the people",
+            "choices": [
+                "He was preaching the word to the people",
+                "He was dancing",
+                "He was singing",
+                "He was sleeping"
+            ]
+        },
+        {
+            "question": "How was the sick man brought to Jesus?",
+            "answer": "through the uncovered roof",
+            "choices": [
+                "through the uncovered roof",
+                "through the door",
+                "through the window",
+                "through the broken wall"
+            ]
+        },
+        {
+            "question": "What did Jesus say to the sick of the palsy first?",
+            "answer": "Son, thy sins be forgiven thee.",
+            "choices": [
+                "Son, thy sins be forgiven thee.",
+                "Go away.",
+                "Go home.",
+                "I don't want to heal you."
+            ]
+        },
+        {
+            "question": "What did Jesus say to the sick man the second time?",
+            "answer": "Arise, and take up thy bed.",
+            "choices": [
+                "Arise, and take up thy bed.",
+                "Let's eat.",
+                "Are you ok.",
+                "Let's play."
+            ]
+        }
+    ],
+    "activities": [],
+    "references": []
+}
