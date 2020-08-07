@@ -1,0 +1,179 @@
+{
+    "title": "Jesus heals a man at Bethesda",
+    "slides": [
+        {
+            "text": "After this there was a feast of the Jews; and Jesus went up to Jerusalem.  ",
+            "reference": {
+                "book": "John",
+                "chapter": "5",
+                "verse": {
+                    "start": "1.",
+                    "end": "1."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/jesushealsamanatbethesda"
+        },
+        {
+            "text": "Now there is at Jerusalem by the sheep [market] a pool, which is called in the Hebrew tongue Bethesda, having five porches.  ",
+            "reference": {
+                "book": "John",
+                "chapter": "5",
+                "verse": {
+                    "start": "2.",
+                    "end": "2."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/jesushealsamanatbethesda"
+        },
+        {
+            "text": "In these lay a great multitude of impotent folk, of blind, halt, withered, waiting for the moving of the water.  ",
+            "reference": {
+                "book": "John",
+                "chapter": "5",
+                "verse": {
+                    "start": "3.",
+                    "end": "3."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/jesushealsamanatbethesda"
+        },
+        {
+            "text": "For an angel went down at a certain season into the pool, and troubled the water: whosoever then first after the troubling of the water stepped in was made whole of whatsoever disease he had.  ",
+            "reference": {
+                "book": "John",
+                "chapter": "5",
+                "verse": {
+                    "start": "4.",
+                    "end": "4."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/jesushealsamanatbethesda"
+        },
+        {
+            "text": "And a certain man was there, which had an infirmity thirty and eight years.  When Jesus saw him lie, and knew that he had been now a long time [in that case,] he saith unto him, Wilt thou be made whole?  ",
+            "reference": {
+                "book": "John",
+                "chapter": "5",
+                "verse": {
+                    "start": "5.",
+                    "end": "6."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/jesushealsamanatbethesda"
+        },
+        {
+            "text": "The impotent man answered him, Sir, I have no man, when the water is troubled, to put me into the pool: but while I am coming, another steppeth down before me.  ",
+            "reference": {
+                "book": "John",
+                "chapter": "5",
+                "verse": {
+                    "start": "7.",
+                    "end": "7."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/jesushealsamanatbethesda"
+        },
+        {
+            "text": "Jesus saith unto him, Rise, take up thy bed, and walk.  And immediately the man was made whole, and took up his bed, and walked: and on the same day was the sabbath.  ",
+            "reference": {
+                "book": "John",
+                "chapter": "5",
+                "verse": {
+                    "start": "8.",
+                    "end": "9."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/jesushealsamanatbethesda"
+        },
+        {
+            "text": "The Jews therefore said unto him that was cured, It is the sabbath day: it is not lawful for thee to carry [thy] bed.  ",
+            "reference": {
+                "book": "John",
+                "chapter": "5",
+                "verse": {
+                    "start": "10",
+                    "end": "10"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/jesushealsamanatbethesda"
+        },
+        {
+            "text": "He answered them, He that made me whole, the same said unto me, Take up thy bed, and walk.  Then asked they him, What man is that which said unto thee, Take up thy bed, and walk?  And he that was healed wist not who it was: for Jesus had conveyed himself away, a multitude being in [that] place.  ",
+            "reference": {
+                "book": "John",
+                "chapter": "5",
+                "verse": {
+                    "start": "11",
+                    "end": "13"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/jesushealsamanatbethesda"
+        },
+        {
+            "text": "Afterward Jesus findeth him in the temple, and said unto him, Behold, thou art made whole: sin no more, lest a worse thing come unto thee.  The man departed, and told the Jews that it was Jesus, which had made him whole.  ",
+            "reference": {
+                "book": "John",
+                "chapter": "5",
+                "verse": {
+                    "start": "14",
+                    "end": "15"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/jesushealsamanatbethesda"
+        }
+    ],
+    "questions": [
+        {
+            "question": "Where did Jesus go in the story?",
+            "answer": "Jerusalem",
+            "choices": [
+                "Jerusalem",
+                "Nazareth",
+                "Bethlehem",
+                "Jericho"
+            ]
+        },
+        {
+            "question": "What was by the sheep market?",
+            "answer": "a pool",
+            "choices": [
+                "a pool",
+                "a shopping mall",
+                "a playground",
+                "an airport"
+            ]
+        },
+        {
+            "question": "Who went down into the pool to trouble the water?",
+            "answer": "an angel",
+            "choices": [
+                "an angel",
+                "a priest",
+                "a rabbi",
+                "a merchant"
+            ]
+        },
+        {
+            "question": "What did Jesus say to the man to heal him?",
+            "answer": "Rise, take up thy bed and walk",
+            "choices": [
+                "Rise, take up thy bed and walk",
+                "Let us go to the hospital.",
+                "have a drink",
+                "dance"
+            ]
+        },
+        {
+            "question": "What did Jesus say to the man after he was healed?",
+            "answer": "sin no more, lest a worse thing come unto thee.",
+            "choices": [
+                "sin no more, lest a worse thing come unto thee.",
+                "keep on sinning.",
+                "have a good time.",
+                "stop begging for money."
+            ]
+        }
+    ],
+    "activities": [],
+    "references": []
+}
