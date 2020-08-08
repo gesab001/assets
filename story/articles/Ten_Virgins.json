@@ -1,0 +1,179 @@
+{
+    "title": "Ten Virgins",
+    "slides": [
+        {
+            "text": "Then shall the kingdom of heaven be likened unto ten virgins, which took their lamps, and went forth to meet the bridegroom.  And five of them were wise, and five [were] foolish.  ",
+            "reference": {
+                "book": "Matthew",
+                "chapter": "25",
+                "verse": {
+                    "start": "1.",
+                    "end": "2."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/tenvirgins"
+        },
+        {
+            "text": "They that [were] foolish took their lamps, and took no oil with them:  ",
+            "reference": {
+                "book": "Matthew",
+                "chapter": "25",
+                "verse": {
+                    "start": "3.",
+                    "end": "3."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/tenvirgins"
+        },
+        {
+            "text": "But the wise took oil in their vessels with their lamps.  ",
+            "reference": {
+                "book": "Matthew",
+                "chapter": "25",
+                "verse": {
+                    "start": "4.",
+                    "end": "4."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/tenvirgins"
+        },
+        {
+            "text": "While the bridegroom tarried, they all slumbered and slept.  ",
+            "reference": {
+                "book": "Matthew",
+                "chapter": "25",
+                "verse": {
+                    "start": "5.",
+                    "end": "5."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/tenvirgins"
+        },
+        {
+            "text": "And at midnight there was a cry made, Behold, the bridegroom cometh; go ye out to meet him.  ",
+            "reference": {
+                "book": "Matthew",
+                "chapter": "25",
+                "verse": {
+                    "start": "6.",
+                    "end": "6."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/tenvirgins"
+        },
+        {
+            "text": "Then all those virgins arose, and trimmed their lamps.  ",
+            "reference": {
+                "book": "Matthew",
+                "chapter": "25",
+                "verse": {
+                    "start": "7.",
+                    "end": "7."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/tenvirgins"
+        },
+        {
+            "text": "And the foolish said unto the wise, Give us of your oil; for our lamps are gone out.  But the wise answered, saying, [Not so;] lest there be not enough for us and you: but go ye rather to them that sell, and buy for yourselves.  ",
+            "reference": {
+                "book": "Matthew",
+                "chapter": "25",
+                "verse": {
+                    "start": "8.",
+                    "end": "9."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/tenvirgins"
+        },
+        {
+            "text": "And while they went to buy, the bridegroom came; and they that were ready went in with him to the marriage: and the door was shut.  ",
+            "reference": {
+                "book": "Matthew",
+                "chapter": "25",
+                "verse": {
+                    "start": "10",
+                    "end": "10"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/tenvirgins"
+        },
+        {
+            "text": "Afterward came also the other virgins, saying, Lord, Lord, open to us.  But he answered and said, Verily I say unto you, I know you not.  ",
+            "reference": {
+                "book": "Matthew",
+                "chapter": "25",
+                "verse": {
+                    "start": "11",
+                    "end": "12"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/tenvirgins"
+        },
+        {
+            "text": "Watch therefore, for ye know neither the day nor the hour wherein the Son of man cometh.  ",
+            "reference": {
+                "book": "Matthew",
+                "chapter": "25",
+                "verse": {
+                    "start": "13",
+                    "end": "13"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/tenvirgins"
+        }
+    ],
+    "questions": [
+        {
+            "question": "How many were virgins were wise and foolish?",
+            "answer": "5 wise and 5 foolish",
+            "choices": [
+                "5 wise and 5 foolish",
+                "1 wise and 3 foolish",
+                "2 wise and 7 foolish",
+                "10 wise and 10 foolish"
+            ]
+        },
+        {
+            "question": "What happened to the virgins while waiting for the bridegroom?",
+            "answer": "they all slumbered and slept.",
+            "choices": [
+                "they all slumbered and slept.",
+                "they started playing games.",
+                "they starting eating and drinking.",
+                "they started complaining about the delay."
+            ]
+        },
+        {
+            "question": "When did the bridgegroom arrive at the wedding?",
+            "answer": "at midnight",
+            "choices": [
+                "at midnight",
+                "in the morning",
+                "in the afteroon",
+                "at sunset"
+            ]
+        },
+        {
+            "question": "What did the foolish forget to bring with them?",
+            "answer": "oil",
+            "choices": [
+                "oil",
+                "lamps",
+                "present",
+                "food"
+            ]
+        },
+        {
+            "question": "When the foolish knocked on the door to let them in, what were they told?",
+            "answer": "I know you not.",
+            "choices": [
+                "I know you not.",
+                "Please come in.",
+                "So good to you see.",
+                "Go away."
+            ]
+        }
+    ],
+    "activities": [],
+    "references": []
+}
