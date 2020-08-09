@@ -6,6 +6,7 @@ arr = os.listdir("../story/articles")
 folder = input("folder: " )
 print(arr)
 articlejson = input("story json filename:")
+
 def resize(filename):
     command = "identify -format " + "%wx%h "
     p = subprocess.Popen(['identify', '-format', '%w', filename], stdout=subprocess.PIPE)
@@ -65,9 +66,17 @@ while True:
       path = "./"+folder+"/"+filename
       command = "curl -L " + url + " -o " + path
       subprocess.call(command, shell=True)
-      resize(path) 
-      updateIndexHtml(path)   
-      slidenumber = slidenumber + 1
+      proc = subprocess.Popen(["curl", "-L", url, "-o", path],stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+      proc.wait()
+      (stdout, stderr) = proc.communicate()
+
+      if proc.returncode != 0:
+         print(stderr)
+      else:
+         print("success")
+         resize(path) 
+         updateIndexHtml(path)   
+         slidenumber = slidenumber + 1
 
 
 
