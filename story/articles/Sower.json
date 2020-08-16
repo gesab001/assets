@@ -11,7 +11,7 @@
                     "end": "2."
                 }
             },
-            "image": "https://gesab001.github.io/assets/images/sower"
+            "image": "https://gesab001.github.io/assets/images/sower/ship.jpg"
         },
         {
             "text": "Hearken; Behold, there went out a sower to sow:  And it came to pass, as he sowed, some fell by the way side, and the fowls of the air came and devoured it up.  ",
@@ -23,7 +23,7 @@
                     "end": "4."
                 }
             },
-            "image": "https://gesab001.github.io/assets/images/sower"
+            "image": "https://gesab001.github.io/assets/images/sower/wayside.jpg"
         },
         {
             "text": "And some fell on stony ground, where it had not much earth; and immediately it sprang up, because it had no depth of earth:  But when the sun was up, it was scorched; and because it had no root, it withered away.  ",
@@ -35,7 +35,7 @@
                     "end": "6."
                 }
             },
-            "image": "https://gesab001.github.io/assets/images/sower"
+            "image": "https://gesab001.github.io/assets/images/sower/stonyground.jpg"
         },
         {
             "text": "And some fell among thorns, and the thorns grew up, and choked it, and it yielded no fruit.  ",
@@ -47,7 +47,7 @@
                     "end": "7."
                 }
             },
-            "image": "https://gesab001.github.io/assets/images/sower"
+            "image": "https://gesab001.github.io/assets/images/sower/thorns.jpg"
         },
         {
             "text": "And other fell on good ground, and did yield fruit that sprang up and increased; and brought forth, some thirty, and some sixty, and some an hundred.  And he said unto them, He that hath ears to hear, let him hear.  ",
@@ -59,7 +59,7 @@
                     "end": "9."
                 }
             },
-            "image": "https://gesab001.github.io/assets/images/sower"
+            "image": "https://gesab001.github.io/assets/images/sower/goodground.jpg"
         },
         {
             "text": "And when he was alone, they that were about him with the twelve asked of him the parable.  And he said unto them, Unto you it is given to know the mystery of the kingdom of God: but unto them that are without, all these [things] are done in parables:  That seeing they may see, and not perceive; and hearing they may hear, and not understand; lest at any time they should be converted, and [their] sins should be forgiven them.  And he said unto them, Know ye not this parable? and how then will ye know all parables?  ",
@@ -71,7 +71,7 @@
                     "end": "13"
                 }
             },
-            "image": "https://gesab001.github.io/assets/images/sower"
+            "image": "https://gesab001.github.io/assets/images/sower/disciplesask.jpg"
         },
         {
             "text": "The sower soweth the word.  And these are they by the way side, where the word is sown; but when they have heard, Satan cometh immediately, and taketh away the word that was sown in their hearts.  ",
@@ -83,7 +83,7 @@
                     "end": "15"
                 }
             },
-            "image": "https://gesab001.github.io/assets/images/sower"
+            "image": "https://gesab001.github.io/assets/images/sower/bible.jpg"
         },
         {
             "text": "And these are they likewise which are sown on stony ground; who, when they have heard the word, immediately receive it with gladness;  And have no root in themselves, and so endure but for a time: afterward, when affliction or persecution ariseth for the word's sake, immediately they are offended.  ",
@@ -95,7 +95,7 @@
                     "end": "17"
                 }
             },
-            "image": "https://gesab001.github.io/assets/images/sower"
+            "image": "https://gesab001.github.io/assets/images/sower/persecution.jpg"
         },
         {
             "text": "And these are they which are sown among thorns; such as hear the word,  And the cares of this world, and the deceitfulness of riches, and the lusts of other things entering in, choke the word, and it becometh unfruitful.  ",
@@ -107,7 +107,7 @@
                     "end": "19"
                 }
             },
-            "image": "https://gesab001.github.io/assets/images/sower"
+            "image": "https://gesab001.github.io/assets/images/sower/lotsofmoney.jpg"
         },
         {
             "text": "And these are they which are sown on good ground; such as hear the word, and receive [it,] and bring forth fruit, some thirtyfold, some sixty, and some an hundred.  ",
@@ -119,7 +119,7 @@
                     "end": "20"
                 }
             },
-            "image": "https://gesab001.github.io/assets/images/sower"
+            "image": "https://gesab001.github.io/assets/images/sower/fruits.jpeg"
         }
     ],
     "questions": [
