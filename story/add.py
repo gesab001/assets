@@ -85,7 +85,7 @@ def addStory(title, letter, book, chapter):
   for i in range(0, 26):
      if jsondata[i]["letter"]==letter:
         if title not in jsondata[i]["names"]:
-          jsondata[i]["names"].append(title.capitalize())
+          jsondata[i]["names"].append(title)
           print(jsondata)
           with open("stories.json", "w") as outfile:
              json.dump(jsondata, outfile, indent=4)
