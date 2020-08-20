@@ -1,0 +1,179 @@
+{
+    "title": "Jesus dies on the cross",
+    "slides": [
+        {
+            "text": "And when they were come to the place, which is called Calvary, there they crucified him, and the malefactors, one on the right hand, and the other on the left.  ",
+            "reference": {
+                "book": "Luke",
+                "chapter": "23",
+                "verse": {
+                    "start": "33",
+                    "end": "33"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/jesusdiesonthecross"
+        },
+        {
+            "text": "Then said Jesus, Father, forgive them; for they know not what they do. And they parted his raiment, and cast lots.  ",
+            "reference": {
+                "book": "Luke",
+                "chapter": "23",
+                "verse": {
+                    "start": "34",
+                    "end": "34"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/jesusdiesonthecross"
+        },
+        {
+            "text": "And the people stood beholding. And the rulers also with them derided [him,] saying, He saved others; let him save himself, if he be Christ, the chosen of God.  ",
+            "reference": {
+                "book": "Luke",
+                "chapter": "23",
+                "verse": {
+                    "start": "35",
+                    "end": "35"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/jesusdiesonthecross"
+        },
+        {
+            "text": "And the soldiers also mocked him, coming to him, and offering him vinegar,  And saying, If thou be the king of the Jews, save thyself.  ",
+            "reference": {
+                "book": "Luke",
+                "chapter": "23",
+                "verse": {
+                    "start": "36",
+                    "end": "37"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/jesusdiesonthecross"
+        },
+        {
+            "text": "And a superscription also was written over him in letters of Greek, and Latin, and Hebrew, THIS IS THE KING OF THE JEWS.  ",
+            "reference": {
+                "book": "Luke",
+                "chapter": "23",
+                "verse": {
+                    "start": "38",
+                    "end": "38"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/jesusdiesonthecross"
+        },
+        {
+            "text": "And one of the malefactors which were hanged railed on him, saying, If thou be Christ, save thyself and us.  ",
+            "reference": {
+                "book": "Luke",
+                "chapter": "23",
+                "verse": {
+                    "start": "39",
+                    "end": "39"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/jesusdiesonthecross"
+        },
+        {
+            "text": "But the other answering rebuked him, saying, Dost not thou fear God, seeing thou art in the same condemnation?  And we indeed justly; for we receive the due reward of our deeds: but this man hath done nothing amiss.  And he said unto Jesus, Lord, remember me when thou comest into thy kingdom.  ",
+            "reference": {
+                "book": "Luke",
+                "chapter": "23",
+                "verse": {
+                    "start": "40",
+                    "end": "42"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/jesusdiesonthecross"
+        },
+        {
+            "text": "And Jesus said unto him, Verily I say unto thee, To day shalt thou be with me in paradise.  ",
+            "reference": {
+                "book": "Luke",
+                "chapter": "23",
+                "verse": {
+                    "start": "43",
+                    "end": "43"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/jesusdiesonthecross"
+        },
+        {
+            "text": "And it was about the sixth hour, and there was a darkness over all the earth until the ninth hour.  And the sun was darkened, and the veil of the temple was rent in the midst.  ",
+            "reference": {
+                "book": "Luke",
+                "chapter": "23",
+                "verse": {
+                    "start": "44",
+                    "end": "45"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/jesusdiesonthecross"
+        },
+        {
+            "text": "And when Jesus had cried with a loud voice, he said, Father, into thy hands I commend my spirit: and having said thus, he gave up the ghost.  ",
+            "reference": {
+                "book": "Luke",
+                "chapter": "23",
+                "verse": {
+                    "start": "46",
+                    "end": "46"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/jesusdiesonthecross"
+        }
+    ],
+    "questions": [
+        {
+            "question": "What is the name of the place where Jesus was crucified?",
+            "answer": "Calvary",
+            "choices": [
+                "Calvary",
+                "Nain",
+                "Nazareth",
+                "Bethesda"
+            ]
+        },
+        {
+            "question": "What did Jesus ask God, the Father to do to those who persecuted Him?",
+            "answer": "forgive them",
+            "choices": [
+                "forgive them",
+                "destroy them",
+                "punish them",
+                "crucify them"
+            ]
+        },
+        {
+            "question": "What did the soldiers offer to Jesus?",
+            "answer": "vinegar to drink",
+            "choices": [
+                "vinegar to drink",
+                "food to eat",
+                "clothes to wear",
+                "water to drink"
+            ]
+        },
+        {
+            "question": "What did the other thief ask from Jesus?",
+            "answer": "to remember him ",
+            "choices": [
+                "to remember him ",
+                "to help him get off from the cross",
+                "to help him escape",
+                "to take care of his family"
+            ]
+        },
+        {
+            "question": "What happened to the veil of the temple when Jesus died?",
+            "answer": "it was rent in the midst",
+            "choices": [
+                "it was rent in the midst",
+                "it was washed clean",
+                "it was replaced with a new one",
+                "it was painted with red color"
+            ]
+        }
+    ],
+    "activities": [],
+    "references": []
+}
