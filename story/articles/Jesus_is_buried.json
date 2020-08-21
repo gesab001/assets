@@ -1,0 +1,179 @@
+{
+    "title": "Jesus is buried",
+    "slides": [
+        {
+            "text": "When Jesus therefore had received the vinegar, he said, It is finished: and he bowed his head, and gave up the ghost.  ",
+            "reference": {
+                "book": "John",
+                "chapter": "19",
+                "verse": {
+                    "start": "30",
+                    "end": "30"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/jesusisburied/itisfinished.jpg"
+        },
+        {
+            "text": "The Jews therefore, because it was the preparation, that the bodies should not remain upon the cross on the sabbath day, (for that sabbath day was an high day,) besought Pilate that their legs might be broken, and [that] they might be taken away.  ",
+            "reference": {
+                "book": "John",
+                "chapter": "19",
+                "verse": {
+                    "start": "31",
+                    "end": "31"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/jesusisburied/jews.png"
+        },
+        {
+            "text": "Then came the soldiers, and brake the legs of the first, and of the other which was crucified with him.  ",
+            "reference": {
+                "book": "John",
+                "chapter": "19",
+                "verse": {
+                    "start": "32",
+                    "end": "32"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/jesusisburied/breaklegs.jpg"
+        },
+        {
+            "text": "But when they came to Jesus, and saw that he was dead already, they brake not his legs:  But one of the soldiers with a spear pierced his side, and forthwith came there out blood and water.  ",
+            "reference": {
+                "book": "John",
+                "chapter": "19",
+                "verse": {
+                    "start": "33",
+                    "end": "34"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/jesusisburied/pierced.jpg"
+        },
+        {
+            "text": "And he that saw [it] bare record, and his record is true: and he knoweth that he saith true, that ye might believe.  For these things were done, that the scripture should be fulfilled, A bone of him shall not be broken.  And again another scripture saith, They shall look on him whom they pierced.  ",
+            "reference": {
+                "book": "John",
+                "chapter": "19",
+                "verse": {
+                    "start": "35",
+                    "end": "37"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/jesusisburied/scripturepierced.jpg"
+        },
+        {
+            "text": "And after this Joseph of Arimathaea, being a disciple of Jesus, but secretly for fear of the Jews, besought Pilate that he might take away the body of Jesus: and Pilate gave [him] leave. He came therefore, and took the body of Jesus.  ",
+            "reference": {
+                "book": "John",
+                "chapter": "19",
+                "verse": {
+                    "start": "38",
+                    "end": "38"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/jesusisburied/jesusbodytakendown.jpg"
+        },
+        {
+            "text": "And there came also Nicodemus, which at the first came to Jesus by night, and brought a mixture of myrrh and aloes, about an hundred pound [weight. ]  ",
+            "reference": {
+                "book": "John",
+                "chapter": "19",
+                "verse": {
+                    "start": "39",
+                    "end": "39"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/jesusisburied/nicodemus.jpg"
+        },
+        {
+            "text": "Then took they the body of Jesus, and wound it in linen clothes with the spices, as the manner of the Jews is to bury.  ",
+            "reference": {
+                "book": "John",
+                "chapter": "19",
+                "verse": {
+                    "start": "40",
+                    "end": "40"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/jesusisburied/jesusbodywrapped.jpg"
+        },
+        {
+            "text": "Now in the place where he was crucified there was a garden; and in the garden a new sepulchre, wherein was never man yet laid.  ",
+            "reference": {
+                "book": "John",
+                "chapter": "19",
+                "verse": {
+                    "start": "41",
+                    "end": "41"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/jesusisburied/tomb.jpg"
+        },
+        {
+            "text": "There laid they Jesus therefore because of the Jews' preparation [day;] for the sepulchre was nigh at hand.  ",
+            "reference": {
+                "book": "John",
+                "chapter": "19",
+                "verse": {
+                    "start": "42",
+                    "end": "42"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/jesusisburied/jesusburied.jpg"
+        }
+    ],
+    "questions": [
+        {
+            "question": "What did Jesus say before He died?",
+            "answer": "It is finished",
+            "choices": [
+                "It is finished",
+                "I don't want to die",
+                "I am scared",
+                "Father God save me"
+            ]
+        },
+        {
+            "question": "What did the soldiers do the legs of the two thieves?",
+            "answer": "They broke their legs",
+            "choices": [
+                "They broke their legs",
+                "They massaged their legs",
+                "They washed their legs",
+                "They cut off their legs"
+            ]
+        },
+        {
+            "question": "What did one of the soldiers do to Jesus' side?",
+            "answer": "He pierced His side.",
+            "choices": [
+                "He pierced His side.",
+                "He washed His side.",
+                "He hit His side with a stick.",
+                "He tickled Jesus side."
+            ]
+        },
+        {
+            "question": "What came out of Jesus side?",
+            "answer": "blood and water",
+            "choices": [
+                "blood and water",
+                "juice and water",
+                "only water",
+                "blood"
+            ]
+        },
+        {
+            "question": "Who took away the body of Jesus to be buried?",
+            "answer": "Joseph of Arimathaea",
+            "choices": [
+                "Joseph of Arimathaea",
+                "Jesus' father, Joseph",
+                "John",
+                "Peter"
+            ]
+        }
+    ],
+    "activities": [],
+    "references": []
+}
