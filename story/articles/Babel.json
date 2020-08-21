@@ -1,0 +1,179 @@
+{
+    "title": "Babel",
+    "slides": [
+        {
+            "text": "And the whole earth was of one language, and of one speech.  ",
+            "reference": {
+                "book": "Genesis",
+                "chapter": "11",
+                "verse": {
+                    "start": "1.",
+                    "end": "1."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/babel/earth.jpg"
+        },
+        {
+            "text": "And it came to pass, as they journeyed from the east, that they found a plain in the land of Shinar; and they dwelt there.  ",
+            "reference": {
+                "book": "Genesis",
+                "chapter": "11",
+                "verse": {
+                    "start": "2.",
+                    "end": "2."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/babel/shinar.jpg"
+        },
+        {
+            "text": "And they said one to another, Go to, let us make brick, and burn them throughly.   ",
+            "reference": {
+                "book": "Genesis",
+                "chapter": "11",
+                "verse": {
+                    "start": "3.",
+                    "end": "3."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/babel/bricks.jpg"
+        },
+        {
+            "text": "And they had brick for stone, and slime had they for morter.  ",
+            "reference": {
+                "book": "Genesis",
+                "chapter": "11",
+                "verse": {
+                    "start": "3.",
+                    "end": "3."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/babel/brickmortar.jpg"
+        },
+        {
+            "text": "And they said, Go to, let us build us a city and a tower, whose top [may reach] unto heaven; and let us make us a name, lest we be scattered abroad upon the face of the whole earth.  ",
+            "reference": {
+                "book": "Genesis",
+                "chapter": "11",
+                "verse": {
+                    "start": "4.",
+                    "end": "4."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/babel/tower.jpg"
+        },
+        {
+            "text": "And the LORD came down to see the city and the tower, which the children of men builded.  ",
+            "reference": {
+                "book": "Genesis",
+                "chapter": "11",
+                "verse": {
+                    "start": "5.",
+                    "end": "5."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/babel/godlooksdown.jpg"
+        },
+        {
+            "text": "And the LORD said, Behold, the people [is] one, and they have all one language; and this they begin to do: and now nothing will be restrained from them, which they have imagined to do.  ",
+            "reference": {
+                "book": "Genesis",
+                "chapter": "11",
+                "verse": {
+                    "start": "6.",
+                    "end": "6."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/babel/imagine.jpg"
+        },
+        {
+            "text": "Go to, let us go down, and there confound their language, that they may not understand one another's speech.  ",
+            "reference": {
+                "book": "Genesis",
+                "chapter": "11",
+                "verse": {
+                    "start": "7.",
+                    "end": "7."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/babel/differentlanguages.jpg"
+        },
+        {
+            "text": "So the LORD scattered them abroad from thence upon the face of all the earth: and they left off to build the city.  ",
+            "reference": {
+                "book": "Genesis",
+                "chapter": "11",
+                "verse": {
+                    "start": "8.",
+                    "end": "8."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/babel/left.jpg"
+        },
+        {
+            "text": "Therefore is the name of it called Babel; because the LORD did there confound the language of all the earth: and from thence did the LORD scatter them abroad upon the face of all the earth.  ",
+            "reference": {
+                "book": "Genesis",
+                "chapter": "11",
+                "verse": {
+                    "start": "9.",
+                    "end": "9."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/babel/scattered.jpg"
+        }
+    ],
+    "questions": [
+        {
+            "question": "How many languages were there in the time of Babel?",
+            "answer": "one",
+            "choices": [
+                "one",
+                "two",
+                "three",
+                "four"
+            ]
+        },
+        {
+            "question": "What was the name of the land where the people dwelt?",
+            "answer": "land of Shinar",
+            "choices": [
+                "land of Shinar",
+                "land of Canaan",
+                "land of Egypt",
+                "land of the Philistines"
+            ]
+        },
+        {
+            "question": "What did the people use for building?",
+            "answer": "brick and slime",
+            "choices": [
+                "brick and slime",
+                "sand and stones",
+                "concrete",
+                "asphalt"
+            ]
+        },
+        {
+            "question": "How high did the people want to build the tower?",
+            "answer": "high enough to reach unto heaven",
+            "choices": [
+                "high enough to reach unto heaven",
+                "300 meters",
+                "200 meters",
+                "1000 meters"
+            ]
+        },
+        {
+            "question": "What did God do to their language?",
+            "answer": "confounded their language",
+            "choices": [
+                "confounded their language",
+                "made it better",
+                "added new words",
+                "took away their language"
+            ]
+        }
+    ],
+    "activities": [],
+    "references": []
+}
