@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-
+import subprocess
 import json
 
 f = open("kjv-version.json")
@@ -41,3 +41,5 @@ for x in range(1, 67):
 with open ("memory_verse.json", "w") as outfile:
    json.dump(topicjson, outfile, indent=4)
 
+
+subprocess.call("../deploy.sh", shell=True)
