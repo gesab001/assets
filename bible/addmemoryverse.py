@@ -28,7 +28,7 @@ for x in range(1, 67):
                verses = chapters[chapterN]["chapter"]
                word = ""
                verseRange = versestart
-               if versestart==verseend:
+               if versestart!=verseend:
                  verseRange = versestart + "-" + verseend
                
                for verseN in range(int(versestart), int(verseend)+1):
