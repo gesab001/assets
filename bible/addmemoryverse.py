@@ -27,7 +27,10 @@ for x in range(1, 67):
                print(chapter + "==" + chapterN)
                verses = chapters[chapterN]["chapter"]
                word = ""
-               verseRange = versestart + "-" + verseend
+               verseRange = versestart
+               if versestart==verseend:
+                 verseRange = versestart + "-" + verseend
+               
                for verseN in range(int(versestart), int(verseend)+1):
                       word = word + verses[str(verseN)]["verse"]                    
                print(bookname + " " + chapterN + ":" + str(verseN))
