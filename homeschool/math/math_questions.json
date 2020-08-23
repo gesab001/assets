@@ -5,10 +5,6 @@
             "name": "fa fa-ambulance"
         },
         {
-            "title": "pram",
-            "name": "fa fa-baby-carriage"
-        },
-        {
             "title": "bicycle",
             "name": "fa fa-bicycle"
         },
@@ -23,14 +19,6 @@
         {
             "title": "jet",
             "name": "fa fa-fighter-jet"
-        },
-        {
-            "title": "helicopter",
-            "name": "fa fa-helicopter"
-        },
-        {
-            "title": "horse",
-            "name": "fa fa-horse"
         },
         {
             "title": "motorcycle",
@@ -53,20 +41,8 @@
             "name": "fa fa-ship"
         },
         {
-            "title": "shopping car",
+            "title": "shopping cart",
             "name": "fa fa-shopping-cart"
-        },
-        {
-            "title": "van",
-            "name": "fa fa-van"
-        },
-        {
-            "title": "sleigh",
-            "name": "fa fa-sleigh"
-        },
-        {
-            "title": "snowplow",
-            "name": "fas fa-snowplow"
         },
         {
             "title": "space shuttle",
@@ -81,28 +57,12 @@
             "name": "fa fa-taxi"
         },
         {
-            "title": "tractor",
-            "name": "fa fa-tractor"
-        },
-        {
             "title": "train",
             "name": "fa fa-train"
         },
         {
-            "title": "tram",
-            "name": "fa fa-tram"
-        },
-        {
             "title": "truck",
             "name": "fa fa-truck"
-        },
-        {
-            "title": "truck monster",
-            "name": "fa fa-truck-monster"
-        },
-        {
-            "title": "pickup truck",
-            "name": "fa fa-truck-pickup"
         },
         {
             "title": "wheelchair",
