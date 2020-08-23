@@ -415,5 +415,209 @@
                 ]
             }
         ]
+    },
+    "m1c1": {
+        "questions": [
+            {
+                "question": "L L L L L L L L L L",
+                "answer": "10",
+                "choices": [
+                    "10",
+                    "6",
+                    "5",
+                    "3"
+                ]
+            },
+            {
+                "question": "B B B B B",
+                "answer": "5",
+                "choices": [
+                    "5",
+                    "6",
+                    "7",
+                    "8"
+                ]
+            },
+            {
+                "question": "A A A ",
+                "answer": "3",
+                "choices": [
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            },
+            {
+                "question": "S S S S S S S",
+                "answer": "7",
+                "choices": [
+                    "7",
+                    "5",
+                    "4",
+                    "3"
+                ]
+            },
+            {
+                "question": "Q Q",
+                "answer": "2",
+                "choices": [
+                    "2",
+                    "3",
+                    "4",
+                    "5"
+                ]
+            },
+            {
+                "question": "Y",
+                "answer": "1",
+                "choices": [
+                    "1",
+                    "2",
+                    "3",
+                    "4"
+                ]
+            },
+            {
+                "question": "P P P P P P P P P",
+                "answer": "9",
+                "choices": [
+                    "9",
+                    "8",
+                    "7",
+                    "6"
+                ]
+            },
+            {
+                "question": "V V V V V V ",
+                "answer": "6",
+                "choices": [
+                    "6",
+                    "7",
+                    "5",
+                    "4"
+                ]
+            },
+            {
+                "question": "E E E E ",
+                "answer": "4",
+                "choices": [
+                    "4",
+                    "3",
+                    "5",
+                    "6"
+                ]
+            },
+            {
+                "question": "N N",
+                "answer": "2",
+                "choices": [
+                    "2",
+                    "3",
+                    "4",
+                    "5"
+                ]
+            },
+            {
+                "question": "R R R R R R R R",
+                "answer": "8",
+                "choices": [
+                    "8",
+                    "6",
+                    "5",
+                    "4"
+                ]
+            },
+            {
+                "question": "W W W W W W W W W W ",
+                "answer": "10",
+                "choices": [
+                    "10",
+                    "9",
+                    "8",
+                    "7"
+                ]
+            },
+            {
+                "question": "M",
+                "answer": "1",
+                "choices": [
+                    "1",
+                    "2",
+                    "3",
+                    "4"
+                ]
+            },
+            {
+                "question": "D D D ",
+                "answer": "3",
+                "choices": [
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ]
+            },
+            {
+                "question": "I I I I",
+                "answer": "4",
+                "choices": [
+                    "4",
+                    "5",
+                    "6",
+                    "3"
+                ]
+            },
+            {
+                "question": "V V V V V",
+                "answer": "5",
+                "choices": [
+                    "5",
+                    "6",
+                    "4",
+                    "3"
+                ]
+            },
+            {
+                "question": "Z Z Z Z Z Z",
+                "answer": "6",
+                "choices": [
+                    "6",
+                    "3",
+                    "4",
+                    "2"
+                ]
+            },
+            {
+                "question": "F F F F F F F",
+                "answer": "7",
+                "choices": [
+                    "7",
+                    "5",
+                    "4",
+                    "8"
+                ]
+            },
+            {
+                "question": "Q Q Q Q Q Q Q Q ",
+                "answer": "8",
+                "choices": [
+                    "8",
+                    "9",
+                    "6",
+                    "5"
+                ]
+            },
+            {
+                "question": "X X X X X X X X X",
+                "answer": "9",
+                "choices": [
+                    "9",
+                    "10",
+                    "8",
+                    "7"
+                ]
+            }
+        ]
     }
 }
