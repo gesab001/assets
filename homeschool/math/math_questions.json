@@ -1,4 +1,114 @@
-{   "icons": [],
+{
+    "icons": [
+        {
+            "title": "ambulance",
+            "name": "fa fa-ambulance"
+        },
+        {
+            "title": "pram",
+            "name": "fa fa-baby-carriage"
+        },
+        {
+            "title": "bicycle",
+            "name": "fa fa-bicycle"
+        },
+        {
+            "title": "bus ",
+            "name": "fa fa-bus"
+        },
+        {
+            "title": "car",
+            "name": "fa fa-car"
+        },
+        {
+            "title": "jet",
+            "name": "fa fa-fighter-jet"
+        },
+        {
+            "title": "helicopter",
+            "name": "fa fa-helicopter"
+        },
+        {
+            "title": "horse",
+            "name": "fa fa-horse"
+        },
+        {
+            "title": "motorcycle",
+            "name": "fa fa-motorcycle"
+        },
+        {
+            "title": "paper plane",
+            "name": "fa fa-paper-plane"
+        },
+        {
+            "title": "plane",
+            "name": "fa fa-plane"
+        },
+        {
+            "title": "rocket",
+            "name": "fa fa-rocket"
+        },
+        {
+            "title": "ship",
+            "name": "fa fa-ship"
+        },
+        {
+            "title": "shopping car",
+            "name": "fa fa-shopping-cart"
+        },
+        {
+            "title": "van",
+            "name": "fa fa-van"
+        },
+        {
+            "title": "sleigh",
+            "name": "fa fa-sleigh"
+        },
+        {
+            "title": "snowplow",
+            "name": "fa fa-snowplow"
+        },
+        {
+            "title": "space shuttle",
+            "name": "fa fa-space-shuttle"
+        },
+        {
+            "title": "subway",
+            "name": "fa fa-subway"
+        },
+        {
+            "title": "taxi",
+            "name": "fa fa-taxi"
+        },
+        {
+            "title": "tractor",
+            "name": "fa fa-tractor"
+        },
+        {
+            "title": "train",
+            "name": "fa fa-train"
+        },
+        {
+            "title": "tram",
+            "name": "fa fa-tram"
+        },
+        {
+            "title": "truck",
+            "name": "fa fa-truck"
+        },
+        {
+            "title": "truck monster",
+            "name": "fa fa-truck-monster"
+        },
+        {
+            "title": "pickup truck",
+            "name": "fa fa-truck-pickup"
+        },
+        {
+            "title": "wheelchair",
+            "name": "fa fa-wheelchair"
+        }
+    ],
     "m2c1": {
         "questions": [
             {
