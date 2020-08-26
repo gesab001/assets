@@ -6,10 +6,10 @@ for x in range(0,100):
 
    question = str(x)  + " + " +   str(1)
    answer = x + 1
-   a = x - 1
-   b = x 
-   c = x + 2
-   d = x + 3
+   a = answer
+   b = x  - 1
+   c = x
+   d = x + 2
    choices = [a, b, c, d]
    jsondata = {"question": question, "answer": answer, "choices": choices}
    questions.append(jsondata)
