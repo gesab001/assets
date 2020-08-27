@@ -1,0 +1,179 @@
+{
+    "title": "I am",
+    "slides": [
+        {
+            "text": "And Jesus said unto them, I am the bread of life: he that cometh to me shall never hunger; and he that believeth on me shall never thirst.  ",
+            "reference": {
+                "book": "John",
+                "chapter": "6",
+                "verse": {
+                    "start": "Jo",
+                    "end": "Jo"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/iam"
+        },
+        {
+            "text": "Then spake Jesus again unto them, saying, I am the light of the world: he that followeth me shall not walk in darkness, but shall have the light of life.  ",
+            "reference": {
+                "book": "John",
+                "chapter": "6",
+                "verse": {
+                    "start": "Jo",
+                    "end": "Jo"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/iam"
+        },
+        {
+            "text": "Then said Jesus unto them again, Verily, verily, I say unto you, I am the door of the sheep.  I am the door: by me if any man enter in, he shall be saved, and shall go in and out, and find pasture.   ",
+            "reference": {
+                "book": "John",
+                "chapter": "6",
+                "verse": {
+                    "start": "J",
+                    "end": "Jo"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/iam"
+        },
+        {
+            "text": "I am the good shepherd: the good shepherd giveth his life for the sheep.  I am the good shepherd, and know my [sheep,] and am known of mine.   ",
+            "reference": {
+                "book": "John",
+                "chapter": "6",
+                "verse": {
+                    "start": "J",
+                    "end": "Jo"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/iam"
+        },
+        {
+            "text": "Jesus said unto her, I am the resurrection, and the life: he that believeth in me, though he were dead, yet shall he live:  ",
+            "reference": {
+                "book": "John",
+                "chapter": "6",
+                "verse": {
+                    "start": "Jo",
+                    "end": "Jo"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/iam"
+        },
+        {
+            "text": "Jesus saith unto him, I am the way, the truth, and the life: no man cometh unto the Father, but by me.  ",
+            "reference": {
+                "book": "John",
+                "chapter": "6",
+                "verse": {
+                    "start": "Jo",
+                    "end": "Jo"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/iam"
+        },
+        {
+            "text": "I am the vine, ye [are] the branches: He that abideth in me, and I in him, the same bringeth forth much fruit: for without me ye can do nothing.  ",
+            "reference": {
+                "book": "John",
+                "chapter": "6",
+                "verse": {
+                    "start": "Jo",
+                    "end": "Jo"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/iam"
+        },
+        {
+            "text": "The next day John seeth Jesus coming unto him, and saith, Behold the Lamb of God, which taketh away the sin of the world.  ",
+            "reference": {
+                "book": "John",
+                "chapter": "6",
+                "verse": {
+                    "start": "Jo",
+                    "end": "Jo"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/iam"
+        },
+        {
+            "text": "O Jerusalem, Jerusalem, which killest the prophets, and stonest them that are sent unto thee; how often would I have gathered thy children together, as a hen [doth gather] her brood under [her] wings, and ye would not!  ",
+            "reference": {
+                "book": "John",
+                "chapter": "6",
+                "verse": {
+                    "start": "Lu",
+                    "end": "Lu"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/iam"
+        },
+        {
+            "text": "I am Alpha and Omega, the beginning and the end, the first and the last.  ",
+            "reference": {
+                "book": "John",
+                "chapter": "6",
+                "verse": {
+                    "start": "Re",
+                    "end": "Re"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/iam"
+        }
+    ],
+    "questions": [
+        {
+            "question": "I am the _____ of life: he that cometh to me shall never hunger.",
+            "answer": "bread",
+            "choices": [
+                "bread",
+                "water",
+                "tree",
+                "rain"
+            ]
+        },
+        {
+            "question": "Behold the Lamb of God, which taketh away the ___ of the world.",
+            "answer": "sin",
+            "choices": [
+                "sin",
+                "toys",
+                "videos",
+                "food"
+            ]
+        },
+        {
+            "question": "I am the light of the world: he that followeth me shall not walk in ______.",
+            "answer": "darkness",
+            "choices": [
+                "darkness",
+                "street",
+                "the house",
+                "the shopping mall"
+            ]
+        },
+        {
+            "question": "I am the door: by me if any man enter in, he shall be ______",
+            "answer": "saved",
+            "choices": [
+                "saved",
+                "dead",
+                "sad",
+                "hungry"
+            ]
+        },
+        {
+            "question": "I am the vine, ye are the _______.",
+            "answer": "branches",
+            "choices": [
+                "branches",
+                "root",
+                "leaves",
+                "flowers"
+            ]
+        }
+    ],
+    "activities": [],
+    "references": []
+}
