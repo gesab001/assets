@@ -1078,203 +1078,1003 @@
         "type": "count",
         "questions": [
             {
-                "question": "L L L L L L L L L L",
-                "answer": "10",
+                "question": "L",
+                "answer": 1,
                 "choices": [
-                    "10",
-                    "6",
-                    "5",
-                    "3"
+                    1,
+                    0,
+                    2,
+                    3
                 ]
             },
             {
-                "question": "B B B B B",
-                "answer": "5",
+                "question": "LL",
+                "answer": 2,
                 "choices": [
-                    "5",
-                    "6",
-                    "7",
-                    "8"
+                    2,
+                    0,
+                    4,
+                    5
                 ]
             },
             {
-                "question": "A A A ",
-                "answer": "3",
+                "question": "LLL",
+                "answer": 3,
                 "choices": [
-                    "3",
-                    "4",
-                    "5",
-                    "6"
+                    3,
+                    0,
+                    6,
+                    7
                 ]
             },
             {
-                "question": "S S S S S S S",
-                "answer": "7",
+                "question": "LLLL",
+                "answer": 4,
                 "choices": [
-                    "7",
-                    "5",
-                    "4",
-                    "3"
+                    4,
+                    0,
+                    8,
+                    9
                 ]
             },
             {
-                "question": "Q Q",
-                "answer": "2",
+                "question": "LLLLL",
+                "answer": 5,
                 "choices": [
-                    "2",
-                    "3",
-                    "4",
-                    "5"
+                    5,
+                    0,
+                    10,
+                    11
                 ]
             },
             {
-                "question": "Y",
-                "answer": "1",
+                "question": "LLLLLL",
+                "answer": 6,
                 "choices": [
-                    "1",
-                    "2",
-                    "3",
-                    "4"
+                    6,
+                    0,
+                    12,
+                    13
                 ]
             },
             {
-                "question": "P P P P P P P P P",
-                "answer": "9",
+                "question": "LLLLLLL",
+                "answer": 7,
                 "choices": [
-                    "9",
-                    "8",
-                    "7",
-                    "6"
+                    7,
+                    0,
+                    14,
+                    15
                 ]
             },
             {
-                "question": "V V V V V V ",
-                "answer": "6",
+                "question": "LLLLLLLL",
+                "answer": 8,
                 "choices": [
-                    "6",
-                    "7",
-                    "5",
-                    "4"
+                    8,
+                    0,
+                    16,
+                    17
                 ]
             },
             {
-                "question": "E E E E ",
-                "answer": "4",
+                "question": "LLLLLLLLL",
+                "answer": 9,
                 "choices": [
-                    "4",
-                    "3",
-                    "5",
-                    "6"
+                    9,
+                    0,
+                    18,
+                    19
                 ]
             },
             {
-                "question": "N N",
-                "answer": "2",
+                "question": "LLLLLLLLLL",
+                "answer": 10,
                 "choices": [
-                    "2",
-                    "3",
-                    "4",
-                    "5"
+                    10,
+                    0,
+                    20,
+                    21
                 ]
             },
             {
-                "question": "R R R R R R R R",
-                "answer": "8",
+                "question": "L",
+                "answer": 1,
                 "choices": [
-                    "8",
-                    "6",
-                    "5",
-                    "4"
+                    1,
+                    10,
+                    12,
+                    13
                 ]
             },
             {
-                "question": "W W W W W W W W W W ",
-                "answer": "10",
+                "question": "LL",
+                "answer": 2,
                 "choices": [
-                    "10",
-                    "9",
-                    "8",
-                    "7"
+                    2,
+                    10,
+                    14,
+                    15
                 ]
             },
             {
-                "question": "M",
-                "answer": "1",
+                "question": "LLL",
+                "answer": 3,
                 "choices": [
-                    "1",
-                    "2",
-                    "3",
-                    "4"
+                    3,
+                    10,
+                    16,
+                    17
                 ]
             },
             {
-                "question": "D D D ",
-                "answer": "3",
+                "question": "LLLL",
+                "answer": 4,
                 "choices": [
-                    "3",
-                    "4",
-                    "5",
-                    "6"
+                    4,
+                    10,
+                    18,
+                    19
                 ]
             },
             {
-                "question": "I I I I",
-                "answer": "4",
+                "question": "LLLLL",
+                "answer": 5,
                 "choices": [
-                    "4",
-                    "5",
-                    "6",
-                    "3"
+                    5,
+                    10,
+                    20,
+                    21
                 ]
             },
             {
-                "question": "V V V V V",
-                "answer": "5",
+                "question": "LLLLLL",
+                "answer": 6,
                 "choices": [
-                    "5",
-                    "6",
-                    "4",
-                    "3"
+                    6,
+                    10,
+                    22,
+                    23
                 ]
             },
             {
-                "question": "Z Z Z Z Z Z",
-                "answer": "6",
+                "question": "LLLLLLL",
+                "answer": 7,
                 "choices": [
-                    "6",
-                    "3",
-                    "4",
-                    "2"
+                    7,
+                    10,
+                    24,
+                    25
                 ]
             },
             {
-                "question": "F F F F F F F",
-                "answer": "7",
+                "question": "LLLLLLLL",
+                "answer": 8,
                 "choices": [
-                    "7",
-                    "5",
-                    "4",
-                    "8"
+                    8,
+                    10,
+                    26,
+                    27
                 ]
             },
             {
-                "question": "Q Q Q Q Q Q Q Q ",
-                "answer": "8",
+                "question": "LLLLLLLLL",
+                "answer": 9,
                 "choices": [
-                    "8",
-                    "9",
-                    "6",
-                    "5"
+                    9,
+                    10,
+                    28,
+                    29
                 ]
             },
             {
-                "question": "X X X X X X X X X",
-                "answer": "9",
+                "question": "LLLLLLLLLL",
+                "answer": 10,
                 "choices": [
-                    "9",
-                    "10",
-                    "8",
-                    "7"
+                    10,
+                    10,
+                    30,
+                    31
+                ]
+            },
+            {
+                "question": "L",
+                "answer": 1,
+                "choices": [
+                    1,
+                    20,
+                    22,
+                    23
+                ]
+            },
+            {
+                "question": "LL",
+                "answer": 2,
+                "choices": [
+                    2,
+                    20,
+                    24,
+                    25
+                ]
+            },
+            {
+                "question": "LLL",
+                "answer": 3,
+                "choices": [
+                    3,
+                    20,
+                    26,
+                    27
+                ]
+            },
+            {
+                "question": "LLLL",
+                "answer": 4,
+                "choices": [
+                    4,
+                    20,
+                    28,
+                    29
+                ]
+            },
+            {
+                "question": "LLLLL",
+                "answer": 5,
+                "choices": [
+                    5,
+                    20,
+                    30,
+                    31
+                ]
+            },
+            {
+                "question": "LLLLLL",
+                "answer": 6,
+                "choices": [
+                    6,
+                    20,
+                    32,
+                    33
+                ]
+            },
+            {
+                "question": "LLLLLLL",
+                "answer": 7,
+                "choices": [
+                    7,
+                    20,
+                    34,
+                    35
+                ]
+            },
+            {
+                "question": "LLLLLLLL",
+                "answer": 8,
+                "choices": [
+                    8,
+                    20,
+                    36,
+                    37
+                ]
+            },
+            {
+                "question": "LLLLLLLLL",
+                "answer": 9,
+                "choices": [
+                    9,
+                    20,
+                    38,
+                    39
+                ]
+            },
+            {
+                "question": "LLLLLLLLLL",
+                "answer": 10,
+                "choices": [
+                    10,
+                    20,
+                    40,
+                    41
+                ]
+            },
+            {
+                "question": "L",
+                "answer": 1,
+                "choices": [
+                    1,
+                    30,
+                    32,
+                    33
+                ]
+            },
+            {
+                "question": "LL",
+                "answer": 2,
+                "choices": [
+                    2,
+                    30,
+                    34,
+                    35
+                ]
+            },
+            {
+                "question": "LLL",
+                "answer": 3,
+                "choices": [
+                    3,
+                    30,
+                    36,
+                    37
+                ]
+            },
+            {
+                "question": "LLLL",
+                "answer": 4,
+                "choices": [
+                    4,
+                    30,
+                    38,
+                    39
+                ]
+            },
+            {
+                "question": "LLLLL",
+                "answer": 5,
+                "choices": [
+                    5,
+                    30,
+                    40,
+                    41
+                ]
+            },
+            {
+                "question": "LLLLLL",
+                "answer": 6,
+                "choices": [
+                    6,
+                    30,
+                    42,
+                    43
+                ]
+            },
+            {
+                "question": "LLLLLLL",
+                "answer": 7,
+                "choices": [
+                    7,
+                    30,
+                    44,
+                    45
+                ]
+            },
+            {
+                "question": "LLLLLLLL",
+                "answer": 8,
+                "choices": [
+                    8,
+                    30,
+                    46,
+                    47
+                ]
+            },
+            {
+                "question": "LLLLLLLLL",
+                "answer": 9,
+                "choices": [
+                    9,
+                    30,
+                    48,
+                    49
+                ]
+            },
+            {
+                "question": "LLLLLLLLLL",
+                "answer": 10,
+                "choices": [
+                    10,
+                    30,
+                    50,
+                    51
+                ]
+            },
+            {
+                "question": "L",
+                "answer": 1,
+                "choices": [
+                    1,
+                    40,
+                    42,
+                    43
+                ]
+            },
+            {
+                "question": "LL",
+                "answer": 2,
+                "choices": [
+                    2,
+                    40,
+                    44,
+                    45
+                ]
+            },
+            {
+                "question": "LLL",
+                "answer": 3,
+                "choices": [
+                    3,
+                    40,
+                    46,
+                    47
+                ]
+            },
+            {
+                "question": "LLLL",
+                "answer": 4,
+                "choices": [
+                    4,
+                    40,
+                    48,
+                    49
+                ]
+            },
+            {
+                "question": "LLLLL",
+                "answer": 5,
+                "choices": [
+                    5,
+                    40,
+                    50,
+                    51
+                ]
+            },
+            {
+                "question": "LLLLLL",
+                "answer": 6,
+                "choices": [
+                    6,
+                    40,
+                    52,
+                    53
+                ]
+            },
+            {
+                "question": "LLLLLLL",
+                "answer": 7,
+                "choices": [
+                    7,
+                    40,
+                    54,
+                    55
+                ]
+            },
+            {
+                "question": "LLLLLLLL",
+                "answer": 8,
+                "choices": [
+                    8,
+                    40,
+                    56,
+                    57
+                ]
+            },
+            {
+                "question": "LLLLLLLLL",
+                "answer": 9,
+                "choices": [
+                    9,
+                    40,
+                    58,
+                    59
+                ]
+            },
+            {
+                "question": "LLLLLLLLLL",
+                "answer": 10,
+                "choices": [
+                    10,
+                    40,
+                    60,
+                    61
+                ]
+            },
+            {
+                "question": "L",
+                "answer": 1,
+                "choices": [
+                    1,
+                    50,
+                    52,
+                    53
+                ]
+            },
+            {
+                "question": "LL",
+                "answer": 2,
+                "choices": [
+                    2,
+                    50,
+                    54,
+                    55
+                ]
+            },
+            {
+                "question": "LLL",
+                "answer": 3,
+                "choices": [
+                    3,
+                    50,
+                    56,
+                    57
+                ]
+            },
+            {
+                "question": "LLLL",
+                "answer": 4,
+                "choices": [
+                    4,
+                    50,
+                    58,
+                    59
+                ]
+            },
+            {
+                "question": "LLLLL",
+                "answer": 5,
+                "choices": [
+                    5,
+                    50,
+                    60,
+                    61
+                ]
+            },
+            {
+                "question": "LLLLLL",
+                "answer": 6,
+                "choices": [
+                    6,
+                    50,
+                    62,
+                    63
+                ]
+            },
+            {
+                "question": "LLLLLLL",
+                "answer": 7,
+                "choices": [
+                    7,
+                    50,
+                    64,
+                    65
+                ]
+            },
+            {
+                "question": "LLLLLLLL",
+                "answer": 8,
+                "choices": [
+                    8,
+                    50,
+                    66,
+                    67
+                ]
+            },
+            {
+                "question": "LLLLLLLLL",
+                "answer": 9,
+                "choices": [
+                    9,
+                    50,
+                    68,
+                    69
+                ]
+            },
+            {
+                "question": "LLLLLLLLLL",
+                "answer": 10,
+                "choices": [
+                    10,
+                    50,
+                    70,
+                    71
+                ]
+            },
+            {
+                "question": "L",
+                "answer": 1,
+                "choices": [
+                    1,
+                    60,
+                    62,
+                    63
+                ]
+            },
+            {
+                "question": "LL",
+                "answer": 2,
+                "choices": [
+                    2,
+                    60,
+                    64,
+                    65
+                ]
+            },
+            {
+                "question": "LLL",
+                "answer": 3,
+                "choices": [
+                    3,
+                    60,
+                    66,
+                    67
+                ]
+            },
+            {
+                "question": "LLLL",
+                "answer": 4,
+                "choices": [
+                    4,
+                    60,
+                    68,
+                    69
+                ]
+            },
+            {
+                "question": "LLLLL",
+                "answer": 5,
+                "choices": [
+                    5,
+                    60,
+                    70,
+                    71
+                ]
+            },
+            {
+                "question": "LLLLLL",
+                "answer": 6,
+                "choices": [
+                    6,
+                    60,
+                    72,
+                    73
+                ]
+            },
+            {
+                "question": "LLLLLLL",
+                "answer": 7,
+                "choices": [
+                    7,
+                    60,
+                    74,
+                    75
+                ]
+            },
+            {
+                "question": "LLLLLLLL",
+                "answer": 8,
+                "choices": [
+                    8,
+                    60,
+                    76,
+                    77
+                ]
+            },
+            {
+                "question": "LLLLLLLLL",
+                "answer": 9,
+                "choices": [
+                    9,
+                    60,
+                    78,
+                    79
+                ]
+            },
+            {
+                "question": "LLLLLLLLLL",
+                "answer": 10,
+                "choices": [
+                    10,
+                    60,
+                    80,
+                    81
+                ]
+            },
+            {
+                "question": "L",
+                "answer": 1,
+                "choices": [
+                    1,
+                    70,
+                    72,
+                    73
+                ]
+            },
+            {
+                "question": "LL",
+                "answer": 2,
+                "choices": [
+                    2,
+                    70,
+                    74,
+                    75
+                ]
+            },
+            {
+                "question": "LLL",
+                "answer": 3,
+                "choices": [
+                    3,
+                    70,
+                    76,
+                    77
+                ]
+            },
+            {
+                "question": "LLLL",
+                "answer": 4,
+                "choices": [
+                    4,
+                    70,
+                    78,
+                    79
+                ]
+            },
+            {
+                "question": "LLLLL",
+                "answer": 5,
+                "choices": [
+                    5,
+                    70,
+                    80,
+                    81
+                ]
+            },
+            {
+                "question": "LLLLLL",
+                "answer": 6,
+                "choices": [
+                    6,
+                    70,
+                    82,
+                    83
+                ]
+            },
+            {
+                "question": "LLLLLLL",
+                "answer": 7,
+                "choices": [
+                    7,
+                    70,
+                    84,
+                    85
+                ]
+            },
+            {
+                "question": "LLLLLLLL",
+                "answer": 8,
+                "choices": [
+                    8,
+                    70,
+                    86,
+                    87
+                ]
+            },
+            {
+                "question": "LLLLLLLLL",
+                "answer": 9,
+                "choices": [
+                    9,
+                    70,
+                    88,
+                    89
+                ]
+            },
+            {
+                "question": "LLLLLLLLLL",
+                "answer": 10,
+                "choices": [
+                    10,
+                    70,
+                    90,
+                    91
+                ]
+            },
+            {
+                "question": "L",
+                "answer": 1,
+                "choices": [
+                    1,
+                    80,
+                    82,
+                    83
+                ]
+            },
+            {
+                "question": "LL",
+                "answer": 2,
+                "choices": [
+                    2,
+                    80,
+                    84,
+                    85
+                ]
+            },
+            {
+                "question": "LLL",
+                "answer": 3,
+                "choices": [
+                    3,
+                    80,
+                    86,
+                    87
+                ]
+            },
+            {
+                "question": "LLLL",
+                "answer": 4,
+                "choices": [
+                    4,
+                    80,
+                    88,
+                    89
+                ]
+            },
+            {
+                "question": "LLLLL",
+                "answer": 5,
+                "choices": [
+                    5,
+                    80,
+                    90,
+                    91
+                ]
+            },
+            {
+                "question": "LLLLLL",
+                "answer": 6,
+                "choices": [
+                    6,
+                    80,
+                    92,
+                    93
+                ]
+            },
+            {
+                "question": "LLLLLLL",
+                "answer": 7,
+                "choices": [
+                    7,
+                    80,
+                    94,
+                    95
+                ]
+            },
+            {
+                "question": "LLLLLLLL",
+                "answer": 8,
+                "choices": [
+                    8,
+                    80,
+                    96,
+                    97
+                ]
+            },
+            {
+                "question": "LLLLLLLLL",
+                "answer": 9,
+                "choices": [
+                    9,
+                    80,
+                    98,
+                    99
+                ]
+            },
+            {
+                "question": "LLLLLLLLLL",
+                "answer": 10,
+                "choices": [
+                    10,
+                    80,
+                    100,
+                    101
+                ]
+            },
+            {
+                "question": "L",
+                "answer": 1,
+                "choices": [
+                    1,
+                    90,
+                    92,
+                    93
+                ]
+            },
+            {
+                "question": "LL",
+                "answer": 2,
+                "choices": [
+                    2,
+                    90,
+                    94,
+                    95
+                ]
+            },
+            {
+                "question": "LLL",
+                "answer": 3,
+                "choices": [
+                    3,
+                    90,
+                    96,
+                    97
+                ]
+            },
+            {
+                "question": "LLLL",
+                "answer": 4,
+                "choices": [
+                    4,
+                    90,
+                    98,
+                    99
+                ]
+            },
+            {
+                "question": "LLLLL",
+                "answer": 5,
+                "choices": [
+                    5,
+                    90,
+                    100,
+                    101
+                ]
+            },
+            {
+                "question": "LLLLLL",
+                "answer": 6,
+                "choices": [
+                    6,
+                    90,
+                    102,
+                    103
+                ]
+            },
+            {
+                "question": "LLLLLLL",
+                "answer": 7,
+                "choices": [
+                    7,
+                    90,
+                    104,
+                    105
+                ]
+            },
+            {
+                "question": "LLLLLLLL",
+                "answer": 8,
+                "choices": [
+                    8,
+                    90,
+                    106,
+                    107
+                ]
+            },
+            {
+                "question": "LLLLLLLLL",
+                "answer": 9,
+                "choices": [
+                    9,
+                    90,
+                    108,
+                    109
+                ]
+            },
+            {
+                "question": "LLLLLLLLLL",
+                "answer": 10,
+                "choices": [
+                    10,
+                    90,
+                    110,
+                    111
                 ]
             }
         ]
