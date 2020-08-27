@@ -2,16 +2,16 @@ import json
 
 questions = []
 #addition 1-100 adding 0-9
-""" 
+
 add = int(input("add number: "))
 for x in range(0,100):
   
    question = str(x)  + " + " +   str(add)
    answer = x + add
    a = answer
-   b = x  - (add-1)
-   c = x + (add+1)
-   d = x + (add+2)
+   b = a  + 1 
+   c = a  + 2
+   d = a + 3
    choices = [a, b, c, d]
    jsondata = {"question": question, "answer": answer, "choices": choices}
    questions.append(jsondata)
@@ -19,8 +19,10 @@ for x in range(0,100):
 with open("sample.json", "w") as outfile:
     json.dump(questions, outfile, indent=4)
 
-"""
 
+
+#counting to 10
+"""
 numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 for x in range(0,100):
    question = "L" * numbers[0]
@@ -38,7 +40,7 @@ for x in range(0,100):
 
 with open("sample.json", "w") as outfile:
     json.dump(questions, outfile, indent=4)
-
+"""
 
 f = open("math_questions.json")
 
@@ -52,7 +54,7 @@ samplejson = json.load(samplefile)
 
 titleset = input("titleset: ")
 questions = samplejson
-type = "count"
+type = "addition"
 jsondata[titleset] = {"type": type, "questions": []}
 jsondata[titleset]["questions"] = questions
 
