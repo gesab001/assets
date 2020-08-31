@@ -1,0 +1,179 @@
+{
+    "title": "Parables",
+    "slides": [
+        {
+            "text": "Another parable put he forth unto them, saying, The kingdom of heaven is likened unto a man which sowed good seed in his field:  But while men slept, his enemy came and sowed tares among the wheat, and went his way.  ",
+            "reference": {
+                "book": "Matthew",
+                "chapter": "13",
+                "verse": {
+                    "start": "24",
+                    "end": "25"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/parables"
+        },
+        {
+            "text": "But when the blade was sprung up, and brought forth fruit, then appeared the tares also.  ",
+            "reference": {
+                "book": "Matthew",
+                "chapter": "13",
+                "verse": {
+                    "start": "26",
+                    "end": "26"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/parables"
+        },
+        {
+            "text": "So the servants of the householder came and said unto him, Sir, didst not thou sow good seed in thy field? from whence then hath it tares?  He said unto them, An enemy hath done this. The servants said unto him, Wilt thou then that we go and gather them up?  But he said, Nay; lest while ye gather up the tares, ye root up also the wheat with them.  ",
+            "reference": {
+                "book": "Matthew",
+                "chapter": "13",
+                "verse": {
+                    "start": "27",
+                    "end": "29"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/parables"
+        },
+        {
+            "text": "Let both grow together until the harvest: and in the time of harvest I will say to the reapers, Gather ye together first the tares, and bind them in bundles to burn them: but gather the wheat into my barn.  ",
+            "reference": {
+                "book": "Matthew",
+                "chapter": "13",
+                "verse": {
+                    "start": "30",
+                    "end": "30"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/parables"
+        },
+        {
+            "text": "Another parable put he forth unto them, saying, The kingdom of heaven is like to a grain of mustard seed, which a man took, and sowed in his field:  ",
+            "reference": {
+                "book": "Matthew",
+                "chapter": "13",
+                "verse": {
+                    "start": "31",
+                    "end": "31"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/parables"
+        },
+        {
+            "text": "Which indeed is the least of all seeds:   ",
+            "reference": {
+                "book": "Matthew",
+                "chapter": "13",
+                "verse": {
+                    "start": "32",
+                    "end": "32"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/parables"
+        },
+        {
+            "text": "but when it is grown, it is the greatest among herbs,   ",
+            "reference": {
+                "book": "Matthew",
+                "chapter": "13",
+                "verse": {
+                    "start": "32",
+                    "end": "32"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/parables"
+        },
+        {
+            "text": "and becometh a tree, so that the birds of the air come and lodge in the branches thereof.  ",
+            "reference": {
+                "book": "Matthew",
+                "chapter": "13",
+                "verse": {
+                    "start": "32",
+                    "end": "32"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/parables"
+        },
+        {
+            "text": "Another parable spake he unto them; The kingdom of heaven is like unto leaven, which a woman took, and hid in three measures of meal, till the whole was leavened.  ",
+            "reference": {
+                "book": "Matthew",
+                "chapter": "13",
+                "verse": {
+                    "start": "33",
+                    "end": "33"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/parables"
+        },
+        {
+            "text": "All these things spake Jesus unto the multitude in parables; and without a parable spake he not unto them:  That it might be fulfilled which was spoken by the prophet, saying, I will open my mouth in parables; I will utter things which have been kept secret from the foundation of the world.  ",
+            "reference": {
+                "book": "Matthew",
+                "chapter": "13",
+                "verse": {
+                    "start": "34",
+                    "end": "35"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/parables"
+        }
+    ],
+    "questions": [
+        {
+            "question": "Who sowed the tares among the wheat?",
+            "answer": "enemy",
+            "choices": [
+                "enemy",
+                "friend",
+                "parents",
+                "family"
+            ]
+        },
+        {
+            "question": "What happens to a mustard seed when it is planted?",
+            "answer": "it becomes a tree",
+            "choices": [
+                "it becomes a tree",
+                "it becomes a small plant",
+                "it becomes a weed",
+                "it becomes grass"
+            ]
+        },
+        {
+            "question": "What did the woman hid in three measures of meal?",
+            "answer": "leaven",
+            "choices": [
+                "leaven",
+                "sugar",
+                "salt",
+                "spices"
+            ]
+        },
+        {
+            "question": "Why were the servants told not to pull out the tares and instead wait for harvest time?",
+            "answer": "because they might pull out the wheat also.",
+            "choices": [
+                "because they might pull out the wheat also.",
+                "because the tares might die.",
+                "because the tares need to grow to produce fruit",
+                "because the tares are good for you"
+            ]
+        },
+        {
+            "question": "When did the enemy sow the tares?",
+            "answer": "while the people were sleeping.",
+            "choices": [
+                "while the people were sleeping.",
+                "while the people were watching videos.",
+                "while the people were shopping.",
+                "while the people were playing games."
+            ]
+        }
+    ],
+    "activities": [],
+    "references": []
+}
