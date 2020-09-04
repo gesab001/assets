@@ -1,0 +1,179 @@
+{
+    "title": "Footwashing",
+    "slides": [
+        {
+            "text": "Now before the feast of the passover, when Jesus knew that his hour was come that he should depart out of this world unto the Father, having loved his own which were in the world, he loved them unto the end.  ",
+            "reference": {
+                "book": "John",
+                "chapter": "13",
+                "verse": {
+                    "start": "1.",
+                    "end": "1."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/footwashing"
+        },
+        {
+            "text": "And supper being ended, the devil having now put into the heart of Judas Iscariot, Simon's [son,] to betray him;  Jesus knowing that the Father had given all things into his hands, and that he was come from God, and went to God;  He riseth from supper, and laid aside his garments; and took a towel, and girded himself.  ",
+            "reference": {
+                "book": "John",
+                "chapter": "13",
+                "verse": {
+                    "start": "2.",
+                    "end": "4."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/footwashing"
+        },
+        {
+            "text": "After that he poureth water into a bason, and began to wash the disciples' feet, and to wipe [them] with the towel wherewith he was girded.  ",
+            "reference": {
+                "book": "John",
+                "chapter": "13",
+                "verse": {
+                    "start": "5.",
+                    "end": "5."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/footwashing"
+        },
+        {
+            "text": "Then cometh he to Simon Peter: and Peter saith unto him, Lord, dost thou wash my feet?  Jesus answered and said unto him, What I do thou knowest not now; but thou shalt know hereafter.  ",
+            "reference": {
+                "book": "John",
+                "chapter": "13",
+                "verse": {
+                    "start": "6.",
+                    "end": "7."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/footwashing"
+        },
+        {
+            "text": "Peter saith unto him, Thou shalt never wash my feet. Jesus answered him, If I wash thee not, thou hast no part with me.  ",
+            "reference": {
+                "book": "John",
+                "chapter": "13",
+                "verse": {
+                    "start": "8.",
+                    "end": "8."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/footwashing"
+        },
+        {
+            "text": "Simon Peter saith unto him, Lord, not my feet only, but also [my] hands and [my] head.  Jesus saith to him, He that is washed needeth not save to wash [his] feet, but is clean every whit: and ye are clean, but not all.  ",
+            "reference": {
+                "book": "John",
+                "chapter": "13",
+                "verse": {
+                    "start": "9.",
+                    "end": "10"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/footwashing"
+        },
+        {
+            "text": "For he knew who should betray him; therefore said he, Ye are not all clean.  ",
+            "reference": {
+                "book": "John",
+                "chapter": "13",
+                "verse": {
+                    "start": "11",
+                    "end": "11"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/footwashing"
+        },
+        {
+            "text": "So after he had washed their feet, and had taken his garments, and was set down again, he said unto them, Know ye what I have done to you?  Ye call me Master and Lord: and ye say well; for so I am.  If I then, [your] Lord and Master, have washed your feet; ye also ought to wash one another's feet.  For I have given you an example, that ye should do as I have done to you.  ",
+            "reference": {
+                "book": "John",
+                "chapter": "13",
+                "verse": {
+                    "start": "12",
+                    "end": "15"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/footwashing"
+        },
+        {
+            "text": "Verily, verily, I say unto you, The servant is not greater than his lord; neither he that is sent greater than he that sent him.  ",
+            "reference": {
+                "book": "John",
+                "chapter": "13",
+                "verse": {
+                    "start": "16",
+                    "end": "16"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/footwashing"
+        },
+        {
+            "text": "If ye know these things, happy are ye if ye do them.  ",
+            "reference": {
+                "book": "John",
+                "chapter": "13",
+                "verse": {
+                    "start": "17",
+                    "end": "17"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/footwashing"
+        }
+    ],
+    "questions": [
+        {
+            "question": "What did the devil put into the heart of Judas Iscariot?",
+            "answer": "to betray Jesus",
+            "choices": [
+                "to betray Jesus",
+                "to love Jesus",
+                "to comfort Jesus",
+                "to server Jesus"
+            ]
+        },
+        {
+            "question": "What did Jesus begin to wash?",
+            "answer": "He began to wash the disciples' feet",
+            "choices": [
+                "He began to wash the disciples' feet",
+                "He began to massage the disciples feet",
+                "He began to hit the disciples feet",
+                "He began to kick the disciples feet"
+            ]
+        },
+        {
+            "question": "Who did not want their feet washed?",
+            "answer": "Peter",
+            "choices": [
+                "Peter",
+                "John",
+                "James",
+                "Matthew"
+            ]
+        },
+        {
+            "question": "What did Jesus tell his disciples to also do?",
+            "answer": "they also should wash one another's feet",
+            "choices": [
+                "they also should wash one another's feet",
+                "they should not wash each other's feet.",
+                "they should only wash each other's feet if they are clean.",
+                "They should massage each other's feet."
+            ]
+        },
+        {
+            "question": "Where did Jesus come from?",
+            "answer": "He came from God",
+            "choices": [
+                "He came from God",
+                "He came from Mary",
+                "He came from the dust",
+                "He came from Nazareth."
+            ]
+        }
+    ],
+    "activities": [],
+    "references": []
+}
