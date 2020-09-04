@@ -1,0 +1,179 @@
+{
+    "title": "Body and blood",
+    "slides": [
+        {
+            "text": "Then came the day of unleavened bread, when the passover must be killed.  ",
+            "reference": {
+                "book": "Luke",
+                "chapter": "22",
+                "verse": {
+                    "start": "7.",
+                    "end": "7."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/bodyandblood"
+        },
+        {
+            "text": "And he sent Peter and John, saying, Go and prepare us the passover, that we may eat.  And they said unto him, Where wilt thou that we prepare?  ",
+            "reference": {
+                "book": "Luke",
+                "chapter": "22",
+                "verse": {
+                    "start": "8.",
+                    "end": "9."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/bodyandblood"
+        },
+        {
+            "text": "And he said unto them, Behold, when ye are entered into the city, there shall a man meet you, bearing a pitcher of water; follow him into the house where he entereth in.  And ye shall say unto the goodman of the house, The Master saith unto thee, Where is the guestchamber, where I shall eat the passover with my disciples?  ",
+            "reference": {
+                "book": "Luke",
+                "chapter": "22",
+                "verse": {
+                    "start": "10",
+                    "end": "11"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/bodyandblood"
+        },
+        {
+            "text": "And he shall shew you a large upper room furnished: there make ready.  ",
+            "reference": {
+                "book": "Luke",
+                "chapter": "22",
+                "verse": {
+                    "start": "12",
+                    "end": "12"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/bodyandblood"
+        },
+        {
+            "text": "And they went, and found as he had said unto them: and they made ready the passover.  ",
+            "reference": {
+                "book": "Luke",
+                "chapter": "22",
+                "verse": {
+                    "start": "13",
+                    "end": "13"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/bodyandblood"
+        },
+        {
+            "text": "And when the hour was come, he sat down, and the twelve apostles with him.  ",
+            "reference": {
+                "book": "Luke",
+                "chapter": "22",
+                "verse": {
+                    "start": "14",
+                    "end": "14"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/bodyandblood"
+        },
+        {
+            "text": "And he said unto them, With desire I have desired to eat this passover with you before I suffer:  For I say unto you, I will not any more eat thereof, until it be fulfilled in the kingdom of God.  ",
+            "reference": {
+                "book": "Luke",
+                "chapter": "22",
+                "verse": {
+                    "start": "15",
+                    "end": "16"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/bodyandblood"
+        },
+        {
+            "text": "And he took the cup, and gave thanks, and said, Take this, and divide [it] among yourselves:  For I say unto you, I will not drink of the fruit of the vine, until the kingdom of God shall come.  ",
+            "reference": {
+                "book": "Luke",
+                "chapter": "22",
+                "verse": {
+                    "start": "17",
+                    "end": "18"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/bodyandblood"
+        },
+        {
+            "text": "And he took bread, and gave thanks, and brake [it,] and gave unto them, saying, This is my body which is given for you: this do in remembrance of me.  ",
+            "reference": {
+                "book": "Luke",
+                "chapter": "22",
+                "verse": {
+                    "start": "19",
+                    "end": "19"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/bodyandblood"
+        },
+        {
+            "text": "Likewise also the cup after supper, saying, This cup [is] the new testament in my blood, which is shed for you.  ",
+            "reference": {
+                "book": "Luke",
+                "chapter": "22",
+                "verse": {
+                    "start": "20",
+                    "end": "20"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/bodyandblood"
+        }
+    ],
+    "questions": [
+        {
+            "question": "What special day was Jesus and the disciples celebrating?",
+            "answer": "Day of Unleavened bread",
+            "choices": [
+                "Day of Unleavened bread",
+                "day of pentecost",
+                "day of firstfruits",
+                "sabbath day"
+            ]
+        },
+        {
+            "question": "What did Jesus ask his disciples to do?",
+            "answer": "go and prepare the passover",
+            "choices": [
+                "go and prepare the passover",
+                "go and buy some food",
+                "go and buy some clothes",
+                "go and buy some water"
+            ]
+        },
+        {
+            "question": "How many apostles sat down with Jesus at the table?",
+            "answer": "12",
+            "choices": [
+                "12",
+                "11",
+                "10",
+                "9"
+            ]
+        },
+        {
+            "question": "What does the fruit in the cup they were drinking represent?",
+            "answer": "blood of Jesus",
+            "choices": [
+                "blood of Jesus",
+                "blood of the disciples",
+                "blood of Adam",
+                "blood of Jacob"
+            ]
+        },
+        {
+            "question": "What does the bread they were eating represent?",
+            "answer": "the body of Jesus",
+            "choices": [
+                "the body of Jesus",
+                "the body of Adam",
+                "the body of Abraham",
+                "the body of Isaac"
+            ]
+        }
+    ],
+    "activities": [],
+    "references": []
+}
