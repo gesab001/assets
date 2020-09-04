@@ -1,0 +1,179 @@
+{
+    "title": "Leper and centurion",
+    "slides": [
+        {
+            "text": "When he was come down from the mountain, great multitudes followed him.  ",
+            "reference": {
+                "book": "Matthew",
+                "chapter": "8",
+                "verse": {
+                    "start": "1.",
+                    "end": "1."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/leperandcenturion"
+        },
+        {
+            "text": "And, behold, there came a leper and worshipped him, saying, Lord, if thou wilt, thou canst make me clean.  ",
+            "reference": {
+                "book": "Matthew",
+                "chapter": "8",
+                "verse": {
+                    "start": "2.",
+                    "end": "2."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/leperandcenturion"
+        },
+        {
+            "text": "And Jesus put forth [his] hand, and touched him, saying, I will; be thou clean. And immediately his leprosy was cleansed.  ",
+            "reference": {
+                "book": "Matthew",
+                "chapter": "8",
+                "verse": {
+                    "start": "3.",
+                    "end": "3."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/leperandcenturion"
+        },
+        {
+            "text": "And Jesus saith unto him, See thou tell no man; but go thy way, shew thyself to the priest, and offer the gift that Moses commanded, for a testimony unto them.  ",
+            "reference": {
+                "book": "Matthew",
+                "chapter": "8",
+                "verse": {
+                    "start": "4.",
+                    "end": "4."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/leperandcenturion"
+        },
+        {
+            "text": "And when Jesus was entered into Capernaum, there came unto him a centurion, beseeching him,  And saying, Lord, my servant lieth at home sick of the palsy, grievously tormented.  ",
+            "reference": {
+                "book": "Matthew",
+                "chapter": "8",
+                "verse": {
+                    "start": "5.",
+                    "end": "6."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/leperandcenturion"
+        },
+        {
+            "text": "And Jesus saith unto him, I will come and heal him.  ",
+            "reference": {
+                "book": "Matthew",
+                "chapter": "8",
+                "verse": {
+                    "start": "7.",
+                    "end": "7."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/leperandcenturion"
+        },
+        {
+            "text": "The centurion answered and said, Lord, I am not worthy that thou shouldest come under my roof: but speak the word only, and my servant shall be healed.  For I am a man under authority, having soldiers under me: and I say to this [man,] Go, and he goeth; and to another, Come, and he cometh; and to my servant, Do this, and he doeth [it. ]  ",
+            "reference": {
+                "book": "Matthew",
+                "chapter": "8",
+                "verse": {
+                    "start": "8.",
+                    "end": "9."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/leperandcenturion"
+        },
+        {
+            "text": "When Jesus heard [it,] he marvelled, and said to them that followed, Verily I say unto you, I have not found so great faith, no, not in Israel.  ",
+            "reference": {
+                "book": "Matthew",
+                "chapter": "8",
+                "verse": {
+                    "start": "10",
+                    "end": "10"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/leperandcenturion"
+        },
+        {
+            "text": "And I say unto you, That many shall come from the east and west, and shall sit down with Abraham, and Isaac, and Jacob, in the kingdom of heaven.  But the children of the kingdom shall be cast out into outer darkness: there shall be weeping and gnashing of teeth.  ",
+            "reference": {
+                "book": "Matthew",
+                "chapter": "8",
+                "verse": {
+                    "start": "11",
+                    "end": "12"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/leperandcenturion"
+        },
+        {
+            "text": "And Jesus said unto the centurion, Go thy way; and as thou hast believed, so be it done unto thee. And his servant was healed in the selfsame hour.  ",
+            "reference": {
+                "book": "Matthew",
+                "chapter": "8",
+                "verse": {
+                    "start": "13",
+                    "end": "13"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/leperandcenturion"
+        }
+    ],
+    "questions": [
+        {
+            "question": "Who came to Jesus and worshipped him, asking to be cleaned?",
+            "answer": "a leper",
+            "choices": [
+                "a leper",
+                "a prostitute",
+                "a publican",
+                "a tax collector"
+            ]
+        },
+        {
+            "question": "How did Jesus heal the leper?",
+            "answer": "He touched him and said \"be thou clean\".",
+            "choices": [
+                "He touched him and said \"be thou clean\".",
+                "He gave him a bath",
+                "He gave him some medicine",
+                "He rubbed ointment on his skin"
+            ]
+        },
+        {
+            "question": "What was wrong with the centurion's servant?",
+            "answer": "he was sick with palsy",
+            "choices": [
+                "he was sick with palsy",
+                "he had a fever",
+                "he was demon possessed.",
+                "he was blind."
+            ]
+        },
+        {
+            "question": "What did the centurion ask Jesus to do in order to heal his servant?",
+            "answer": "just speak the word only.",
+            "choices": [
+                "just speak the word only.",
+                "come to his house and heal him.",
+                "call the ambulance",
+                "give him some money"
+            ]
+        },
+        {
+            "question": "What did Jesus think about the centurion's faith?",
+            "answer": "he had great faith",
+            "choices": [
+                "he had great faith",
+                "he had small faith",
+                "he had no faith",
+                "he had weak faith"
+            ]
+        }
+    ],
+    "activities": [],
+    "references": []
+}
