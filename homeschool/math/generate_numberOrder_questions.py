@@ -30,8 +30,8 @@ for x in range(0,100):
    b = random.sample(a, len(a))
    c = random.sample(a, len(a))
    d = random.sample(a, len(a))
-   choices = [a, b, c, d]
-   jsondata = {"question": question, "answer": answer, "choices": choices}
+   choices = [str(a), str(b), str(c), str(d)]
+   jsondata = {"question": str(question), "answer": str(answer), "choices": choices}
    questions.append(jsondata)
 
 print(questions)
