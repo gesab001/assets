@@ -1,0 +1,179 @@
+{
+    "title": "Transfiguration",
+    "slides": [
+        {
+            "text": "And after six days Jesus taketh Peter, James, and John his brother, and bringeth them up into an high mountain apart,  ",
+            "reference": {
+                "book": "Matthew",
+                "chapter": "17",
+                "verse": {
+                    "start": "1.",
+                    "end": "1."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/transfiguration"
+        },
+        {
+            "text": "And was transfigured before them: and his face did shine as the sun, and his raiment was white as the light.  ",
+            "reference": {
+                "book": "Matthew",
+                "chapter": "17",
+                "verse": {
+                    "start": "2.",
+                    "end": "2."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/transfiguration"
+        },
+        {
+            "text": "And, behold, there appeared unto them Moses and Elias talking with him.  ",
+            "reference": {
+                "book": "Matthew",
+                "chapter": "17",
+                "verse": {
+                    "start": "3.",
+                    "end": "3."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/transfiguration"
+        },
+        {
+            "text": "Then answered Peter, and said unto Jesus, Lord, it is good for us to be here: if thou wilt, let us make here three tabernacles; one for thee, and one for Moses, and one for Elias.  ",
+            "reference": {
+                "book": "Matthew",
+                "chapter": "17",
+                "verse": {
+                    "start": "4.",
+                    "end": "4."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/transfiguration"
+        },
+        {
+            "text": "While he yet spake, behold, a bright cloud overshadowed them: and behold a voice out of the cloud, which said, This is my beloved Son, in whom I am well pleased; hear ye him.  ",
+            "reference": {
+                "book": "Matthew",
+                "chapter": "17",
+                "verse": {
+                    "start": "5.",
+                    "end": "5."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/transfiguration"
+        },
+        {
+            "text": "And when the disciples heard [it,] they fell on their face, and were sore afraid.  And Jesus came and touched them, and said, Arise, and be not afraid.  ",
+            "reference": {
+                "book": "Matthew",
+                "chapter": "17",
+                "verse": {
+                    "start": "6.",
+                    "end": "7."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/transfiguration"
+        },
+        {
+            "text": "And when they had lifted up their eyes, they saw no man, save Jesus only.  ",
+            "reference": {
+                "book": "Matthew",
+                "chapter": "17",
+                "verse": {
+                    "start": "8.",
+                    "end": "8."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/transfiguration"
+        },
+        {
+            "text": "And as they came down from the mountain, Jesus charged them, saying, Tell the vision to no man, until the Son of man be risen again from the dead.  ",
+            "reference": {
+                "book": "Matthew",
+                "chapter": "17",
+                "verse": {
+                    "start": "9.",
+                    "end": "9."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/transfiguration"
+        },
+        {
+            "text": "And his disciples asked him, saying, Why then say the scribes that Elias must first come?  And Jesus answered and said unto them, Elias truly shall first come, and restore all things.  But I say unto you, That Elias is come already, and they knew him not, but have done unto him whatsoever they listed. Likewise shall also the Son of man suffer of them.  ",
+            "reference": {
+                "book": "Matthew",
+                "chapter": "17",
+                "verse": {
+                    "start": "10",
+                    "end": "12"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/transfiguration"
+        },
+        {
+            "text": "Then the disciples understood that he spake unto them of John the Baptist.  ",
+            "reference": {
+                "book": "Matthew",
+                "chapter": "17",
+                "verse": {
+                    "start": "13",
+                    "end": "13"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/transfiguration"
+        }
+    ],
+    "questions": [
+        {
+            "question": "Who did Jesus take to a mountain?",
+            "answer": "Peter, James and John his brother",
+            "choices": [
+                "Peter, James and John his brother",
+                "Matthew, Mark, and Luke",
+                "Peter, Judas and Bartholomew",
+                "Nathanael, Paul, Stephen"
+            ]
+        },
+        {
+            "question": "What happened to Jesus' face when He was transfigured?",
+            "answer": "his face did shine as the sun",
+            "choices": [
+                "his face did shine as the sun",
+                "his face became blue",
+                "his face became brown",
+                "his face became black"
+            ]
+        },
+        {
+            "question": "What happened to Jesus' raiment when He was transfigured?",
+            "answer": "it became white as the light",
+            "choices": [
+                "it became white as the light",
+                "it became red",
+                "it became purple",
+                "it became black"
+            ]
+        },
+        {
+            "question": "Who appeared and talked to Jesus?",
+            "answer": "Moses and Elijah",
+            "choices": [
+                "Moses and Elijah",
+                "Adam and Eve",
+                "Moses and Jacob",
+                "Abraham and Isaac"
+            ]
+        },
+        {
+            "question": "Who is like Elijah?",
+            "answer": "John the Baptist",
+            "choices": [
+                "John the Baptist",
+                "Mark",
+                "Matthew",
+                "Peter"
+            ]
+        }
+    ],
+    "activities": [],
+    "references": []
+}
