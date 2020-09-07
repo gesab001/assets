@@ -1,0 +1,179 @@
+{
+    "title": "Money inside the fish",
+    "slides": [
+        {
+            "text": "And when they were come to Capernaum,   ",
+            "reference": {
+                "book": "Matthew",
+                "chapter": "17",
+                "verse": {
+                    "start": "24",
+                    "end": "24"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/moneyinsidethefish"
+        },
+        {
+            "text": "they that received tribute [money] came to Peter, and said, Doth not your master pay tribute?  He saith, Yes.   ",
+            "reference": {
+                "book": "Matthew",
+                "chapter": "17",
+                "verse": {
+                    "start": "24",
+                    "end": "24"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/moneyinsidethefish"
+        },
+        {
+            "text": "And when he was come into the house,    Jesus prevented him, saying, What thinkest thou, Simon? of whom do the kings of the earth take custom or tribute? of their own children, or of strangers?  Peter saith unto him, Of strangers. Jesus saith unto him, Then are the children free.  ",
+            "reference": {
+                "book": "Matthew",
+                "chapter": "17",
+                "verse": {
+                    "start": "26",
+                    "end": "26"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/moneyinsidethefish"
+        },
+        {
+            "text": "Notwithstanding, lest we should offend them,   ",
+            "reference": {
+                "book": "Matthew",
+                "chapter": "17",
+                "verse": {
+                    "start": "27",
+                    "end": "27"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/moneyinsidethefish"
+        },
+        {
+            "text": "go thou to the sea,   ",
+            "reference": {
+                "book": "Matthew",
+                "chapter": "17",
+                "verse": {
+                    "start": "27",
+                    "end": "27"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/moneyinsidethefish"
+        },
+        {
+            "text": " and cast an hook,   ",
+            "reference": {
+                "book": "Matthew",
+                "chapter": "17",
+                "verse": {
+                    "start": "27",
+                    "end": "27"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/moneyinsidethefish"
+        },
+        {
+            "text": " and take up the fish that first cometh up;   ",
+            "reference": {
+                "book": "Matthew",
+                "chapter": "17",
+                "verse": {
+                    "start": "27",
+                    "end": "27"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/moneyinsidethefish"
+        },
+        {
+            "text": " and when thou hast opened his mouth,   ",
+            "reference": {
+                "book": "Matthew",
+                "chapter": "17",
+                "verse": {
+                    "start": "27",
+                    "end": "27"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/moneyinsidethefish"
+        },
+        {
+            "text": " thou shalt find a piece of money:   ",
+            "reference": {
+                "book": "Matthew",
+                "chapter": "17",
+                "verse": {
+                    "start": "27",
+                    "end": "27"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/moneyinsidethefish"
+        },
+        {
+            "text": " that take, and give unto them for me and thee.  ",
+            "reference": {
+                "book": "Matthew",
+                "chapter": "17",
+                "verse": {
+                    "start": "27",
+                    "end": "27"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/moneyinsidethefish"
+        }
+    ],
+    "questions": [
+        {
+            "question": "Where did Jesus go?",
+            "answer": "Capernaum",
+            "choices": [
+                "Capernaum",
+                "Nazareth",
+                "Nain",
+                "Jerusalem?"
+            ]
+        },
+        {
+            "question": "What did those who receive tribute money ask Peter?",
+            "answer": "They ask if Jesus pays tribute.",
+            "choices": [
+                "They ask if Jesus pays tribute.",
+                "They ask if Jesus is hungry.",
+                "They ask where Jesus lives.",
+                "They ask to perform miracles."
+            ]
+        },
+        {
+            "question": "According to Jesus, who do the kings of the earth collect tribute money?",
+            "answer": "from strangers.",
+            "choices": [
+                "from strangers.",
+                "from their own children",
+                "from the poor",
+                "from the rich"
+            ]
+        },
+        {
+            "question": "Where did Jesus tell Peter to go?",
+            "answer": "to the sea.",
+            "choices": [
+                "to the sea.",
+                "to the mountain",
+                "to the city",
+                "to the bank"
+            ]
+        },
+        {
+            "question": "What did Peter find inside the mouth of the fish?",
+            "answer": "money",
+            "choices": [
+                "money",
+                "food",
+                "toys",
+                "clothes"
+            ]
+        }
+    ],
+    "activities": [],
+    "references": []
+}
