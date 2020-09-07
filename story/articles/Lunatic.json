@@ -1,0 +1,179 @@
+{
+    "title": "Lunatic",
+    "slides": [
+        {
+            "text": "And when they were come to the multitude,   ",
+            "reference": {
+                "book": "Matthew",
+                "chapter": "17",
+                "verse": {
+                    "start": "14",
+                    "end": "14"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/lunatic"
+        },
+        {
+            "text": "there came to him a [certain] man, kneeling down to him, and saying,  ",
+            "reference": {
+                "book": "Matthew",
+                "chapter": "17",
+                "verse": {
+                    "start": "14",
+                    "end": "14"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/lunatic"
+        },
+        {
+            "text": "Lord, have mercy on my son: for he is lunatick, and sore vexed:   ",
+            "reference": {
+                "book": "Matthew",
+                "chapter": "17",
+                "verse": {
+                    "start": "15",
+                    "end": "15"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/lunatic"
+        },
+        {
+            "text": "for ofttimes he falleth into the fire, and   ",
+            "reference": {
+                "book": "Matthew",
+                "chapter": "17",
+                "verse": {
+                    "start": "15",
+                    "end": "15"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/lunatic"
+        },
+        {
+            "text": "oft into the water.  ",
+            "reference": {
+                "book": "Matthew",
+                "chapter": "17",
+                "verse": {
+                    "start": "15",
+                    "end": "15"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/lunatic"
+        },
+        {
+            "text": "And I brought him to thy disciples, and they could not cure him.  ",
+            "reference": {
+                "book": "Matthew",
+                "chapter": "17",
+                "verse": {
+                    "start": "16",
+                    "end": "16"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/lunatic"
+        },
+        {
+            "text": "Then Jesus answered and said, O faithless and perverse generation, how long shall I be with you? how long shall I suffer you? bring him hither to me.  And Jesus rebuked the devil; and he departed out of him: and the child was cured from that very hour.  ",
+            "reference": {
+                "book": "Matthew",
+                "chapter": "17",
+                "verse": {
+                    "start": "17",
+                    "end": "18"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/lunatic"
+        },
+        {
+            "text": "Then came the disciples to Jesus apart, and said, Why could not we cast him out?  ",
+            "reference": {
+                "book": "Matthew",
+                "chapter": "17",
+                "verse": {
+                    "start": "19",
+                    "end": "19"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/lunatic"
+        },
+        {
+            "text": "And Jesus said unto them, Because of your unbelief: for verily I say unto you, If ye have faith as a grain of mustard seed, ye shall say unto this mountain, Remove hence to yonder place; and it shall remove; and nothing shall be impossible unto you.  ",
+            "reference": {
+                "book": "Matthew",
+                "chapter": "17",
+                "verse": {
+                    "start": "20",
+                    "end": "20"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/lunatic"
+        },
+        {
+            "text": "Howbeit this kind goeth not out but by prayer and fasting.  ",
+            "reference": {
+                "book": "Matthew",
+                "chapter": "17",
+                "verse": {
+                    "start": "21",
+                    "end": "21"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/lunatic"
+        }
+    ],
+    "questions": [
+        {
+            "question": "What was wrong with the man's son who came to Jesus?",
+            "answer": "he was a lunatick",
+            "choices": [
+                "he was a lunatick",
+                "he was paralysed",
+                "he was demon possessed",
+                "he was blind"
+            ]
+        },
+        {
+            "question": "Where did the lunatic son often fall?",
+            "answer": "into the fire and water",
+            "choices": [
+                "into the fire and water",
+                "into the pit",
+                "into the mud",
+                "into the lion's den"
+            ]
+        },
+        {
+            "question": "Why couldn't the disciples heal the lunatic son?",
+            "answer": "because they did not have faith",
+            "choices": [
+                "because they did not have faith",
+                "because they did not want to heal him.",
+                "because they were too busy.",
+                "because they were too tired."
+            ]
+        },
+        {
+            "question": "What did Jesus say you can do if you have faith as a grain of mustard seed?",
+            "answer": "you can move mountains",
+            "choices": [
+                "you can move mountains",
+                "you can move stones",
+                "you can move houses",
+                "you can move trees"
+            ]
+        },
+        {
+            "question": "How did Jesus heal the lunatic son?",
+            "answer": "He rebuked the devil.",
+            "choices": [
+                "He rebuked the devil.",
+                "He put him to sleep.",
+                "He gave him some medicine",
+                "He touched his eyes."
+            ]
+        }
+    ],
+    "activities": [],
+    "references": []
+}
