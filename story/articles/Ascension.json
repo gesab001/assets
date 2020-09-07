@@ -1,0 +1,179 @@
+{
+    "title": "Ascension",
+    "slides": [
+        {
+            "text": "And, being assembled together with [them,] commanded them that they should not depart from Jerusalem, but wait for the promise of the Father, which, [saith he,] ye have heard of me.  ",
+            "reference": {
+                "book": "Acts",
+                "chapter": "1",
+                "verse": {
+                    "start": "4.",
+                    "end": "4."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/ascension"
+        },
+        {
+            "text": "For John truly baptized with water; but ye shall be baptized with the Holy Ghost not many days hence.  ",
+            "reference": {
+                "book": "Acts",
+                "chapter": "1",
+                "verse": {
+                    "start": "5.",
+                    "end": "5."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/ascension"
+        },
+        {
+            "text": "When they therefore were come together, they asked of him, saying, Lord, wilt thou at this time restore again the kingdom to Israel?  ",
+            "reference": {
+                "book": "Acts",
+                "chapter": "1",
+                "verse": {
+                    "start": "6.",
+                    "end": "6."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/ascension"
+        },
+        {
+            "text": "And he said unto them, It is not for you to know the times or the seasons, which the Father hath put in his own power.  ",
+            "reference": {
+                "book": "Acts",
+                "chapter": "1",
+                "verse": {
+                    "start": "7.",
+                    "end": "7."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/ascension"
+        },
+        {
+            "text": "But ye shall receive power, after that the Holy Ghost is come upon you: and ye shall be witnesses unto me both in Jerusalem, and in all Judaea, and in Samaria, and unto the uttermost part of the earth.  ",
+            "reference": {
+                "book": "Acts",
+                "chapter": "1",
+                "verse": {
+                    "start": "8.",
+                    "end": "8."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/ascension"
+        },
+        {
+            "text": "And when he had spoken these things, while they beheld, he was taken up;   ",
+            "reference": {
+                "book": "Acts",
+                "chapter": "1",
+                "verse": {
+                    "start": "9.",
+                    "end": "9."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/ascension"
+        },
+        {
+            "text": "and a cloud received him out of their sight.  ",
+            "reference": {
+                "book": "Acts",
+                "chapter": "1",
+                "verse": {
+                    "start": "9.",
+                    "end": "9."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/ascension"
+        },
+        {
+            "text": "And while they looked stedfastly toward heaven as he went up, behold, two men stood by them in white apparel;  ",
+            "reference": {
+                "book": "Acts",
+                "chapter": "1",
+                "verse": {
+                    "start": "10",
+                    "end": "10"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/ascension"
+        },
+        {
+            "text": "Which also said, Ye men of Galilee, why stand ye gazing up into heaven?   ",
+            "reference": {
+                "book": "Acts",
+                "chapter": "1",
+                "verse": {
+                    "start": "11",
+                    "end": "11"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/ascension"
+        },
+        {
+            "text": "this same Jesus, which is taken up from you into heaven, shall so come in like manner as ye have seen him go into heaven.  ",
+            "reference": {
+                "book": "Acts",
+                "chapter": "1",
+                "verse": {
+                    "start": "11",
+                    "end": "11"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/ascension"
+        }
+    ],
+    "questions": [
+        {
+            "question": "Where did Jesus command the disciples to stay?",
+            "answer": "in Jerusalem",
+            "choices": [
+                "in Jerusalem",
+                "in Galilee",
+                "in Nazareth",
+                "in Nain"
+            ]
+        },
+        {
+            "question": "What will the disciples receive when the Holy Ghost comes upon them?",
+            "answer": "power",
+            "choices": [
+                "power",
+                "money",
+                "clothes",
+                "houses"
+            ]
+        },
+        {
+            "question": "What are the disciples going to do after they receive power from the Holy Ghost?",
+            "answer": "they will be witnesses to all people",
+            "choices": [
+                "they will be witnesses to all people",
+                "they will be fishermen",
+                "they will be farmers",
+                "they will be carpenters"
+            ]
+        },
+        {
+            "question": "Where did Jesus go after He spoke to the disciples?",
+            "answer": "He went up to heaven",
+            "choices": [
+                "He went up to heaven",
+                "He went back to Nazareth",
+                "He went to Jericho",
+                "He went to Bethlehem"
+            ]
+        },
+        {
+            "question": "How will Jesus come again?",
+            "answer": "the same way he was taken to heaven",
+            "choices": [
+                "the same way he was taken to heaven",
+                "by car",
+                "by airplane",
+                "by ship"
+            ]
+        }
+    ],
+    "activities": [],
+    "references": []
+}
