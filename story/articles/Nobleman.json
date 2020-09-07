@@ -1,0 +1,179 @@
+{
+    "title": "Nobleman",
+    "slides": [
+        {
+            "text": "So Jesus came again into Cana of Galilee, where he made the water wine.",
+            "reference": {
+                "book": "John",
+                "chapter": "4",
+                "verse": {
+                    "start": "46",
+                    "end": "46"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/nobleman"
+        },
+        {
+            "text": "And there was a certain nobleman, whose son was sick at Capernaum.  ",
+            "reference": {
+                "book": "John",
+                "chapter": "4",
+                "verse": {
+                    "start": "46",
+                    "end": "46"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/nobleman"
+        },
+        {
+            "text": "When he heard that Jesus was come out of Judaea into Galilee, he went unto him, and besought him that he would come down, and heal his son: for he was at the point of death.   ",
+            "reference": {
+                "book": "John",
+                "chapter": "4",
+                "verse": {
+                    "start": "47",
+                    "end": "47"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/nobleman"
+        },
+        {
+            "text": "Then said Jesus unto him, Except ye see signs and wonders, ye will not believe.  ",
+            "reference": {
+                "book": "John",
+                "chapter": "4",
+                "verse": {
+                    "start": "48",
+                    "end": "48"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/nobleman"
+        },
+        {
+            "text": "The nobleman saith unto him, Sir, come down ere my child die.  ",
+            "reference": {
+                "book": "John",
+                "chapter": "4",
+                "verse": {
+                    "start": "49",
+                    "end": "49"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/nobleman"
+        },
+        {
+            "text": "Jesus saith unto him, Go thy way; thy son liveth. And the man believed the word that Jesus had spoken unto him, and he went his way.  ",
+            "reference": {
+                "book": "John",
+                "chapter": "4",
+                "verse": {
+                    "start": "50",
+                    "end": "50"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/nobleman"
+        },
+        {
+            "text": "And as he was now going down, his servants met him, and told [him,] saying, Thy son liveth.  ",
+            "reference": {
+                "book": "John",
+                "chapter": "4",
+                "verse": {
+                    "start": "51",
+                    "end": "51"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/nobleman"
+        },
+        {
+            "text": "Then enquired he of them the hour when he began to amend. And they said unto him, Yesterday at the seventh hour the fever left him.  ",
+            "reference": {
+                "book": "John",
+                "chapter": "4",
+                "verse": {
+                    "start": "52",
+                    "end": "52"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/nobleman"
+        },
+        {
+            "text": "So the father knew that [it was] at the same hour, in the which Jesus said unto him, Thy son liveth: and himself believed, and his whole house.  ",
+            "reference": {
+                "book": "John",
+                "chapter": "4",
+                "verse": {
+                    "start": "53",
+                    "end": "53"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/nobleman"
+        },
+        {
+            "text": "This [is] again the second miracle [that] Jesus did, when he was come out of Judaea into Galilee.  ",
+            "reference": {
+                "book": "John",
+                "chapter": "4",
+                "verse": {
+                    "start": "54",
+                    "end": "54"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/nobleman"
+        }
+    ],
+    "questions": [
+        {
+            "question": "Where did Jesus go again?",
+            "answer": "Cana of Galilee",
+            "choices": [
+                "Cana of Galilee",
+                "Nazareth",
+                "Jerusalem",
+                "Bethelem"
+            ]
+        },
+        {
+            "question": "Who was sick?",
+            "answer": "son of a nobleman",
+            "choices": [
+                "son of a nobleman",
+                "son of a priest",
+                "son of a teacher",
+                "son of a lawyer"
+            ]
+        },
+        {
+            "question": "What did Jesus do to heal the sick son?",
+            "answer": "He only spoke saying \"Go thy way; thy son liveth\".",
+            "choices": [
+                "He only spoke saying \"Go thy way; thy son liveth\".",
+                "He went to the house to heal him",
+                "He gave the father some medicine",
+                "He kneeled down and prayed"
+            ]
+        },
+        {
+            "question": "When was the son healed?",
+            "answer": "The same time that Jesus spoke.",
+            "choices": [
+                "The same time that Jesus spoke.",
+                "after one day",
+                "after three days",
+                "after one week"
+            ]
+        },
+        {
+            "question": "What did the father and his family do after his son was healed?",
+            "answer": "They believed in Jesus.",
+            "choices": [
+                "They believed in Jesus.",
+                "They did not believein Jesus.",
+                "They worshipped idols.",
+                "They forgot about Jesus."
+            ]
+        }
+    ],
+    "activities": [],
+    "references": []
+}
