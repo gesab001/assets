@@ -1,0 +1,179 @@
+{
+    "title": "Water from rock",
+    "slides": [
+        {
+            "text": "And all the congregation of the children of Israel journeyed from the wilderness of Sin, after their journeys, according to the commandment of the LORD, and pitched in Rephidim:   ",
+            "reference": {
+                "book": "Exodus",
+                "chapter": "17",
+                "verse": {
+                    "start": "1.",
+                    "end": "1."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/waterfromrock"
+        },
+        {
+            "text": " and [there was] no water for the people to drink.  ",
+            "reference": {
+                "book": "Exodus",
+                "chapter": "17",
+                "verse": {
+                    "start": "1.",
+                    "end": "1."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/waterfromrock"
+        },
+        {
+            "text": "Wherefore the people did chide with Moses, and said, Give us water that we may drink. And Moses said unto them, Why chide ye with me? wherefore do ye tempt the LORD?  ",
+            "reference": {
+                "book": "Exodus",
+                "chapter": "17",
+                "verse": {
+                    "start": "2.",
+                    "end": "2."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/waterfromrock"
+        },
+        {
+            "text": "And the people thirsted there for water; and the people murmured against Moses, and said, Wherefore [is] this [that] thou hast brought us up out of Egypt, to kill us and our children and our cattle with thirst?  ",
+            "reference": {
+                "book": "Exodus",
+                "chapter": "17",
+                "verse": {
+                    "start": "3.",
+                    "end": "3."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/waterfromrock"
+        },
+        {
+            "text": "And Moses cried unto the LORD, saying, What shall I do unto this people? they be almost ready to stone me.  ",
+            "reference": {
+                "book": "Exodus",
+                "chapter": "17",
+                "verse": {
+                    "start": "4.",
+                    "end": "4."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/waterfromrock"
+        },
+        {
+            "text": "And the LORD said unto Moses, Go on before the people, and take with thee of the elders of Israel; and thy rod, wherewith thou smotest the river, take in thine hand, and go.  ",
+            "reference": {
+                "book": "Exodus",
+                "chapter": "17",
+                "verse": {
+                    "start": "5.",
+                    "end": "5."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/waterfromrock"
+        },
+        {
+            "text": "Behold, I will stand before thee there upon the rock in Horeb;   ",
+            "reference": {
+                "book": "Exodus",
+                "chapter": "17",
+                "verse": {
+                    "start": "6.",
+                    "end": "6."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/waterfromrock"
+        },
+        {
+            "text": " and thou shalt smite the rock,   ",
+            "reference": {
+                "book": "Exodus",
+                "chapter": "17",
+                "verse": {
+                    "start": "6.",
+                    "end": "6."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/waterfromrock"
+        },
+        {
+            "text": " and there shall come water out of it, that the people may drink. And Moses did so in the sight of the elders of Israel.  ",
+            "reference": {
+                "book": "Exodus",
+                "chapter": "17",
+                "verse": {
+                    "start": "6.",
+                    "end": "6."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/waterfromrock"
+        },
+        {
+            "text": "And he called the name of the place Massah, and Meribah, because of the chiding of the children of Israel, and because they tempted the LORD, saying, Is the LORD among us, or not?  ",
+            "reference": {
+                "book": "Exodus",
+                "chapter": "17",
+                "verse": {
+                    "start": "7.",
+                    "end": "7."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/waterfromrock"
+        }
+    ],
+    "questions": [
+        {
+            "question": "Where did the children of Israel pitch?",
+            "answer": "in Rephidim",
+            "choices": [
+                "in Rephidim",
+                "in Israel",
+                "in Egypt",
+                "in Syria"
+            ]
+        },
+        {
+            "question": "What did the people murmur about?",
+            "answer": "they murmured about not having water to drink",
+            "choices": [
+                "they murmured about not having water to drink",
+                "they murmured about not having enough food",
+                "they murmured about not having clothes",
+                "they murmured about the hot weather"
+            ]
+        },
+        {
+            "question": "What did God command Moses to do to the rock?",
+            "answer": "to smite the rock",
+            "choices": [
+                "to smite the rock",
+                "to touch the rock",
+                "to destroy the rock",
+                "to sit on the rock"
+            ]
+        },
+        {
+            "question": "What came out of the rock after Moses smote it?",
+            "answer": "water",
+            "choices": [
+                "water",
+                "juice",
+                "insects",
+                "blood"
+            ]
+        },
+        {
+            "question": "What were the people ready to do to Moses?",
+            "answer": "to stone him",
+            "choices": [
+                "to stone him",
+                "to make him king",
+                "to kill him with the sword",
+                "to punch him"
+            ]
+        }
+    ],
+    "activities": [],
+    "references": []
+}
