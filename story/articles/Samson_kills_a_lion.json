@@ -1,0 +1,179 @@
+{
+    "title": "Samson kills a lion",
+    "slides": [
+        {
+            "text": "And Samson went down to Timnath,   ",
+            "reference": {
+                "book": "Judges",
+                "chapter": "14",
+                "verse": {
+                    "start": "1.",
+                    "end": "1."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/samsonkillsalion"
+        },
+        {
+            "text": "and saw a woman in Timnath of the daughters of the Philistines.  ",
+            "reference": {
+                "book": "Judges",
+                "chapter": "14",
+                "verse": {
+                    "start": "1.",
+                    "end": "1."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/samsonkillsalion"
+        },
+        {
+            "text": "And he came up, and told his father and his mother, and said, I have seen a woman in Timnath of the daughters of the Philistines: now therefore get her for me to wife.  ",
+            "reference": {
+                "book": "Judges",
+                "chapter": "14",
+                "verse": {
+                    "start": "2.",
+                    "end": "2."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/samsonkillsalion"
+        },
+        {
+            "text": "Then his father and his mother said unto him, [Is there] never a woman among the daughters of thy brethren, or among all my people, that thou goest to take a wife of the uncircumcised Philistines? And Samson said unto his father, Get her for me; for she pleaseth me well.  ",
+            "reference": {
+                "book": "Judges",
+                "chapter": "14",
+                "verse": {
+                    "start": "3.",
+                    "end": "3."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/samsonkillsalion"
+        },
+        {
+            "text": "But his father and his mother knew not that it [was] of the LORD, that he sought an occasion against the Philistines: for at that time the Philistines had dominion over Israel.  ",
+            "reference": {
+                "book": "Judges",
+                "chapter": "14",
+                "verse": {
+                    "start": "4.",
+                    "end": "4."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/samsonkillsalion"
+        },
+        {
+            "text": "Then went Samson down, and his father and his mother, to Timnath, and came to the vineyards of Timnath: and, behold, a young lion roared against him.  ",
+            "reference": {
+                "book": "Judges",
+                "chapter": "14",
+                "verse": {
+                    "start": "5.",
+                    "end": "5."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/samsonkillsalion"
+        },
+        {
+            "text": "And the Spirit of the LORD came mightily upon him, and he rent him as he would have rent a kid, and [he had] nothing in his hand: but he told not his father or his mother what he had done.  ",
+            "reference": {
+                "book": "Judges",
+                "chapter": "14",
+                "verse": {
+                    "start": "6.",
+                    "end": "6."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/samsonkillsalion"
+        },
+        {
+            "text": "And he went down, and talked with the woman; and she pleased Samson well.  ",
+            "reference": {
+                "book": "Judges",
+                "chapter": "14",
+                "verse": {
+                    "start": "7.",
+                    "end": "7."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/samsonkillsalion"
+        },
+        {
+            "text": "And after a time he returned to take her, and he turned aside to see the carcase of the lion: and, behold, [there was] a swarm of bees and honey in the carcase of the lion.  ",
+            "reference": {
+                "book": "Judges",
+                "chapter": "14",
+                "verse": {
+                    "start": "8.",
+                    "end": "8."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/samsonkillsalion"
+        },
+        {
+            "text": "And he took thereof in his hands, and went on eating, and came to his father and mother, and he gave them, and they did eat: but he told not them that he had taken the honey out of the carcase of the lion.  ",
+            "reference": {
+                "book": "Judges",
+                "chapter": "14",
+                "verse": {
+                    "start": "9.",
+                    "end": "9."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/samsonkillsalion"
+        }
+    ],
+    "questions": [
+        {
+            "question": "Where did Samson go?",
+            "answer": "he went to Timnath",
+            "choices": [
+                "he went to Timnath",
+                "he went to Egypt",
+                "he went to Jerusalem",
+                "he went to Bethlehem"
+            ]
+        },
+        {
+            "question": "Who did he see in Timnath?",
+            "answer": "a woman",
+            "choices": [
+                "a woman",
+                "a friend",
+                "a teacher",
+                "a soldier"
+            ]
+        },
+        {
+            "question": "What was her nationality?",
+            "answer": "she was a Philistine",
+            "choices": [
+                "she was a Philistine",
+                "she was an Israelite",
+                "she was an Egyptian",
+                "she was a Babylonian"
+            ]
+        },
+        {
+            "question": "What came upon Samson that made him strong to kill the lion?",
+            "answer": "the Spirit of the Lord",
+            "choices": [
+                "the Spirit of the Lord",
+                "evil spirit",
+                "a dove",
+                "a strong wind"
+            ]
+        },
+        {
+            "question": "What did he give to his father and mother?",
+            "answer": "honey that he found in the carcase of the lion",
+            "choices": [
+                "honey that he found in the carcase of the lion",
+                "fruits",
+                "vegetables",
+                "bread"
+            ]
+        }
+    ],
+    "activities": [],
+    "references": []
+}

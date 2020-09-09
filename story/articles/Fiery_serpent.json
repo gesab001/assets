@@ -1,0 +1,179 @@
+{
+    "title": "Fiery serpent",
+    "slides": [
+        {
+            "text": "And they journeyed from mount Hor by the way of the Red sea, to compass the land of Edom:   ",
+            "reference": {
+                "book": "Numbers",
+                "chapter": "21",
+                "verse": {
+                    "start": "4.",
+                    "end": "4."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/fieryserpent"
+        },
+        {
+            "text": "and the soul of the people was much discouraged because of the way.  ",
+            "reference": {
+                "book": "Numbers",
+                "chapter": "21",
+                "verse": {
+                    "start": "4.",
+                    "end": "4."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/fieryserpent"
+        },
+        {
+            "text": "And the people spake against God, and against Moses, Wherefore have ye brought us up out of Egypt to die in the wilderness?   ",
+            "reference": {
+                "book": "Numbers",
+                "chapter": "21",
+                "verse": {
+                    "start": "5.",
+                    "end": "5."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/fieryserpent"
+        },
+        {
+            "text": "for [there is] no bread, neither [is there any] water; and our soul loatheth this light bread.  ",
+            "reference": {
+                "book": "Numbers",
+                "chapter": "21",
+                "verse": {
+                    "start": "5.",
+                    "end": "5."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/fieryserpent"
+        },
+        {
+            "text": "And the LORD sent fiery serpents among the people, and they bit the people; and much people of Israel died.  ",
+            "reference": {
+                "book": "Numbers",
+                "chapter": "21",
+                "verse": {
+                    "start": "6.",
+                    "end": "6."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/fieryserpent"
+        },
+        {
+            "text": "Therefore the people came to Moses, and said, We have sinned, for we have spoken against the LORD, and against thee; pray unto the LORD, that he take away the serpents from us.   ",
+            "reference": {
+                "book": "Numbers",
+                "chapter": "21",
+                "verse": {
+                    "start": "7.",
+                    "end": "7."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/fieryserpent"
+        },
+        {
+            "text": "And Moses prayed for the people.  ",
+            "reference": {
+                "book": "Numbers",
+                "chapter": "21",
+                "verse": {
+                    "start": "7.",
+                    "end": "7."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/fieryserpent"
+        },
+        {
+            "text": "And the LORD said unto Moses, Make thee a fiery serpent, and set it upon a pole: and it shall come to pass, that every one that is bitten, when he looketh upon it, shall live.  ",
+            "reference": {
+                "book": "Numbers",
+                "chapter": "21",
+                "verse": {
+                    "start": "8.",
+                    "end": "8."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/fieryserpent"
+        },
+        {
+            "text": "And Moses made a serpent of brass, and put it upon a pole,   ",
+            "reference": {
+                "book": "Numbers",
+                "chapter": "21",
+                "verse": {
+                    "start": "9.",
+                    "end": "9."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/fieryserpent"
+        },
+        {
+            "text": "and it came to pass, that if a serpent had bitten any man, when he beheld the serpent of brass, he lived.  ",
+            "reference": {
+                "book": "Numbers",
+                "chapter": "21",
+                "verse": {
+                    "start": "9.",
+                    "end": "9."
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/fieryserpent"
+        }
+    ],
+    "questions": [
+        {
+            "question": "Where did the children of Israel journeyed from?",
+            "answer": "from mount Hor",
+            "choices": [
+                "from mount Hor",
+                "from mount Sinai",
+                "from mount Nebo",
+                "from mount Carmel"
+            ]
+        },
+        {
+            "question": "What land did the people compass?",
+            "answer": "land of Edom",
+            "choices": [
+                "land of Edom",
+                "land of Canaan",
+                "land of Egypt",
+                "land of Syria"
+            ]
+        },
+        {
+            "question": "Why were the people very discouraged?",
+            "answer": "because of the way",
+            "choices": [
+                "because of the way",
+                "because they were hungry",
+                "because it was too hot",
+                "because they were tired"
+            ]
+        },
+        {
+            "question": "What did God send to punish the people for complaining?",
+            "answer": "fiery serpents",
+            "choices": [
+                "fiery serpents",
+                "lions",
+                "bears",
+                "wild birds"
+            ]
+        },
+        {
+            "question": "by killing the serpents",
+            "answer": "by looking at the serpent that Moses made and put on a pole.",
+            "choices": [
+                "by looking at the serpent that Moses made and put on a pole.",
+                "by running away",
+                "by killing the serpents",
+                "by drinking some medicine"
+            ]
+        }
+    ],
+    "activities": [],
+    "references": []
+}
