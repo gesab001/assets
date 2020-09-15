@@ -1,0 +1,131 @@
+{
+    "title": "Bitter water",
+    "slides": [
+        {
+            "text": "So Moses brought Israel from the Red sea, and they went out into the wilderness of Shur; and they went three days in the wilderness, and found no water.  ",
+            "reference": {
+                "book": "Exodus",
+                "chapter": "15",
+                "verse": {
+                    "start": "22",
+                    "end": "22"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/bitterwater"
+        },
+        {
+            "text": "And when they came to Marah, they could not drink of the waters of Marah, for they [were] bitter: therefore the name of it was called Marah.  ",
+            "reference": {
+                "book": "Exodus",
+                "chapter": "15",
+                "verse": {
+                    "start": "23",
+                    "end": "23"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/bitterwater"
+        },
+        {
+            "text": "And the people murmured against Moses, saying, What shall we drink?  ",
+            "reference": {
+                "book": "Exodus",
+                "chapter": "15",
+                "verse": {
+                    "start": "24",
+                    "end": "24"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/bitterwater"
+        },
+        {
+            "text": "And he cried unto the LORD; and the LORD shewed him a tree, [which] when he had cast into the waters, the waters were made sweet: there he made for them a statute and an ordinance, and there he proved them,  ",
+            "reference": {
+                "book": "Exodus",
+                "chapter": "15",
+                "verse": {
+                    "start": "25",
+                    "end": "25"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/bitterwater"
+        },
+        {
+            "text": "And said, If thou wilt diligently hearken to the voice of the LORD thy God, and wilt do that which is right in his sight, and wilt give ear to his commandments, and keep all his statutes, I will put none of these diseases upon thee, which I have brought upon the Egyptians: for I [am] the LORD that healeth thee.  ",
+            "reference": {
+                "book": "Exodus",
+                "chapter": "15",
+                "verse": {
+                    "start": "26",
+                    "end": "26"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/bitterwater"
+        },
+        {
+            "text": "And they came to Elim, where [were] twelve wells of water, and threescore and ten palm trees: and they encamped there by the waters.  ",
+            "reference": {
+                "book": "Exodus",
+                "chapter": "15",
+                "verse": {
+                    "start": "27",
+                    "end": "27"
+                }
+            },
+            "image": "https://gesab001.github.io/assets/images/bitterwater"
+        }
+    ],
+    "questions": [
+        {
+            "question": "Where did Israel go?",
+            "answer": "into the Wilderness of Shur",
+            "choices": [
+                "into the Wilderness of Shur",
+                "into the Wildernes of Beer-sheba",
+                "into the Wilderness of Sin",
+                "into the Wilderness of Sinai"
+            ]
+        },
+        {
+            "question": "What couldn't they find in the wilderness?",
+            "answer": "food",
+            "choices": [
+                "food",
+                "water",
+                "animals",
+                "trees"
+            ]
+        },
+        {
+            "question": "Why they couldn't drink the waters of Marah?",
+            "answer": "because it was sweet",
+            "choices": [
+                "because it was sweet",
+                "because it was salty",
+                "because it was sour",
+                "because it was bitter"
+            ]
+        },
+        {
+            "question": "Who did the people murmur against?",
+            "answer": "Moses",
+            "choices": [
+                "Moses",
+                "Aaron",
+                "Joshua",
+                "Caleb"
+            ]
+        },
+        {
+            "question": "What did Moses cast into the waters to make it sweet?",
+            "answer": "tree",
+            "choices": [
+                "tree",
+                "lion",
+                "fruit",
+                "weeds"
+            ]
+        }
+    ],
+    "activities": [],
+    "references": []
+}
