@@ -64,7 +64,7 @@ while True:
       filename = input("filename: " )   
       updateImage(jsondata, slidenumber, filename)
       path = "./"+folder+"/"+filename
-      command = "curl -L " + url + " -o " + path
+      command = "curl -L " + url + " --output " + path
       subprocess.call(command, shell=True)
       proc = subprocess.Popen(["curl", "-L", url, "-o", path],stdout=subprocess.PIPE, stderr=subprocess.PIPE)
       proc.wait()
