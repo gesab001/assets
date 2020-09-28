@@ -4,7 +4,9 @@ questions = []
 #addition 1-100 adding 0-9
 
 add = int(input("add number: "))
-for x in range(1,101):
+minN = add
+maxN = 100+minN
+for x in range(minN,maxN):
   
    question = str(x)  + " - " +   str(add)
    answer = x - add
