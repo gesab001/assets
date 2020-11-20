@@ -11,7 +11,7 @@
                     "end": "41"
                 }
             },
-            "image": "https://gesab001.github.io/assets/images/giving"
+            "image": "https://gesab001.github.io/assets/images/giving/treasury.jpg"
         },
         {
             "text": "and beheld how the people cast money into the treasury:   ",
@@ -23,7 +23,7 @@
                     "end": "41"
                 }
             },
-            "image": "https://gesab001.github.io/assets/images/giving"
+            "image": "https://gesab001.github.io/assets/images/giving/beheld.jpg"
         },
         {
             "text": "and many that were rich cast in much.  ",
@@ -35,7 +35,7 @@
                     "end": "41"
                 }
             },
-            "image": "https://gesab001.github.io/assets/images/giving"
+            "image": "https://gesab001.github.io/assets/images/giving/rich.jpg"
         },
         {
             "text": "And there came a certain poor widow,  ",
@@ -47,7 +47,7 @@
                     "end": "42"
                 }
             },
-            "image": "https://gesab001.github.io/assets/images/giving"
+            "image": "https://gesab001.github.io/assets/images/giving/poorwidow.jpg"
         },
         {
             "text": "and she threw in two mites, which make a farthing. (Note: Two mites (Greek lepta) are together worth a quadrans, the smallest Roman coin. A lepton was the smallest and least valuable coin in circulation in Judea.  In 1707, in England, the smallest coin was the farthing, which was a quarter of a penny.)   ",
@@ -59,7 +59,7 @@
                     "end": "42"
                 }
             },
-            "image": "https://gesab001.github.io/assets/images/giving"
+            "image": "https://gesab001.github.io/assets/images/giving/twomites.jpg"
         },
         {
             "text": "And he called [unto him] his disciples, and saith unto them, Verily I say unto you, That this poor widow hath cast more in, than all they which have cast into the treasury:  ",
@@ -71,7 +71,7 @@
                     "end": "43"
                 }
             },
-            "image": "https://gesab001.github.io/assets/images/giving"
+            "image": "https://gesab001.github.io/assets/images/giving/more.jpg"
         },
         {
             "text": "For all [they] did cast in of their abundance;   ",
@@ -83,7 +83,7 @@
                     "end": "44"
                 }
             },
-            "image": "https://gesab001.github.io/assets/images/giving"
+            "image": "https://gesab001.github.io/assets/images/giving/abundance.jpg"
         },
         {
             "text": "but she of her want did cast in all that she had, [even] all her living.  ",
@@ -95,7 +95,7 @@
                     "end": "44"
                 }
             },
-            "image": "https://gesab001.github.io/assets/images/giving"
+            "image": "https://gesab001.github.io/assets/images/giving/all.jpg"
         },
         {
             "text": "Every man according as he purposeth in his heart, [so let him give;] not grudgingly, or of necessity: for God loveth a cheerful giver.  ",
@@ -107,7 +107,7 @@
                     "end": "2"
                 }
             },
-            "image": "https://gesab001.github.io/assets/images/giving"
+            "image": "https://gesab001.github.io/assets/images/giving/cheerful.jpg"
         },
         {
             "text": "Give, and it shall be given unto you; good measure, pressed down, and shaken together, and running over, shall men give into your bosom. For with the same measure that ye mete withal it shall be measured to you again.  ",
@@ -119,7 +119,7 @@
                     "end": "Lu"
                 }
             },
-            "image": "https://gesab001.github.io/assets/images/giving"
+            "image": "https://gesab001.github.io/assets/images/giving/back.jpg"
         }
     ],
     "questions": [
@@ -155,7 +155,7 @@
         },
         {
             "question": "What did Jesus say who gave more money?",
-            "answer": "the rich",
+            "answer": "the widow",
             "choices": [
                 "the rich",
                 "the widow",
