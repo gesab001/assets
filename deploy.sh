@@ -1,5 +1,8 @@
 #!/usr/bin/env sh
 
+git pull
 git add .
-git commit -m "update"
+echo commit message
+read varname
+git commit -m "$varname"
 git push --all
