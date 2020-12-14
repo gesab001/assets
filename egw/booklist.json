@@ -36,6 +36,11 @@
             "title": "The Great Controversy"
         }, 
         {
+            "total": 271, 
+            "bookcode": "SC", 
+            "title": "Steps to Christ (1892, 1893)"
+        }, 
+        {
             "total": 128, 
             "bookcode": "CL", 
             "title": "Country Living"
@@ -115,11 +120,7 @@
             "bookcode": "COL", 
             "title": "Christ's Object Lessons"
         }, 
-        {
-            "total": 271, 
-            "bookcode": "SC", 
-            "title": "Steps to Christ (1892, 1893)"
-        }, 
+
         {
             "total": 736, 
             "bookcode": "PAM", 
