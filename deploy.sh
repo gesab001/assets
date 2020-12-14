@@ -1,8 +1,8 @@
 #!/usr/bin/env sh
 
-git pull
-git add .
+sudo git pull
+sudo git add .
 echo commit message
 read varname
-git commit -m "$varname"
-git push --all
+sudo git commit -m "$varname"
+sudo git push --all
