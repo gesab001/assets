@@ -2,6 +2,31 @@ import subprocess
 import json
 import os
 
+
+arr = os.listdir("../story/articles")
+arr.sort()
+for x in range(0, len(arr)):
+	print(str(x+1) + ". " + arr[x])
+arrindex = int(input("story json filename:"))
+articlejson = arr[arrindex-1]
+print(articlejson)
+foldertest = articlejson.split(".")
+foldertest = foldertest[0]
+foldertest = foldertest.replace("_", "")
+folder = foldertest.lower()
+folderexists = os.path.exists(folder)
+if folderexists==True:
+	print("folder exists")
+	print(folder)
+else:
+	print("folder doesn't exist")
+	print("creating a folder")
+	command = "mkdir " + folder
+	subprocess.call(command, shell=True)
+	folderexists = os.path.exists(folder)
+	if folderexists==True:
+		print("folder created")
+"""
 imagefolders = os.listdir()
 imagefolders.sort()
 print(imagefolders)
@@ -10,14 +35,7 @@ for x in range(0, len(imagefolders)):
 folderindex = int(input("folder number: " ))
 folder = imagefolders[folderindex]
 print(folder)
-
-arr = os.listdir("../story/articles")
-arr.sort()
-for x in range(0, len(arr)):
-	print(str(x) + ". " + arr[x])
-arrindex = int(input("story json filename:"))
-articlejson = arr[arrindex]
-print(articlejson)
+"""
 
 def resize(filename):
     command = "identify -format " + "%wx%h "
