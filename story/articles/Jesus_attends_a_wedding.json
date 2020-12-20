@@ -3,27 +3,52 @@
     "questions": [
         {
             "answer": "marriage",
-            "choices": ["marriage", "birthday", "funeral", "concert"],
+            "choices": [
+                "marriage",
+                "birthday",
+                "funeral",
+                "concert"
+            ],
             "question": "What special event happened in Cana of Galilee?"
         },
         {
             "answer": "Jesus and his disciples",
-            "choices": ["Jesus and his disciples", "poor people", "rich people", "Pharisees"],
+            "choices": [
+                "Jesus and his disciples",
+                "poor people",
+                "rich people",
+                "Pharisees"
+            ],
             "question": "Who was invited to the marriage?"
         },
         {
             "answer": "wine",
-            "choices": ["wine", "water", "food", "fruits"],
+            "choices": [
+                "wine",
+                "water",
+                "food",
+                "fruits"
+            ],
             "question": "What ran out during the marriage feast?"
         },
         {
             "answer": "fill them with water",
-            "choices": ["fill them with water", "break them", "wash them", "fill them with wine"],
+            "choices": [
+                "fill them with water",
+                "break them",
+                "wash them",
+                "fill them with wine"
+            ],
             "question": "What did Jesus tell the servants to do with the waterpots of stone?"
         },
         {
             "answer": "turned water into wine",
-            "choices": ["turned water into wine", "turned water into oil", "turned water into food", "used it to wash feet of the disciples"],
+            "choices": [
+                "turned water into wine",
+                "turned water into oil",
+                "turned water into food",
+                "used it to wash feet of the disciples"
+            ],
             "question": "What did Jesus do to the water inside the waterpots?"
         }
     ],
@@ -70,5 +95,6 @@
             "text": "This beginning of miracles did Jesus in Cana of Galilee, and manifested forth his glory; and his disciples believed on him."
         }
     ],
-    "title": "Jesus attends a wedding"
+    "title": "Jesus attends a wedding",
+    "poster": "https://gesab001.github.io/assets/images/jesusattendsawedding/poster.jpg"
 }
