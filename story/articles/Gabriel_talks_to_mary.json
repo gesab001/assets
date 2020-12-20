@@ -3,27 +3,52 @@
     "questions": [
         {
             "answer": "Gabriel",
-            "choices": ["Gabriel", "Michael", "Lucifer", "Raphael"],
+            "choices": [
+                "Gabriel",
+                "Michael",
+                "Lucifer",
+                "Raphael"
+            ],
             "question": "What is the name of the angel who was sent to talked to Mary?"
         },
-       {
+        {
             "answer": "Nazareth",
-            "choices": ["Nazareth", "Bethlehem", "Jerusalem", "Capernaum"],
+            "choices": [
+                "Nazareth",
+                "Bethlehem",
+                "Jerusalem",
+                "Capernaum"
+            ],
             "question": "What is the name of the city where Mary lives?"
         },
-       {
+        {
             "answer": "troubled",
-            "choices": ["troubled", "happy", "excited", "disappointed"],
+            "choices": [
+                "troubled",
+                "happy",
+                "excited",
+                "disappointed"
+            ],
             "question": "How did Mary feel when Gabriel greeted her?"
         },
-       {
+        {
             "answer": "impossible",
-            "choices": ["impossible", "possible", "great", "certain"],
+            "choices": [
+                "impossible",
+                "possible",
+                "great",
+                "certain"
+            ],
             "question": "Complete the sentence: 'For with God nothing shall be ____________'"
         },
-       {
+        {
             "answer": "through the Holy Ghost",
-            "choices": ["through the Holy Ghost", "through Joseph", "through surrogacy", "through adoption"],
+            "choices": [
+                "through the Holy Ghost",
+                "through Joseph",
+                "through surrogacy",
+                "through adoption"
+            ],
             "question": "How is Mary going to be pregnant?"
         }
     ],
@@ -70,6 +95,6 @@
             "text": "And Mary said, Behold the handmaid of the Lord; be it unto me according to thy word. And the angel departed from her. "
         }
     ],
-    "title": "Gabriel talks to Mary"
+    "title": "Gabriel talks to Mary",
+    "poster": "https://gesab001.github.io/assets/images/gabrieltalkstomary/poster.jpg"
 }
-
