@@ -3,27 +3,52 @@
     "questions": [
         {
             "answer": "John the Baptist",
-            "choices": ["John the Baptist", "Matthew", "Mark", "Luke"],
+            "choices": [
+                "John the Baptist",
+                "Matthew",
+                "Mark",
+                "Luke"
+            ],
             "question": "Who was preaching in the wilderness of Judaea?"
         },
         {
             "answer": "repent",
-            "choices": ["repent", "sin", "get rich", "donate money"],
+            "choices": [
+                "repent",
+                "sin",
+                "get rich",
+                "donate money"
+            ],
             "question": "What was John the Baptist telling people to do?"
         },
         {
             "answer": "camel's hair",
-            "choices": ["camel's hair", "shirt and jeans", "pajamas", "white robe"],
+            "choices": [
+                "camel's hair",
+                "shirt and jeans",
+                "pajamas",
+                "white robe"
+            ],
             "question": "What did John wear for his clothes?"
         },
         {
             "answer": "cut down and burned",
-            "choices": ["cut down and burned", "build a tree house on it", "build a ship with it", "build a house with it"],
+            "choices": [
+                "cut down and burned",
+                "build a tree house on it",
+                "build a ship with it",
+                "build a house with it"
+            ],
             "question": "What will happen to trees that don't bear fruit?"
         },
         {
             "answer": "dove",
-            "choices": ["dove", "eagle", "crow", "owl"],
+            "choices": [
+                "dove",
+                "eagle",
+                "crow",
+                "owl"
+            ],
             "question": "What descended upon Jesus after he was baptized?"
         }
     ],
@@ -70,25 +95,6 @@
             "text": "And lo a voice from heaven, saying, This is my beloved Son, in whom I am well pleased. "
         }
     ],
-    "title": "Jesus is baptized"
+    "title": "Jesus is baptized",
+    "poster": "https://gesab001.github.io/assets/images/jesusisbaptized/poster.jpg"
 }
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
