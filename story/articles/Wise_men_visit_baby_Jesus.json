@@ -3,27 +3,52 @@
     "questions": [
         {
             "answer": "wise men",
-            "choices": ["wise men", "foolish men", "merchants", "tourists"],
+            "choices": [
+                "wise men",
+                "foolish men",
+                "merchants",
+                "tourists"
+            ],
             "question": "Who came to Jerusalem from the east?"
         },
         {
             "answer": "troubled",
-            "choices": ["troubled", "happy", "excited", "joyful"],
+            "choices": [
+                "troubled",
+                "happy",
+                "excited",
+                "joyful"
+            ],
             "question": "How did king Herod feel about the news of Jesus' birth?"
         },
         {
             "answer": "Bethlehem",
-            "choices": ["Bethlehem", "Jerusalem", "Nazareth", "Jericho"],
+            "choices": [
+                "Bethlehem",
+                "Jerusalem",
+                "Nazareth",
+                "Jericho"
+            ],
             "question": "According to prophecy, where would Jesus be born?"
         },
         {
             "answer": "star",
-            "choices": ["star", "map", "moon", "soldiers"],
+            "choices": [
+                "star",
+                "map",
+                "moon",
+                "soldiers"
+            ],
             "question": "What guided the wise men to the location of Jesus?"
         },
         {
             "answer": "gold, and frankincense, and myrrh",
-            "choices": ["gold, and frankincense, and myrrh", "silver, and frankincense, and myrrh", "gold, and cinnamon, and myrrh", "gold, and frankincense, and oil"],
+            "choices": [
+                "gold, and frankincense, and myrrh",
+                "silver, and frankincense, and myrrh",
+                "gold, and cinnamon, and myrrh",
+                "gold, and frankincense, and oil"
+            ],
             "question": "What gifts did the wise men give to Jesus?"
         }
     ],
@@ -70,5 +95,6 @@
             "text": "And being warned of God in a dream that they should not return to Herod, they departed into their own country another way. "
         }
     ],
-    "title": "Wise men visit baby jesus"
+    "title": "Wise men visit baby jesus",
+    "poster": "https://gesab001.github.io/assets/images/wisemenvisitbabyjesus/poster.jpg"
 }

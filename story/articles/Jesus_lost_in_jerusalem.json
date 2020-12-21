@@ -3,27 +3,52 @@
     "questions": [
         {
             "answer": "every year",
-            "choices": ["every year", "every day", "every week", "every month"],
+            "choices": [
+                "every year",
+                "every day",
+                "every week",
+                "every month"
+            ],
             "question": "How often did Joseph and Mary go to Jerusalem?"
         },
         {
             "answer": "12 years old",
-            "choices": ["12 years old", "5 years old", "3 years old", "10 years old"],
+            "choices": [
+                "12 years old",
+                "5 years old",
+                "3 years old",
+                "10 years old"
+            ],
             "question": "How old was Jesus when His parents took him to Jerusalem?"
         },
         {
             "answer": "3 days",
-            "choices": ["3 days", "4 days", "5 days", "1 week"],
+            "choices": [
+                "3 days",
+                "4 days",
+                "5 days",
+                "1 week"
+            ],
             "question": "How many days was Jesus separated from His parents?"
         },
         {
             "answer": "temple",
-            "choices": ["temple", "synagogue", "priest's house", "market"],
+            "choices": [
+                "temple",
+                "synagogue",
+                "priest's house",
+                "market"
+            ],
             "question": "Where did Joseph and Mary find Jesus?"
         },
         {
             "answer": "wisdom and stature, and in favour with God and man",
-            "choices": ["wisdom and stature, and in favour with God and man", "money", "food", "clothing"],
+            "choices": [
+                "wisdom and stature, and in favour with God and man",
+                "money",
+                "food",
+                "clothing"
+            ],
             "question": "What did Jesus increase in?"
         }
     ],
@@ -70,5 +95,6 @@
             "text": "And Jesus increased in wisdom and stature, and in favour with God and man. "
         }
     ],
-    "title": "Jesus lost in jerusalem"
+    "title": "Jesus lost in jerusalem",
+    "poster": "https://gesab001.github.io/assets/images/jesuslostinjerusalem/poster.jpg"
 }

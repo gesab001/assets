@@ -5,13 +5,16 @@ import os
 
 arr = os.listdir("../story/articles")
 arr.sort()
-for x in range(0, len(arr)):
-	print(str(x+1) + ". " + arr[x])
+
 
 arrindex = 0
 articlejson = 0
 folder = ""
 
+def printArticleList():
+	for x in range(0, len(arr)):
+		print(str(x+1) + ". " + arr[x])
+	
 def resize(filename):
     command = "identify -format " + "%wx%h "
     p = subprocess.Popen(['identify', '-format', '%w', filename], stdout=subprocess.PIPE)
@@ -108,6 +111,7 @@ def downloadPoster(url, path):
 
 
 while True:
+	printArticleList()
 	arrindex = int(input("story json filename:"))
 	articlejson = arr[arrindex-1]
 	print(articlejson)
