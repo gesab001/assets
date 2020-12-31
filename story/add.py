@@ -110,9 +110,14 @@ def clearDatabase():
 
 
 while True:
-   newstory = input("story title: " )
+   title = input("story title: " )
+   otherTitle = input("alternative story title: " )
+   description = input("description: ")
+   categories = input("categories: (split by comma)")
+   categorieslist = categories.split(",")
    book = input("book: ")
    chapter = input("chapter: ")
-   letter = newstory[0:1].upper()
-   addStory(newstory, letter, book, chapter)
-   updateIndexHtml("added a new story - " + newstory) 
+   letter = title[0:1].upper()
+   titleJson = {"title": title, "otherTitle": otherTitle, "description": description, "categories": categorieslist}
+   addStory(titleJson, letter, book, chapter)
+   updateIndexHtml("added a new story - " + title) 

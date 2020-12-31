@@ -1,9 +1,5 @@
 import random
 
-numbers = [2,5,10]
-numbertens = [10]
-numberfives = [5]
-numbertwos = [2]
 
 for x in range(1,21):
     b = random.randint(0, 100)
