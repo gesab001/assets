@@ -30,7 +30,7 @@ def createBibleSlides(title, book, chapter):
          index = y.index(".")+2
          string = y[index::]
          combined = combined + string + "  "
-     slide = {"text": combined, "reference": {"book": book, "chapter": chapter, "verse": {"start": start, "end": end}}, "image": "https://gesab001.github.io/assets/images/"+imagefolder}
+     slide = {"text": combined, "reference": {"book": book, "chapter": chapter, "verse": {"start": start, "end": end}}, "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/"+imagefolder}
      
 
      slides["slides"].append(slide)
