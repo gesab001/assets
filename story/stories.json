@@ -3,15 +3,6 @@
   "letter": "A",
   "names": [
    {
-    "title": "Abraham sacrifices Isaac",
-    "otherTitle": "The Test",
-    "description": "God tests Abraham's faith by asking him to offer his only son Isaac as a sacrifice",
-    "categories": [
-     "old testament",
-     "faith"
-    ]
-   },
-   {
     "title": "Ascension",
     "otherTitle": "Ascension",
     "description": "Jesus says farewell to his disciples before going back to heaven. He promises to be with them always.",
@@ -21,12 +12,11 @@
     ]
    },
    {
-    "title": "Absalom",
-    "otherTitle": "Rebel",
-    "description": "Absalom with his army fights his father David's army. His rebellious cause ends in tragic death that reveals his father's love for him.",
+    "title": "House of prayer",
+    "otherTitle": "Angry",
+    "description": "Jesus gets angry at those selling outside the temple. He tells everyone that the temple if a house of prayer.",
     "categories": [
-     "old testament",
-     "love"
+     "new testament"
     ]
    }
   ]
@@ -34,33 +24,6 @@
  {
   "letter": "B",
   "names": [
-   {
-    "title": "Babel",
-    "otherTitle": "Tower",
-    "description": "In a time when everyone spoke the same language, people worked together to build a very tall tower.",
-    "categories": [
-     "old testament",
-     "beginnings"
-    ]
-   },
-   {
-    "title": "Body and blood",
-    "otherTitle": "Communion",
-    "description": "Jesus spends his last night on earth before his death with his disciples. He explains the meaning of his sacrifice using bread and wine.",
-    "categories": [
-     "new testament",
-     "gospel"
-    ]
-   },
-   {
-    "title": "Blind man healed with mud",
-    "otherTitle": "Mud",
-    "description": "Jesus uses mud to heal a blind man. ",
-    "categories": [
-     "new testament",
-     "miracles"
-    ]
-   },
    {
     "title": "Burning bush",
     "otherTitle": "Bush",
@@ -87,183 +50,11 @@
      "old testament",
      "miracles"
     ]
-   }
-  ]
- },
- {
-  "letter": "C",
-  "names": [
-   {
-    "title": "Capernaum",
-    "otherTitle": "Roof",
-    "description": "Four friends break open the roof to let down their sick friend inside the house where Jesus was preaching so he could be healed.",
-    "categories": [
-     "newtestament",
-     "miracles"
-    ]
-   },
-   {
-    "title": "Crucifixion",
-    "otherTitle": "Crucified",
-    "description": "Jesus is condemned to death by the religious and political leaders of his time by way of crucifixion.",
-    "categories": [
-     "new testament",
-     "gospel"
-    ]
-   },
-   {
-    "title": "Cain and Abel",
-    "otherTitle": "Murder",
-    "description": "A man is jealous of his brother and kills him.",
-    "categories": [
-     "old testament",
-     "family"
-    ]
-   }
-  ]
- },
- {
-  "letter": "D",
-  "names": []
- },
- {
-  "letter": "E",
-  "names": []
- },
- {
-  "letter": "F",
-  "names": [
-   {
-    "title": "Footwashing",
-    "otherTitle": "Footwashing",
-    "description": "Jesus washes the feet of His disciples setting an example of humility and what it means to be a leader.",
-    "categories": [
-     "new testament",
-     "gospel"
-    ]
-   },
-   {
-    "title": "Fiery serpent",
-    "otherTitle": "Look",
-    "description": "The children of Israel murmur against Moses for their hardship in the wilderness. God sends serpents as a punishment for their murmurings. But because they repented of their sins, God provide them with healing tthrough a metal serpent.",
-    "categories": [
-     "old testament",
-     "salvation"
-    ]
-   }
-  ]
- },
- {
-  "letter": "G",
-  "names": [
-   {
-    "title": "Gabriel talks to mary",
-    "otherTitle": "Virgin",
-    "description": "Mary who is a virgin is visited by the angel Gabriel. The angel tells her that she will be pregnant through the Holy Spirit and will give birth to the Messiah.",
-    "categories": [
-     "new testament",
-     "gospel"
-    ]
-   },
-   {
-    "title": "Good samaritan",
-    "otherTitle": "Samaritan",
-    "description": "A man is robbed and left to die. The most unexpected savior comes to his rescue.",
-    "categories": [
-     "new testament",
-     "parables"
-    ]
-   },
-   {
-    "title": "Gadarenes",
-    "otherTitle": "Demoniac",
-    "description": "Jesus drives out the demons of out a man who lived among the dead and sends them to the pigs.",
-    "categories": [
-     "new testament",
-     "salvation"
-    ]
-   },
-   {
-    "title": "Giving",
-    "otherTitle": "Mites",
-    "description": "Jesus speaks highly of a poor widow who gave all that she had.",
-    "categories": [
-     "new testament",
-     "gospel"
-    ]
-   }
-  ]
- },
- {
-  "letter": "H",
-  "names": [
-   {
-    "title": "House of prayer",
-    "otherTitle": "Angry",
-    "description": "Jesus gets angry at those selling outside the temple. He tells everyone that the temple if a house of prayer.",
-    "categories": [
-     "new testament"
-    ]
-   }
-  ]
- },
- {
-  "letter": "I",
-  "names": [
-   {
-    "title": "I am",
-    "otherTitle": "I am",
-    "description": "Jesus claims to be the great I AM.",
-    "categories": [
-     "new testament",
-     "gospel"
-    ]
-   }
-  ]
- },
- {
-  "letter": "J",
-  "names": [
-   {
-    "title": "Jesus is born",
-    "otherTitle": "Nativity",
-    "description": "Jesus Christ, the long promised Messiah is born in a manger.",
-    "categories": [
-     "new testament",
-     "gospel"
-    ]
-   },
-   {
-    "title": "Joseph and Mary escape to Egypt",
-    "otherTitle": "Egypt",
-    "description": "Joseph is warned in a dream that King Herod is seeking to destroy baby Jesus. He is told to escape to Egypt with his wife Mary and their baby.",
-    "categories": [
-     "new testament",
-     "gospel"
-    ]
-   },
-   {
-    "title": "Jesus lost in jerusalem",
-    "otherTitle": "Lost",
-    "description": "Joseph and Mary take their 12 year old Jesus to Jerusalem.  Upon returning to their home, they had discovered that Jesus was not with their company of travelers. After three days, they found Him in the temple.",
-    "categories": [
-     "new testament",
-     "gospel"
-    ]
    },
    {
     "title": "Jesus is baptized",
     "otherTitle": "Baptism",
     "description": "John the Baptist baptizes Jesus and declares Him to be the Savior of the world, the Lamb of God that takes away the sin of the world.",
-    "categories": [
-     "new testament",
-     "gospel"
-    ]
-   },
-   {
-    "title": "Jesus attends a wedding",
-    "otherTitle": "Wedding",
-    "description": "Jesus performs His first miracle at a wedding in Cana.",
     "categories": [
      "new testament",
      "gospel"
@@ -279,18 +70,114 @@
     ]
    },
    {
-    "title": "Jesus talks about the prodigal son",
-    "otherTitle": "Prodigal",
-    "description": "Jesus tells a story of a father who has two sons. The younger son makes bad decisions that led him to discover his father's love.",
+    "title": "Jesus feeds 5,000",
+    "otherTitle": "Bread",
+    "description": "Jesus feeds 5000 people by multiplying a few loaves of bread and fish in the wilderness.",
     "categories": [
      "new testament",
-     "parables"
+     "miracles"
     ]
    },
    {
-    "title": "Jesus is fasting in the wilderness",
-    "otherTitle": "Fasting",
-    "description": "Jesus is tempted of Satan to sin after fasting for 40 days in the wilderness.",
+    "title": "Jesus is buried",
+    "otherTitle": "Burial",
+    "description": "Jesus is taken down from the cross and buried in a tomb.",
+    "categories": [
+     "new testament",
+     "gospel"
+    ]
+   },
+   {
+    "title": "River of blood",
+    "otherTitle": "Blood",
+    "description": "Moses turns water to blood to demonstrate God's power before Pharaoh.",
+    "categories": [
+     "old testament",
+     "judgment"
+    ]
+   }
+  ]
+ },
+ {
+  "letter": "C",
+  "names": [
+   {
+    "title": "Body and blood",
+    "otherTitle": "Communion",
+    "description": "Jesus spends his last night on earth before his death with his disciples. He explains the meaning of his sacrifice using bread and wine.",
+    "categories": [
+     "new testament",
+     "gospel"
+    ]
+   },
+   {
+    "title": "Crucifixion",
+    "otherTitle": "Crucified",
+    "description": "Jesus is condemned to death by the religious and political leaders of his time by way of crucifixion.",
+    "categories": [
+     "new testament",
+     "gospel"
+    ]
+   },
+   {
+    "title": "Jesus dies on the cross",
+    "otherTitle": "Calvary",
+    "description": "Jesus dies on the cross for the sins of the world.",
+    "categories": [
+     "new testament",
+     "gospel"
+    ]
+   },
+   {
+    "title": "Leper and centurion",
+    "otherTitle": "Cured",
+    "description": "Jesus heals two people one after another.",
+    "categories": [
+     "new testament",
+     "miracles"
+    ]
+   },
+   {
+    "title": "Money inside the fish",
+    "otherTitle": "Coin",
+    "description": "In order to pay for the temple tax, Jesus tells Peter to get a coin from the most unexpected places.",
+    "categories": [
+     "new testament",
+     "gospel"
+    ]
+   }
+  ]
+ },
+ {
+  "letter": "D",
+  "names": [
+   {
+    "title": "Gadarenes",
+    "otherTitle": "Demoniac",
+    "description": "Jesus drives out the demons of out a man who lived among the dead and sends them to the pigs.",
+    "categories": [
+     "new testament",
+     "salvation"
+    ]
+   },
+   {
+    "title": "Moses divides the sea",
+    "otherTitle": "Divided",
+    "description": "When it appears there is no way out, God makes a way for the children of Israel to escape from the Egyptian army.",
+    "categories": [
+     "old testament",
+     "salvation"
+    ]
+   }
+  ]
+ },
+ {
+  "letter": "E",
+  "names": [
+   {
+    "title": "Joseph and Mary escape to Egypt",
+    "otherTitle": "Egypt",
+    "description": "Joseph is warned in a dream that King Herod is seeking to destroy baby Jesus. He is told to escape to Egypt with his wife Mary and their baby.",
     "categories": [
      "new testament",
      "gospel"
@@ -304,56 +191,25 @@
      "new testament",
      "prophecy"
     ]
-   },
+   }
+  ]
+ },
+ {
+  "letter": "F",
+  "names": [
    {
-    "title": "Jesus feeds 5,000",
-    "otherTitle": "Bread",
-    "description": "Jesus feeds 5000 people by multiplying a few loaves of bread and fish in the wilderness.",
-    "categories": [
-     "new testament",
-     "miracles"
-    ]
-   },
-   {
-    "title": "Jesus walks on the water",
-    "otherTitle": "Water",
-    "description": "Jesus walks on the water in the sea of Galilee.",
-    "categories": [
-     "new testament",
-     "miracles"
-    ]
-   },
-   {
-    "title": "Jesus is resurrected",
-    "otherTitle": "Resurrected",
-    "description": "Jesus comes back from the dead as He promised and as prophesied in the Scriptures.",
+    "title": "Footwashing",
+    "otherTitle": "Footwashing",
+    "description": "Jesus washes the feet of His disciples setting an example of humility and what it means to be a leader.",
     "categories": [
      "new testament",
      "gospel"
     ]
    },
    {
-    "title": "Jesus heals a man at Bethesda",
-    "otherTitle": "Thirty-eight",
-    "description": "Jesus heals a man who has been paralysed for 38 years on the Sabbath. ",
-    "categories": [
-     "new testament",
-     "miracles"
-    ]
-   },
-   {
-    "title": "Jesus dies on the cross",
-    "otherTitle": "Calvary",
-    "description": "Jesus dies on the cross for the sins of the world.",
-    "categories": [
-     "new testament",
-     "gospel"
-    ]
-   },
-   {
-    "title": "Jesus is buried",
-    "otherTitle": "Burial",
-    "description": "Jesus is taken down from the cross and buried in a tomb.",
+    "title": "Jesus is fasting in the wilderness",
+    "otherTitle": "Fasting",
+    "description": "Jesus is tempted of Satan to sin after fasting for 40 days in the wilderness.",
     "categories": [
      "new testament",
      "gospel"
@@ -362,79 +218,23 @@
   ]
  },
  {
-  "letter": "K",
-  "names": [
-   {
-    "title": "Korah",
-    "otherTitle": "Rebellion",
-    "description": "Korah and his followers attempt to overthrow Moses as a leader but God shows who is the true leader.",
-    "categories": [
-     "old testament",
-     "justice"
-    ]
-   }
-  ]
+  "letter": "G",
+  "names": []
  },
  {
-  "letter": "L",
-  "names": [
-   {
-    "title": "Lazarus",
-    "otherTitle": "Lazarus",
-    "description": "After four days of being dead, Jesus brings his dead friend back to life.",
-    "categories": [
-     "new testament",
-     "miracles"
-    ]
-   },
-   {
-    "title": "Leper and centurion",
-    "otherTitle": "Cured",
-    "description": "Jesus heals two people one after another.",
-    "categories": [
-     "new testament",
-     "miracles"
-    ]
-   },
-   {
-    "title": "Lunatic",
-    "otherTitle": "Lunatic",
-    "description": "When the disciples could not heal the lunatic, the father came to Jesus for healing.",
-    "categories": [
-     "new testament",
-     "miracles"
-    ]
-   }
-  ]
+  "letter": "H",
+  "names": []
  },
  {
-  "letter": "M",
+  "letter": "I",
   "names": [
    {
-    "title": "Money inside the fish",
-    "otherTitle": "Coin",
-    "description": "In order to pay for the temple tax, Jesus tells Peter to get a coin from the most unexpected places.",
+    "title": "I am",
+    "otherTitle": "I am",
+    "description": "Jesus claims to be the great I AM.",
     "categories": [
      "new testament",
      "gospel"
-    ]
-   },
-   {
-    "title": "Moses divides the sea",
-    "otherTitle": "Divided",
-    "description": "When it appears there is no way out, God makes a way for the children of Israel to escape from the Egyptian army.",
-    "categories": [
-     "old testament",
-     "salvation"
-    ]
-   },
-   {
-    "title": "Manna",
-    "otherTitle": "Manna",
-    "description": "Without any food to eat in the wilderness, God rains food from heaven to feed the children of Israel.",
-    "categories": [
-     "old testament",
-     "salvation"
     ]
    },
    {
@@ -449,8 +249,125 @@
   ]
  },
  {
+  "letter": "J",
+  "names": []
+ },
+ {
+  "letter": "K",
+  "names": []
+ },
+ {
+  "letter": "L",
+  "names": [
+   {
+    "title": "Fiery serpent",
+    "otherTitle": "Look",
+    "description": "The children of Israel murmur against Moses for their hardship in the wilderness. God sends serpents as a punishment for their murmurings. But because they repented of their sins, God provide them with healing tthrough a metal serpent.",
+    "categories": [
+     "old testament",
+     "salvation"
+    ]
+   },
+   {
+    "title": "Jesus lost in jerusalem",
+    "otherTitle": "Lost",
+    "description": "Joseph and Mary take their 12 year old Jesus to Jerusalem.  Upon returning to their home, they had discovered that Jesus was not with their company of travelers. After three days, they found Him in the temple.",
+    "categories": [
+     "new testament",
+     "gospel"
+    ]
+   },
+   {
+    "title": "Lazarus",
+    "otherTitle": "Lazarus",
+    "description": "After four days of being dead, Jesus brings his dead friend back to life.",
+    "categories": [
+     "new testament",
+     "miracles"
+    ]
+   },
+   {
+    "title": "Lunatic",
+    "otherTitle": "Lunatic",
+    "description": "When the disciples could not heal the lunatic, the father came to Jesus for healing.",
+    "categories": [
+     "new testament",
+     "miracles"
+    ]
+   },
+   {
+    "title": "Samson kills a lion",
+    "otherTitle": "Lion",
+    "description": "Samson kills a lion and something sweet came out of it.",
+    "categories": [
+     "old testament",
+     "action"
+    ]
+   },
+   {
+    "title": "Ten Lepers",
+    "otherTitle": "Lepers",
+    "description": "Jesus heals ten lepers but only one came back to thank Him.",
+    "categories": [
+     "new testament",
+     "miracles"
+    ]
+   }
+  ]
+ },
+ {
+  "letter": "M",
+  "names": [
+   {
+    "title": "Blind man healed with mud",
+    "otherTitle": "Mud",
+    "description": "Jesus uses mud to heal a blind man. ",
+    "categories": [
+     "new testament",
+     "miracles"
+    ]
+   },
+   {
+    "title": "Cain and Abel",
+    "otherTitle": "Murder",
+    "description": "A man is jealous of his brother and kills him.",
+    "categories": [
+     "old testament",
+     "family"
+    ]
+   },
+   {
+    "title": "Giving",
+    "otherTitle": "Mites",
+    "description": "Jesus speaks highly of a poor widow who gave all that she had.",
+    "categories": [
+     "new testament",
+     "gospel"
+    ]
+   },
+   {
+    "title": "Manna",
+    "otherTitle": "Manna",
+    "description": "Without any food to eat in the wilderness, God rains food from heaven to feed the children of Israel.",
+    "categories": [
+     "old testament",
+     "salvation"
+    ]
+   }
+  ]
+ },
+ {
   "letter": "N",
   "names": [
+   {
+    "title": "Jesus is born",
+    "otherTitle": "Nativity",
+    "description": "Jesus Christ, the long promised Messiah is born in a manger.",
+    "categories": [
+     "new testament",
+     "gospel"
+    ]
+   },
    {
     "title": "Nain",
     "otherTitle": "Nain",
@@ -479,6 +396,15 @@
   "letter": "P",
   "names": [
    {
+    "title": "Jesus talks about the prodigal son",
+    "otherTitle": "Prodigal",
+    "description": "Jesus tells a story of a father who has two sons. The younger son makes bad decisions that led him to discover his father's love.",
+    "categories": [
+     "new testament",
+     "parables"
+    ]
+   },
+   {
     "title": "Pilate",
     "otherTitle": "Pilate",
     "description": "The religious leaders brings Jesus before Pilate demanding that He be executed.",
@@ -506,12 +432,57 @@
   "letter": "R",
   "names": [
    {
-    "title": "River of blood",
-    "otherTitle": "Blood",
-    "description": "Moses turns water to blood to demonstrate God's power before Pharaoh.",
+    "title": "Absalom",
+    "otherTitle": "Rebel",
+    "description": "Absalom with his army fights his father David's army. His rebellious cause ends in tragic death that reveals his father's love for him.",
     "categories": [
      "old testament",
-     "judgment"
+     "love"
+    ]
+   },
+   {
+    "title": "Capernaum",
+    "otherTitle": "Roof",
+    "description": "Four friends break open the roof to let down their sick friend inside the house where Jesus was preaching so he could be healed.",
+    "categories": [
+     "newtestament",
+     "miracles"
+    ]
+   },
+   {
+    "title": "Jesus is resurrected",
+    "otherTitle": "Resurrected",
+    "description": "Jesus comes back from the dead as He promised and as prophesied in the Scriptures.",
+    "categories": [
+     "new testament",
+     "gospel"
+    ]
+   },
+   {
+    "title": "Korah",
+    "otherTitle": "Rebellion",
+    "description": "Korah and his followers attempt to overthrow Moses as a leader but God shows who is the true leader.",
+    "categories": [
+     "old testament",
+     "justice"
+    ]
+   },
+   {
+    "title": "Ten Commandments",
+    "otherTitle": "Rules",
+    "description": "God gives ten rules to Moses for the children of Israel.",
+    "categories": [
+     "old testament",
+     "law"
+    ]
+   },
+   {
+    "title": "Water from rock",
+    "otherTitle": "Rock",
+    "description": "Moses hits a rock and water gushes out to quench the thirst of the children of Israel.",
+    "categories": [
+     "old testament",
+     "miracles"
     ]
    }
   ]
@@ -520,12 +491,12 @@
   "letter": "S",
   "names": [
    {
-    "title": "Samaria",
-    "otherTitle": "Well",
-    "description": "Jesus asks for water from a woman of Samaria. When she refused, Jesus offers her the living water.",
+    "title": "Good samaritan",
+    "otherTitle": "Samaritan",
+    "description": "A man is robbed and left to die. The most unexpected savior comes to his rescue.",
     "categories": [
      "new testament",
-     "gospel"
+     "parables"
     ]
    },
    {
@@ -547,21 +518,53 @@
     ]
    },
    {
-    "title": "Sick woman and a dead daughter",
-    "otherTitle": "Twelve",
-    "description": "Jesus heals a woman who has been sick for 12 years and a 12 year old girl.",
+    "title": "Zacchaeus",
+    "otherTitle": "Short",
+    "description": "Jesus shows love to a despised rich man in the city of Jericho.",
+    "categories": [
+     "new testament",
+     "gospel"
+    ]
+   }
+  ]
+ },
+ {
+  "letter": "T",
+  "names": [
+   {
+    "title": "Abraham sacrifices Isaac",
+    "otherTitle": "The Test",
+    "description": "God tests Abraham's faith by asking him to offer his only son Isaac as a sacrifice",
+    "categories": [
+     "old testament",
+     "faith"
+    ]
+   },
+   {
+    "title": "Babel",
+    "otherTitle": "Tower",
+    "description": "In a time when everyone spoke the same language, people worked together to build a very tall tower.",
+    "categories": [
+     "old testament",
+     "beginnings"
+    ]
+   },
+   {
+    "title": "Jesus heals a man at Bethesda",
+    "otherTitle": "Thirty-eight",
+    "description": "Jesus heals a man who has been paralysed for 38 years on the Sabbath. ",
     "categories": [
      "new testament",
      "miracles"
     ]
    },
    {
-    "title": "Samson kills a lion",
-    "otherTitle": "Lion",
-    "description": "Samson kills a lion and something sweet came out of it.",
+    "title": "Sick woman and a dead daughter",
+    "otherTitle": "Twelve",
+    "description": "Jesus heals a woman who has been sick for 12 years and a 12 year old girl.",
     "categories": [
-     "old testament",
-     "action"
+     "new testament",
+     "miracles"
     ]
    },
    {
@@ -572,29 +575,6 @@
      "old testament",
      "action"
     ]
-   }
-  ]
- },
- {
-  "letter": "T",
-  "names": [
-   {
-    "title": "Ten Virgins",
-    "otherTitle": "Virgins",
-    "description": "Jesus tells a story of the ten virgins to explain the kingdom of heaven.",
-    "categories": [
-     "new testament",
-     "parables"
-    ]
-   },
-   {
-    "title": "Ten Lepers",
-    "otherTitle": "Lepers",
-    "description": "Jesus heals ten lepers but only one came back to thank Him.",
-    "categories": [
-     "new testament",
-     "miracles"
-    ]
    },
    {
     "title": "Transfiguration",
@@ -603,15 +583,6 @@
     "categories": [
      "new testament",
      "gospel"
-    ]
-   },
-   {
-    "title": "Ten Commandments",
-    "otherTitle": "Rules",
-    "description": "God gives ten rules to Moses for the children of Israel.",
-    "categories": [
-     "old testament",
-     "law"
     ]
    }
   ]
@@ -622,11 +593,57 @@
  },
  {
   "letter": "V",
-  "names": []
+  "names": [
+   {
+    "title": "Gabriel talks to mary",
+    "otherTitle": "Virgin",
+    "description": "Mary who is a virgin is visited by the angel Gabriel. The angel tells her that she will be pregnant through the Holy Spirit and will give birth to the Messiah.",
+    "categories": [
+     "new testament",
+     "gospel"
+    ]
+   },
+   {
+    "title": "Ten Virgins",
+    "otherTitle": "Virgins",
+    "description": "Jesus tells a story of the ten virgins to explain the kingdom of heaven.",
+    "categories": [
+     "new testament",
+     "parables"
+    ]
+   }
+  ]
  },
  {
   "letter": "W",
   "names": [
+   {
+    "title": "Jesus attends a wedding",
+    "otherTitle": "Wedding",
+    "description": "Jesus performs His first miracle at a wedding in Cana.",
+    "categories": [
+     "new testament",
+     "gospel"
+    ]
+   },
+   {
+    "title": "Jesus walks on the water",
+    "otherTitle": "Water",
+    "description": "Jesus walks on the water in the sea of Galilee.",
+    "categories": [
+     "new testament",
+     "miracles"
+    ]
+   },
+   {
+    "title": "Samaria",
+    "otherTitle": "Well",
+    "description": "Jesus asks for water from a woman of Samaria. When she refused, Jesus offers her the living water.",
+    "categories": [
+     "new testament",
+     "gospel"
+    ]
+   },
    {
     "title": "Wise men visit baby Jesus",
     "otherTitle": "Wise",
@@ -634,15 +651,6 @@
     "categories": [
      "new testament",
      "gospel"
-    ]
-   },
-   {
-    "title": "Water from rock",
-    "otherTitle": "Rock",
-    "description": "Moses hits a rock and water gushes out to quench the thirst of the children of Israel.",
-    "categories": [
-     "old testament",
-     "miracles"
     ]
    }
   ]
@@ -657,16 +665,6 @@
  },
  {
   "letter": "Z",
-  "names": [
-   {
-    "title": "Zacchaeus",
-    "otherTitle": "Short",
-    "description": "Jesus shows love to a despised rich man in the city of Jericho.",
-    "categories": [
-     "new testament",
-     "gospel"
-    ]
-   }
-  ]
+  "names": []
  }
 ]
