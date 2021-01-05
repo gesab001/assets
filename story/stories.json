@@ -1,5 +1,16 @@
-{"new": [],
-	"atoz": [
+{"new": [{
+  "letter": "A",
+  "names": [
+   {
+    "title": "Ascension",
+    "otherTitle": "Ascension",
+    "description": "Jesus says farewell to his disciples before going back to heaven. He promises to be with them always.",
+    "categories": [
+     "new testament",
+     "gospel"
+    ]
+   }],
+ "atoz": [
  {
   "letter": "A",
   "names": [
