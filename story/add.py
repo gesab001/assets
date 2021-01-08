@@ -73,7 +73,7 @@ def createNewStory(title, book, chapter):
    print(jsonobject)
    with open("./articles/"+filename, "w") as outfile:
       json.dump(jsonobject, outfile, indent=4)
-   subprocess.call("mkdir  ~/assets/public/images/" + folder, shell=True)
+   subprocess.call("mkdir ~/assets/public/images/" + folder, shell=True)
 
 
 def addStory(title, letter, book, chapter):
@@ -82,14 +82,17 @@ def addStory(title, letter, book, chapter):
   f = open("stories.json")
   jsondata = json.load(f)
   f.close()
+  
   for i in range(0, 26):
-     if jsondata[i]["letter"]==letter:
-        if title not in jsondata[i]["names"]:
-          jsondata[i]["names"].append(title)
+     if jsondata["atoz"][i]["letter"]==letter:
+        if title not in jsondata["atoz"][i]["names"]:
+          jsondata["atoz"][i]["names"].append(title)
+          #add to new
+          jsondata["new"].append(title)
           print(jsondata)
           with open("stories.json", "w") as outfile:
              json.dump(jsondata, outfile, indent=4)
-          createNewStory(title, book, chapter)
+          createNewStory(title["title"], book, chapter)
 
 def getLettersList():
   result = list(alphabets)

@@ -15,30 +15,49 @@ def createQuestions():
    questions = []
    for x in range(5):
      data = {"question": "", "answer": "", "choices": ["", "", "", ""]}
+     question = input("question: ")
+     answer = input("answer: ")
+     a = answer
+     b = input("choice b: ")
+     c = input("choice c: ")
+     d = input("choice d: ")
+     data["question"] = question
+     data["answer"] = answer
+     data["choices"] = [a, b, c, d]
      questions.append(data)
    return questions
 
-def createSlides(folder, book, chapter):
-    slides = []
-    f = open("sample.txt")
+def createSlides(title, book, chapter):
+    imagefolder = title.lower().replace(" ", "")
+    
+    bibletext = imagefolder + ".txt"
+    print("bibletext:" + bibletext)
+    f = open(bibletext)
     string = f.read()
+    
     par = string.split("\n\n")
+   
+    slides = {"slides": []}
     for x in par:
-        verse = x.split("\n")
-        empty = ""
-        if empty in verse:
-            verse.remove(empty)
-        combined = ""
-        start = verse[0][0:2].strip()
-        end = verse[-1][0:2].strip()
-        for y in verse:
-            if y!='':
-                index = y.index(".")+2
-                string = y[index::]
-                combined = combined + string + "  "
-        slide = {"text": combined.strip(), "reference": {"book": book, "chapter": chapter, "verse": {"start": start, "end": end}}, "image": "https://gesab001.github.io/assets/images/"+folder+"/"}
-        slides.append(slide)
-    return slides
+     verse = x.split("\n")
+     empty = ""
+     if empty in verse:
+       verse.remove(empty)
+     combined = ""
+     start = verse[0][0:2].strip()
+     end = verse[-1][0:2].strip()
+     for y in verse:
+       if y!='':
+         index = y.index(".")+2
+         string = y[index::]
+         combined = combined + string + "  "
+     slide = {"text": combined, "reference": {"book": book, "chapter": chapter, "verse": {"start": start, "end": end}}, "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/"+imagefolder}
+     
+
+     slides["slides"].append(slide)
+    for slide in slides["slides"]:
+        print(slide["text"])
+    return slides["slides"];
 
 def createNewStory(title, book, chapter):
    filename = title.replace(" ", "_") + ".json"
@@ -55,14 +74,17 @@ def addStory(title, letter, book, chapter):
   f = open("stories.json")
   jsondata = json.load(f)
   f.close()
+  
   for i in range(0, 26):
-     if jsondata[i]["letter"]==letter:
-        if title not in jsondata[i]["names"]:
-          jsondata[i]["names"].append(title)
+     if jsondata["atoz"][i]["letter"]==letter:
+        if title not in jsondata["atoz"][i]["names"]:
+          jsondata["atoz"][i]["names"].append(title)
+          #add to new
+          jsondata["new"].append(title)
           print(jsondata)
           with open("stories.json", "w") as outfile:
              json.dump(jsondata, outfile, indent=4)
-          createNewStory(title, book, chapter)
+          createNewStory(title["title"], book, chapter)
 
 def getLettersList():
   result = list(alphabets)
@@ -83,9 +105,14 @@ def clearDatabase():
 
 
 while True:
-   newstory = input("story title: " )
+   title = input("story title: " )
+   otherTitle = input("alternative story title: " )
+   description = input("description: ")
+   categories = input("categories: (split by comma)")
+   categorieslist = categories.split(",")
    book = input("book: ")
    chapter = input("chapter: ")
-   letter = newstory[0:1].upper()
-   addStory(newstory.capitalize(), letter, book, chapter)
-   updateIndexHtml("added a new story - " + newstory) 
+   letter = title[0:1].upper()
+   titleJson = {"title": title.capitalize(), "otherTitle": otherTitle.capitalize(), "description": description, "categories": categorieslist}
+   addStory(titleJson, letter, book, chapter)
+   updateIndexHtml("added a new story - " + title) 
