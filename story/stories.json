@@ -3,20 +3,21 @@
         {
             "title": "God created the world",
             "otherTitle": "Creation",
-            "description": "God created the world in six days. Everyting was made by God through His word.",
+            "description": "God created the world in six days. Everything was made by God through His word",
             "categories": [
                 "old testament",
                 "beginnings"
             ]
         },
         {
-            "title": "God created the world",
-            "otherTitle": "Creation",
-            "description": "God created the world in six days. Everything was made by God through His word",
+            "title": "Three hebrews",
+            "otherTitle": "Safe",
+            "description": "Three Jews had their faith tested when forced to worship the king's golden image. Unafraid they remained loyal to the God of heaven.",
             "categories": [
                 "old testament",
-                "beginnings"
-            ]
+                "faith"
+            ],
+            "newcoverposter": "https://gesab001.github.io/assets/threehebrews/newcoverposter.jpg"
         }
     ],
     "atoz": [
@@ -566,6 +567,16 @@
                         "new testament",
                         "gospel"
                     ]
+                },
+                {
+                    "title": "Three hebrews",
+                    "otherTitle": "Safe",
+                    "description": "Three ",
+                    "categories": [
+                        "old testament",
+                        "faith"
+                    ],
+                    "newcoverposter": "https://gesab001.github.io/assets/threehebrews/newcoverposter.jpg"
                 }
             ]
         },

@@ -84,7 +84,7 @@ def getSlides():
     return jsondata
 
 def updateImage(jsondata, slidenumber, filename):
-  jsondata["slides"][slidenumber]["image"] = "https://gesab001.github.io/assets/images/"+folder+"/"+filename
+  jsondata["slides"][slidenumber]["image"] = "https://raw.githubusercontent.com/gesab001/assets/master/images/"+folder+"/"+filename
   print(jsondata["slides"][slidenumber]["image"])  
   with open("../story/articles/"+articlejson, "w") as outfile:
         json.dump(jsondata, outfile, indent=4)
@@ -103,6 +103,9 @@ def downloadImage(url, path):
 	 resize(path) 
 	 updateIndexHtml(path)
 	 displayImage(path)
+	 makecoverimage = input("make this new cover image: ")
+	 if (makecoverimage=="y"):
+		 subprocess.call("cp " + path + " newcoverposter.jpg")
 	 
 
 def displayImage(path):
