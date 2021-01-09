@@ -26,6 +26,7 @@ else:
 	folderexists = os.path.exists(folder)
 	if folderexists==True:
 		print("folder created")
+
 """
 imagefolders = os.listdir()
 imagefolders.sort()
@@ -89,7 +90,30 @@ def updateImage(jsondata, slidenumber, filename):
   with open("../story/articles/"+articlejson, "w") as outfile:
         json.dump(jsondata, outfile, indent=4)
 
-def downloadImage(url, path):
+def setNewCoverPoster(filename):
+	foldertest = articlejson.split(".")
+	foldertest = foldertest[0]
+	foldermatch = foldertest.replace("_", " ").lower()
+	f = open("../story/stories.json")
+	string = f.read()
+	data = json.loads(string)
+	f.close()
+	print(data)
+	matchIndex = 0
+	for x in range(0,len(data["new"])):
+		title = data["new"][x]["title"].lower()
+		print(title)
+		if(title==foldermatch):
+			matchIndex = x
+			print("match")
+			data["new"][x]["newcoverposter"] = "https://raw.githubusercontent.com/gesab001/assets/master/images/"+folder+"/"+filename
+	with open("../story/stories.json", "w") as outfile:
+		json.dump(data, outfile, indent=4)
+			
+
+		
+def downloadImage(url, filename):
+	path = "./"+folder+"/"+filename
 	command = "curl -L " + url + " --output " + path
 	subprocess.call(command, shell=True)
 	proc = subprocess.Popen(["curl", "-L", url, "-o", path],stdout=subprocess.PIPE, stderr=subprocess.PIPE)
@@ -105,8 +129,10 @@ def downloadImage(url, path):
 	 displayImage(path)
 	 makecoverimage = input("make this new cover image: ")
 	 if (makecoverimage=="y"):
-		 subprocess.call("cp " + path + " newcoverposter.jpg")
+		 setNewCoverPoster(filename)
+
 	 
+
 
 def displayImage(path):
 	command = "display " + path
@@ -132,40 +158,39 @@ def downloadPoster(url, path):
 	 updateIndexHtml(path)
 	 displayImage(path)
 	 updatePoster()
-	 	 
-jsondata = getSlides()
-slides = jsondata["slides"]
-try:
-	print(jsondata["poster"])
-except:
-	url = input("poster url: ")
-	path = "./"+folder+"/poster.jpg"
-	downloadPoster(url, path)
-	
-	
-for slidenumber in range(0, len(slides)):
-	print(str(slidenumber+1))
-	book = slides[slidenumber]["reference"]["book"]
-	chapter = slides[slidenumber]["reference"]["chapter"]
-	verse = slides[slidenumber]["reference"]["verse"]["start"]
-	verse = verse.replace(".", "")
-	verse = int(verse) + slidenumber
-	verse = str(verse)
-	print(book + " " + chapter + ":" + verse + " " + slides[slidenumber]["text"])
-	print(slides[slidenumber]["image"])
-	subprocess.call("ls " + folder, shell=True)
-	url = input("url: " )
-	if url=="skip":
-	   print("skip")
-	else:
-		filename = input("filename: " )   
-		filename = filename + ".jpg"
-		updateImage(jsondata, slidenumber, filename)
-		path = "./"+folder+"/"+filename
-		downloadImage(url, path) 	 
-		#closecommand = "xkill -id `xprop -root _NET_ACTIVE_WINDOW | cut -d\# -f2`"
-		#subprocess.call(closecommand, shell=True)
+
+def main():	 	 
+	jsondata = getSlides()
+	slides = jsondata["slides"]
+	try:
+		print(jsondata["poster"])
+	except:
+		url = input("poster url: ")
+		path = "./"+folder+"/poster.jpg"
+		downloadPoster(url, path)
+		
+		
+	for slidenumber in range(0, len(slides)):
+		print(str(slidenumber+1))
+		book = slides[slidenumber]["reference"]["book"]
+		chapter = slides[slidenumber]["reference"]["chapter"]
+		verse = slides[slidenumber]["reference"]["verse"]["start"]
+		verse = verse.replace(".", "")
+		verse = int(verse) + slidenumber
+		verse = str(verse)
+		print(book + " " + chapter + ":" + verse + " " + slides[slidenumber]["text"])
+		print(slides[slidenumber]["image"])
+		subprocess.call("ls " + folder, shell=True)
+		url = input("url: " )
+		if url=="skip":
+		   print("skip")
+		else:
+			filename = input("filename: " )   
+			filename = filename + ".jpg"
+			updateImage(jsondata, slidenumber, filename)
+			downloadImage(url, filename) 	 
+			#closecommand = "xkill -id `xprop -root _NET_ACTIVE_WINDOW | cut -d\# -f2`"
+			#subprocess.call(closecommand, shell=True)
 		    
 
-
-
+main()

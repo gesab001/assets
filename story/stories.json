@@ -7,17 +7,18 @@
             "categories": [
                 "old testament",
                 "beginnings"
-            ]
+            ],
+            "newcoverposter": "https://gesab001.github.io/assets/threehebrews/newcoverposter.jpg"
         },
         {
-            "title": "Three hebrews",
+            "title": "Three Hebrews",
             "otherTitle": "Safe",
             "description": "Three Jews had their faith tested when forced to worship the king's golden image. Unafraid they remained loyal to the God of heaven.",
             "categories": [
                 "old testament",
                 "faith"
             ],
-            "newcoverposter": "https://gesab001.github.io/assets/threehebrews/newcoverposter.jpg"
+            "newcoverposter": "https://raw.githubusercontent.com/gesab001/assets/master/images/threehebrews/sohot.jpg"
         }
     ],
     "atoz": [
@@ -168,6 +169,15 @@
                         "new testament",
                         "gospel"
                     ]
+                },
+                {
+                    "title": "God created the world",
+                    "otherTitle": "Creation",
+                    "description": "God created the world in six days. Everyting was made by God through His word.",
+                    "categories": [
+                        "old testament",
+                        "beginnings"
+                    ]
                 }
             ]
         },
@@ -242,26 +252,7 @@
         },
         {
             "letter": "G",
-            "names": [
-                {
-                    "title": "God created the world",
-                    "otherTitle": "Creation",
-                    "description": "God created the world in six days. Everyting was made by God through His word.",
-                    "categories": [
-                        "old testament",
-                        "beginnings"
-                    ]
-                },
-                {
-                    "title": "God created the world",
-                    "otherTitle": "Creation",
-                    "description": "God created the world in six days. Everything was made by God through His word",
-                    "categories": [
-                        "old testament",
-                        "beginnings"
-                    ]
-                }
-            ]
+            "names": []
         },
         {
             "letter": "H",
