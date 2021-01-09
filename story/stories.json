@@ -19,6 +19,16 @@
                 "faith"
             ],
             "newcoverposter": "https://raw.githubusercontent.com/gesab001/assets/master/images/threehebrews/sohot.jpg"
+        },
+        {
+            "title": "Noah builds an ark",
+            "otherTitle": "Ark",
+            "description": "God commands Noah to build an ark to save himself and his family and animals because God will destroy the earth by flood.",
+            "categories": [
+                "old testament",
+                "beginnings"
+            ],
+            "newcoverposter": "https://gesab001.github.io/assets/noahbuildsanark/newcoverposter.jpg"
         }
     ],
     "atoz": [
@@ -42,6 +52,16 @@
                         "new testament",
                         "gospel"
                     ]
+                },
+                {
+                    "title": "Noah builds an ark",
+                    "otherTitle": "Ark",
+                    "description": "God commands Noah to build an ark to save himself and his family and animals because God will destroy the earth by flood.",
+                    "categories": [
+                        "old testament",
+                        "beginnings"
+                    ],
+                    "newcoverposter": "https://gesab001.github.io/assets/noahbuildsanark/newcoverposter.jpg"
                 }
             ]
         },
