@@ -159,38 +159,38 @@ def downloadPoster(url, path):
 	 displayImage(path)
 	 updatePoster()
 
-def main():	 	 
-	jsondata = getSlides()
-	slides = jsondata["slides"]
-	try:
-		print(jsondata["poster"])
-	except:
-		url = input("poster url: ")
-		path = "./"+folder+"/poster.jpg"
-		downloadPoster(url, path)
-		
-		
-	for slidenumber in range(0, len(slides)):
-		print(str(slidenumber+1))
-		book = slides[slidenumber]["reference"]["book"]
-		chapter = slides[slidenumber]["reference"]["chapter"]
-		verse = slides[slidenumber]["reference"]["verse"]["start"]
-		verse = verse.replace(".", "")
-		verse = int(verse) + slidenumber
-		verse = str(verse)
-		print(book + " " + chapter + ":" + verse + " " + slides[slidenumber]["text"])
-		print(slides[slidenumber]["image"])
-		subprocess.call("ls " + folder, shell=True)
-		url = input("url: " )
-		if url=="skip":
-		   print("skip")
-		else:
-			filename = input("filename: " )   
-			filename = filename + ".jpg"
-			updateImage(jsondata, slidenumber, filename)
-			downloadImage(url, filename) 	 
-			#closecommand = "xkill -id `xprop -root _NET_ACTIVE_WINDOW | cut -d\# -f2`"
-			#subprocess.call(closecommand, shell=True)
-		    
+	 
+jsondata = getSlides()
+slides = jsondata["slides"]
+try:
+        print(jsondata["poster"])
+except:
+        url = input("poster url: ")
+        path = "./"+folder+"/poster.jpg"
+        downloadPoster(url, path)
+        
+        
+for slidenumber in range(0, len(slides)):
+        print(str(slidenumber+1))
+        book = slides[slidenumber]["reference"]["book"]
+        chapter = slides[slidenumber]["reference"]["chapter"]
+        verse = slides[slidenumber]["reference"]["verse"]["start"]
+        verse = verse.replace(".", "")
+        verse = int(verse) + slidenumber
+        verse = str(verse)
+        print(book + " " + chapter + ":" + verse + " " + slides[slidenumber]["text"])
+        print(slides[slidenumber]["image"])
+        subprocess.call("ls " + folder, shell=True)
+        url = input("url: " )
+        if url=="skip":
+           print("skip")
+        else:
+                filename = input("filename: " )   
+                filename = filename + ".jpg"
+                updateImage(jsondata, slidenumber, filename)
+                downloadImage(url, filename) 	 
+                #closecommand = "xkill -id `xprop -root _NET_ACTIVE_WINDOW | cut -d\# -f2`"
+                #subprocess.call(closecommand, shell=True)
+            
 
-main()
+
