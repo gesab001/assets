@@ -1,0 +1,180 @@
+{
+    "title": "The great flood",
+    "slides": [
+        {
+            "text": "And the LORD said unto Noah, Come thou and all thy house into the ark; for thee have I seen righteous before me in this generation.  Of every clean beast thou shalt take to thee by sevens, the male and his female: and of beasts that [are] not clean by two, the male and his female.  Of fowls also of the air by sevens, the male and the female; to keep seed alive upon the face of all the earth.  For yet seven days, and I will cause it to rain upon the earth forty days and forty nights; and every living substance that I have made will I destroy from off the face of the earth.  ",
+            "reference": {
+                "book": "Genesis",
+                "chapter": "7",
+                "verse": {
+                    "start": "1.",
+                    "end": "4."
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/thegreatflood/enter.jpg"
+        },
+        {
+            "text": "And Noah did according unto all that the LORD commanded him.  And Noah [was] six hundred years old when the flood of waters was upon the earth.  ",
+            "reference": {
+                "book": "Genesis",
+                "chapter": "7",
+                "verse": {
+                    "start": "5.",
+                    "end": "6."
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/thegreatflood/600.jpg"
+        },
+        {
+            "text": "And Noah went in, and his sons, and his wife, and his sons' wives with him, into the ark, because of the waters of the flood.  Of clean beasts, and of beasts that [are] not clean, and of fowls, and of every thing that creepeth upon the earth,  There went in two and two unto Noah into the ark, the male and the female, as God had commanded Noah.  ",
+            "reference": {
+                "book": "Genesis",
+                "chapter": "7",
+                "verse": {
+                    "start": "7.",
+                    "end": "9."
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/thegreatflood/intotheark.jpg"
+        },
+        {
+            "text": "And it came to pass after seven days, that the waters of the flood were upon the earth.  In the six hundredth year of Noah's life, in the second month, the seventeenth day of the month, the same day were all the fountains of the great deep broken up, and the windows of heaven were opened.  And the rain was upon the earth forty days and forty nights.  ",
+            "reference": {
+                "book": "Genesis",
+                "chapter": "7",
+                "verse": {
+                    "start": "10",
+                    "end": "12"
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/thegreatflood/rain.jpg"
+        },
+        {
+            "text": "In the selfsame day entered Noah, and Shem, and Ham, and Japheth, the sons of Noah, and Noah's wife, and the three wives of his sons with them, into the ark;  They, and every beast after his kind, and all the cattle after their kind, and every creeping thing that creepeth upon the earth after his kind, and every fowl after his kind, every bird of every sort.  And they went in unto Noah into the ark, two and two of all flesh, wherein [is] the breath of life.  ",
+            "reference": {
+                "book": "Genesis",
+                "chapter": "7",
+                "verse": {
+                    "start": "13",
+                    "end": "15"
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/thegreatflood/insidetheark.jpg"
+        },
+        {
+            "text": "And they that went in, went in male and female of all flesh, as God had commanded him: and the LORD shut him in.  ",
+            "reference": {
+                "book": "Genesis",
+                "chapter": "7",
+                "verse": {
+                    "start": "16",
+                    "end": "16"
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/thegreatflood/shutin.jpg"
+        },
+        {
+            "text": "And the flood was forty days upon the earth; and the waters increased, and bare up the ark, and it was lift up above the earth.  And the waters prevailed, and were increased greatly upon the earth; and the ark went upon the face of the waters.  ",
+            "reference": {
+                "book": "Genesis",
+                "chapter": "7",
+                "verse": {
+                    "start": "17",
+                    "end": "18"
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/thegreatflood/watercoverearth.jpg"
+        },
+        {
+            "text": "And the waters prevailed exceedingly upon the earth; and all the high hills, that [were] under the whole heaven, were covered.  Fifteen cubits upward did the waters prevail; and the mountains were covered.  ",
+            "reference": {
+                "book": "Genesis",
+                "chapter": "7",
+                "verse": {
+                    "start": "19",
+                    "end": "20"
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/thegreatflood/mountainsunderwaterraw.jpg"
+        },
+        {
+            "text": "And all flesh died that moved upon the earth, both of fowl, and of cattle, and of beast, and of every creeping thing that creepeth upon the earth, and every man:  All in whose nostrils [was] the breath of life, of all that [was] in the dry [land,] died.  And every living substance was destroyed which was upon the face of the ground, both man, and cattle, and the creeping things, and the fowl of the heaven; and they were destroyed from the earth: and Noah only remained [alive,] and they that [were] with him in the ark.  ",
+            "reference": {
+                "book": "Genesis",
+                "chapter": "7",
+                "verse": {
+                    "start": "21",
+                    "end": "23"
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/thegreatflood/alldied.jpg"
+        },
+        {
+            "text": "And the waters prevailed upon the earth an hundred and fifty days.  ",
+            "reference": {
+                "book": "Genesis",
+                "chapter": "7",
+                "verse": {
+                    "start": "24",
+                    "end": "24"
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/thegreatflood/150days.jpg"
+        }
+    ],
+    "questions": [
+        {
+            "question": "How many from every clean beast were allowed in the ark?",
+            "answer": "by sevens",
+            "choices": [
+                "by sevens",
+                "by twos",
+                "by threes",
+                "by fours"
+            ]
+        },
+        {
+            "question": "How many unclean beasts were allowed into the ark?",
+            "answer": "by twos, a male and a female",
+            "choices": [
+                "by twos, a male and a female",
+                "by twos, two males",
+                "by tows, two females",
+                "by fours, two males and two females"
+            ]
+        },
+        {
+            "question": "How old was Noah when he entered the ark?",
+            "answer": "600 years old",
+            "choices": [
+                "600 years old",
+                "500 years old",
+                "900 years old",
+                "100 years old"
+            ]
+        },
+        {
+            "question": "How many days and nights did it rain on the earth?",
+            "answer": "40 days and forty nights",
+            "choices": [
+                "40 days and forty nights",
+                "30 days and 30 nights",
+                "20 days and 20 nights",
+                "150 days and 150 nights"
+            ]
+        },
+        {
+            "question": "How many people and animals died in the flood except in the ark?",
+            "answer": "All died.",
+            "choices": [
+                "Most of them died.",
+                "Most of them died.",
+                "Some of them died.",
+                "one person survived."
+            ]
+        }
+    ],
+    "activities": [],
+    "references": [],
+    "poster": "https://gesab001.github.io/assets/images/thegreatflood/poster.jpg"
+}
