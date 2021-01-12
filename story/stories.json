@@ -39,6 +39,16 @@
                 "beginnings"
             ],
             "newcoverposter": "https://raw.githubusercontent.com/gesab001/assets/master/images/thegreatflood/alldied.jpg"
+        },
+        {
+            "title": "Mount ararat",
+            "otherTitle": "Ararat",
+            "description": "After floating on the water for 150 days, Noah's ark rested on the mountains of Ararat. Noah and his family and all the animals disembarked to live on the cleansed earth as the only survivors of the flood.",
+            "categories": [
+                "old testament",
+                "beginnings"
+            ],
+            "newcoverposter": "https://gesab001.github.io/assets/mountararat/newcoverposter.jpg"
         }
     ],
     "atoz": [
@@ -72,6 +82,16 @@
                         "beginnings"
                     ],
                     "newcoverposter": "https://gesab001.github.io/assets/noahbuildsanark/newcoverposter.jpg"
+                },
+                {
+                    "title": "Mount ararat",
+                    "otherTitle": "Ararat",
+                    "description": "After floating on the water for 150 days, Noah's ark rested on the mountains of Ararat. Noah and his family and all the animals disembarked to live on the cleansed earth as the only survivors of the flood.",
+                    "categories": [
+                        "old testament",
+                        "beginnings"
+                    ],
+                    "newcoverposter": "https://gesab001.github.io/assets/mountararat/newcoverposter.jpg"
                 }
             ]
         },
