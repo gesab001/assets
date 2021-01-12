@@ -1,9 +1,47 @@
 import json
 import subprocess
+from tkinter import *
+from tkinter import messagebox
+
 f = open("stories.json")
 jsondata = json.load(f)
 f.close()
 alphabets = "abcdefghijklmnopqrstuvwxyz"
+
+top = Tk()
+L1 = Label(top, text = "story title")
+L1.pack( side = TOP)
+E1 = Entry(top, bd = 5)
+E1.pack(side = TOP)
+
+L2 = Label(top, text = "alternative title")
+L2.pack( side = TOP)
+E2 = Entry(top, bd = 5)
+E2.pack(side = TOP)
+
+L3 = Label(top, text = "description")
+L3.pack( side = TOP)
+E3 = Entry(top, bd = 5)
+E3.pack(side = TOP)
+
+L4 = Label(top, text = "categories")
+L4.pack( side = TOP)
+E4 = Entry(top, bd = 5)
+E4.pack(side = TOP)
+
+L5 = Label(top, text = "book")
+L5.pack( side = TOP)
+E5 = Entry(top, bd = 5)
+E5.pack(side = TOP)
+
+L6 = Label(top, text = "chapter")
+L6.pack( side = TOP)
+E6 = Entry(top, bd = 5)
+E6.pack(side = TOP)
+
+
+
+
 
 
 def updateIndexHtml(message):
@@ -101,6 +139,31 @@ def clearDatabase():
     json.dump(jsondata, outfile)
 
 #clearDatabase()
+
+def submit():
+   #msg = messagebox.showinfo( "Hello Python", E1.get())
+   title = E1.get()
+   otherTitle = E2.get()
+   description = E3.get()
+   categories = E4.get()
+   categorieslist = categories.split(",")
+   book = E5.get()
+   chapter = E6.get()
+   bibletext = title.lower().replace(" ", "") 
+   imagefolder = title.lower().replace(" ", "")
+   bibletext = bibletext + ".txt"
+   slides = createSlides(bibletext, imagefolder, book, chapter)
+   letter = otherTitle[0:1].upper()
+   folder = title.replace(" ", "").lower()
+   titleJson = {"title": title.capitalize(), "otherTitle": otherTitle.capitalize(), "description": description, "categories": categorieslist, "newcoverposter": "https://gesab001.github.io/assets/"+folder+"/newcoverposter.jpg"}
+   questions = createQuestions() 
+   addStory(titleJson, letter, slides, questions)
+   updateIndexHtml("added a new story - " + title) 
+
+B = Button(top, text = "Submit", command = submit)
+B.pack(side = TOP)
+
+top.mainloop()
 
 
 while True:
