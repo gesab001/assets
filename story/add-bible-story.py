@@ -163,7 +163,7 @@ def submit():
 B = Button(top, text = "Submit", command = submit)
 B.pack(side = TOP)
 
-top.mainloop()
+#top.mainloop()
 
 
 while True:

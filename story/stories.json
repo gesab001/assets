@@ -49,6 +49,16 @@
                 "beginnings"
             ],
             "newcoverposter": "https://raw.githubusercontent.com/gesab001/assets/master/images/mountararat/altar.jpg"
+        },
+        {
+            "title": "Rainbow",
+            "otherTitle": "Rainbow",
+            "description": "God sets a rainbow as a promise to the world that He will not destroy the earth by flood again.",
+            "categories": [
+                "old testament",
+                "beginnings"
+            ],
+            "newcoverposter": "https://raw.githubusercontent.com/gesab001/assets/master/images/rainbow/rainbow.jpg"
         }
     ],
     "atoz": [
@@ -577,6 +587,16 @@
                         "old testament",
                         "miracles"
                     ]
+                },
+                {
+                    "title": "Rainbow",
+                    "otherTitle": "Rainbow",
+                    "description": "God sets a rainbow as a promise to the world that He will not destroy the earth by flood again.",
+                    "categories": [
+                        "old testament",
+                        "beginnings"
+                    ],
+                    "newcoverposter": "https://gesab001.github.io/assets/rainbow/newcoverposter.jpg"
                 }
             ]
         },
