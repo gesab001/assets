@@ -1,0 +1,179 @@
+{
+    "title": "Garden of eden",
+    "slides": [
+        {
+            "text": "And the LORD God formed man [of] the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul.  ",
+            "reference": {
+                "book": "Genesis",
+                "chapter": "2",
+                "verse": {
+                    "start": "7.",
+                    "end": "7."
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/gardenofeden.txt"
+        },
+        {
+            "text": "And the LORD God planted a garden eastward in Eden; and there he put the man whom he had formed.  And out of the ground made the LORD God to grow every tree that is pleasant to the sight, and good for food; the tree of life also in the midst of the garden, and the tree of knowledge of good and evil.  ",
+            "reference": {
+                "book": "Genesis",
+                "chapter": "2",
+                "verse": {
+                    "start": "8.",
+                    "end": "9."
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/gardenofeden.txt"
+        },
+        {
+            "text": "And a river went out of Eden to water the garden; and from thence it was parted, and became into four heads.  The name of the first [is] Pison: that [is] it which compasseth the whole land of Havilah, where [there is] gold;  And the gold of that land [is] good: there [is] bdellium and the onyx stone.  And the name of the second river [is] Gihon: the same [is] it that compasseth the whole land of Ethiopia.  And the name of the third river [is] Hiddekel: that [is] it which goeth toward the east of Assyria. And the fourth river [is] Euphrates.  ",
+            "reference": {
+                "book": "Genesis",
+                "chapter": "2",
+                "verse": {
+                    "start": "10",
+                    "end": "14"
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/gardenofeden.txt"
+        },
+        {
+            "text": "And the LORD God took the man, and put him into the garden of Eden to dress it and to keep it.  ",
+            "reference": {
+                "book": "Genesis",
+                "chapter": "2",
+                "verse": {
+                    "start": "15",
+                    "end": "15"
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/gardenofeden.txt"
+        },
+        {
+            "text": "And the LORD God commanded the man, saying, Of every tree of the garden thou mayest freely eat:  But of the tree of the knowledge of good and evil, thou shalt not eat of it: for in the day that thou eatest thereof thou shalt surely die.  ",
+            "reference": {
+                "book": "Genesis",
+                "chapter": "2",
+                "verse": {
+                    "start": "16",
+                    "end": "17"
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/gardenofeden.txt"
+        },
+        {
+            "text": "And the LORD God said, [It is] not good that the man should be alone; I will make him an help meet for him.  ",
+            "reference": {
+                "book": "Genesis",
+                "chapter": "2",
+                "verse": {
+                    "start": "18",
+                    "end": "18"
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/gardenofeden.txt"
+        },
+        {
+            "text": "And out of the ground the LORD God formed every beast of the field, and every fowl of the air; and brought [them] unto Adam to see what he would call them: and whatsoever Adam called every living creature, that [was] the name thereof.  And Adam gave names to all cattle, and to the fowl of the air, and to every beast of the field; but for Adam there was not found an help meet for him.  ",
+            "reference": {
+                "book": "Genesis",
+                "chapter": "2",
+                "verse": {
+                    "start": "19",
+                    "end": "20"
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/gardenofeden.txt"
+        },
+        {
+            "text": "And the LORD God caused a deep sleep to fall upon Adam and he slept: and he took one of his ribs, and closed up the flesh instead thereof;  And the rib, which the LORD God had taken from man, made he a woman, and brought her unto the man.  ",
+            "reference": {
+                "book": "Genesis",
+                "chapter": "2",
+                "verse": {
+                    "start": "21",
+                    "end": "22"
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/gardenofeden.txt"
+        },
+        {
+            "text": "And Adam said, This [is] now bone of my bones, and flesh of my flesh: she shall be called Woman, because she was taken out of Man.  Therefore shall a man leave his father and his mother, and shall cleave unto his wife: and they shall be one flesh.  ",
+            "reference": {
+                "book": "Genesis",
+                "chapter": "2",
+                "verse": {
+                    "start": "23",
+                    "end": "24"
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/gardenofeden.txt"
+        },
+        {
+            "text": "And they were both naked, the man and his wife, and were not ashamed.  ",
+            "reference": {
+                "book": "Genesis",
+                "chapter": "2",
+                "verse": {
+                    "start": "25",
+                    "end": "25"
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/gardenofeden.txt"
+        }
+    ],
+    "questions": [
+        {
+            "question": "What did God plant in Eden?",
+            "answer": "a garden",
+            "choices": [
+                "a garden",
+                "a house",
+                "a building",
+                "a temple"
+            ]
+        },
+        {
+            "question": "What did God take from Adam to make a woman?",
+            "answer": "a rib",
+            "choices": [
+                "a rib",
+                "a skull",
+                "a hip",
+                "a heel"
+            ]
+        },
+        {
+            "question": "What tree were Adam and Eve not allowed to eat from?",
+            "answer": "the tree of the knowledge of good and evil",
+            "choices": [
+                "the tree of the knowledge of good and evil",
+                "the tree of life",
+                "the tree of knowledge",
+                "the tree of evil"
+            ]
+        },
+        {
+            "question": "Who gave names to the animals and birds?",
+            "answer": "Adam",
+            "choices": [
+                "Adam",
+                "Eve",
+                "God",
+                "Noah"
+            ]
+        },
+        {
+            "question": "What will happen to Adam and Eve if they eat from the tree of knowledge of good and evil?",
+            "answer": "they will die",
+            "choices": [
+                "they will die",
+                "they will live",
+                "they will be happy",
+                "they will feel good"
+            ]
+        }
+    ],
+    "activities": [],
+    "references": []
+}

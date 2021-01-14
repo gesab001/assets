@@ -59,6 +59,16 @@
                 "beginnings"
             ],
             "newcoverposter": "https://raw.githubusercontent.com/gesab001/assets/master/images/rainbow/rainbow.jpg"
+        },
+        {
+            "title": "Garden of eden",
+            "otherTitle": "Eden",
+            "description": "God planted a garden in Eden and put Adam and Eve to look after it.",
+            "categories": [
+                "old testament",
+                "beginnings"
+            ],
+            "newcoverposter": "https://gesab001.github.io/assets/gardenofeden/newcoverposter.jpg"
         }
     ],
     "atoz": [
@@ -284,6 +294,16 @@
                         "new testament",
                         "prophecy"
                     ]
+                },
+                {
+                    "title": "Garden of eden",
+                    "otherTitle": "Eden",
+                    "description": "God planted a garden in Eden and put Adam and Eve to look after it.",
+                    "categories": [
+                        "old testament",
+                        "beginnings"
+                    ],
+                    "newcoverposter": "https://gesab001.github.io/assets/gardenofeden/newcoverposter.jpg"
                 }
             ]
         },
