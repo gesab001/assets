@@ -337,6 +337,7 @@ def clearDatabase():
 while True:
    title = input("story title: " )
    otherTitle = input("alternative story title: " )
+   videourl = otherTitle + ".mp4"
    description = input("description: ")
    categories = input("categories: (split by comma)")
    categorieslist = categories.split(",")
@@ -348,7 +349,7 @@ while True:
    slides = createSlides(bibletext, imagefolder, book, chapter)
    letter = otherTitle[0:1].upper()
    folder = title.replace(" ", "").lower()
-   titleJson = {"title": title.capitalize(), "otherTitle": otherTitle.capitalize(), "description": description, "categories": categorieslist, "newcoverposter": "https://gesab001.github.io/assets/"+folder+"/newcoverposter.jpg"}
+   titleJson = {"title": title.capitalize(), "otherTitle": otherTitle.capitalize(), "video": videourl, "description": description, "categories": categorieslist, "newcoverposter": "https://gesab001.github.io/assets/"+folder+"/newcoverposter.jpg"}
    questions = createQuestions() 
    addStory(titleJson, letter, slides, questions)
    updateIndexHtml("added a new story - " + title) 
