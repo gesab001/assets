@@ -69,6 +69,16 @@
                 "beginnings"
             ],
             "newcoverposter": "https://raw.githubusercontent.com/gesab001/assets/master/images/gardenofeden/eve.jpg"
+        },
+        {
+            "title": "Sodom",
+            "otherTitle": "Sodom",
+            "description": "God destroys the city of Sodom because of their wickedness.  He sends two angels to save Lot and his family from the destruction.  Only him and his two daughters survived. His wife turns into a pillar of salt.",
+            "categories": [
+                "old testament",
+                "justice"
+            ],
+            "newcoverposter": "https://raw.githubusercontent.com/gesab001/assets/master/images/sodom/pillarofsalt.jpg"
         }
     ],
     "atoz": [
@@ -668,6 +678,16 @@
                         "faith"
                     ],
                     "newcoverposter": "https://gesab001.github.io/assets/threehebrews/newcoverposter.jpg"
+                },
+                {
+                    "title": "Sodom",
+                    "otherTitle": "Sodom",
+                    "description": "God destroys the city of Sodom because of their wickedness.  He sends two angels to save Lot and his family from the destruction.  Only him and his two daughters survived. His wife turns into a pillar of salt.",
+                    "categories": [
+                        "old testament",
+                        "justice"
+                    ],
+                    "newcoverposter": "https://gesab001.github.io/assets/sodom/newcoverposter.jpg"
                 }
             ]
         },
