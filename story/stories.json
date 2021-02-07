@@ -79,6 +79,16 @@
                 "justice"
             ],
             "newcoverposter": "https://raw.githubusercontent.com/gesab001/assets/master/images/sodom/pillarofsalt.jpg"
+        },
+        {
+            "title": "Anointed",
+            "otherTitle": "Anointed",
+            "video": "Anointed.mp4",
+            "description": "After God rejected Saul as king of Israel, He commanded Samuel to a anoint David, the son of Jesse as Saul's replacement.",
+            "categories": [
+                "old testament"
+            ],
+            "newcoverposter": "https://raw.githubusercontent.com/gesab001/assets/master/images/anointed/davidanointed.jpg"
         }
     ],
     "atoz": [
@@ -122,6 +132,16 @@
                         "beginnings"
                     ],
                     "newcoverposter": "https://gesab001.github.io/assets/mountararat/newcoverposter.jpg"
+                },
+                {
+                    "title": "Anointed",
+                    "otherTitle": "Anointed",
+                    "video": "Anointed.mp4",
+                    "description": "After God rejected Saul as king of Israel, He commanded Samuel to a anoint David, the son of Jesse as Saul's replacement.",
+                    "categories": [
+                        "old testament"
+                    ],
+                    "newcoverposter": "https://gesab001.github.io/assets/anointed/newcoverposter.jpg"
                 }
             ]
         },
