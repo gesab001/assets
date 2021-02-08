@@ -89,6 +89,17 @@
                 "old testament"
             ],
             "newcoverposter": "https://raw.githubusercontent.com/gesab001/assets/master/images/anointed/davidanointed.jpg"
+        },
+        {
+            "title": "Goliath",
+            "otherTitle": "Goliath",
+            "video": "Goliath.mp4",
+            "description": "David, the newly anointed king of Israel is brought face to face withe giant Goliath of the Philistines, a showdown between the God of Israel and the god of the Philistines.",
+            "categories": [
+                "old testament",
+                "david"
+            ],
+            "newcoverposter": "https://raw.githubusercontent.com/gesab001/assets/master/images/goliath/goliathkilled.jpg"
         }
     ],
     "atoz": [
@@ -372,7 +383,19 @@
         },
         {
             "letter": "G",
-            "names": []
+            "names": [
+                {
+                    "title": "Goliath",
+                    "otherTitle": "Goliath",
+                    "video": "Goliath.mp4",
+                    "description": "David, the newly anointed king of Israel is brought face to face withe giant Goliath of the Philistines, a showdown between the God of Israel and the god of the Philistines.",
+                    "categories": [
+                        "old testament",
+                        "david"
+                    ],
+                    "newcoverposter": "https://gesab001.github.io/assets/goliath/newcoverposter.jpg"
+                }
+            ]
         },
         {
             "letter": "H",
