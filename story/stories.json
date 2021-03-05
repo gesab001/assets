@@ -100,6 +100,18 @@
                 "david"
             ],
             "newcoverposter": "https://raw.githubusercontent.com/gesab001/assets/master/images/goliath/goliathkilled.jpg"
+        },
+        {
+            "title": "Ehud",
+            "otherTitle": "Ehud",
+            "video": "ehud.mp4",
+            "description": "God raised up Ehud in answer to Israel's prayer for deliverance. He gave Eglon king of Moab a very surpising present that led to his downfall.",
+            "categories": [
+                "ehud",
+                "old testament",
+                "judges"
+            ],
+            "newcoverposter": "https://gesab001.github.io/assets/ehud/newcoverposter.jpg"
         }
     ],
     "atoz": [
@@ -345,6 +357,18 @@
                         "beginnings"
                     ],
                     "newcoverposter": "https://gesab001.github.io/assets/gardenofeden/newcoverposter.jpg"
+                },
+                {
+                    "title": "Ehud",
+                    "otherTitle": "Ehud",
+                    "video": "ehud.mp4",
+                    "description": "God raised up Ehud in answer to Israel's prayer for deliverance. He gave Eglon king of Moab a very surpising present that led to his downfall.",
+                    "categories": [
+                        "ehud",
+                        "old testament",
+                        "judges"
+                    ],
+                    "newcoverposter": "https://gesab001.github.io/assets/ehud/newcoverposter.jpg"
                 }
             ]
         },
