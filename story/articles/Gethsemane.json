@@ -1,0 +1,180 @@
+{
+    "title": "Gethsemane",
+    "slides": [
+        {
+            "text": "Then cometh Jesus with them unto a place called Gethsemane, and saith unto the disciples, Sit ye here, while I go and pray yonder.  ",
+            "reference": {
+                "book": "Matthew",
+                "chapter": "26",
+                "verse": {
+                    "start": "36",
+                    "end": "36"
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/gethsemane/sit.jpg"
+        },
+        {
+            "text": "And he took with him Peter and the two sons of Zebedee, and began to be sorrowful and very heavy.  Then saith he unto them, My soul is exceeding sorrowful, even unto death: tarry ye here, and watch with me.  ",
+            "reference": {
+                "book": "Matthew",
+                "chapter": "26",
+                "verse": {
+                    "start": "37",
+                    "end": "38"
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/gethsemane/peterzebedee.jpg"
+        },
+        {
+            "text": "And he went a little farther, and fell on his face, and prayed, saying, O my Father, if it be possible, let this cup pass from me: nevertheless not as I will, but as thou   ]  And he cometh unto the disciples, and findeth them asleep, and saith unto Peter, What, could ye not watch with me one hour?  Watch and pray, that ye enter not into temptation: the spirit indeed [is] willing, but the flesh [is] weak.  ",
+            "reference": {
+                "book": "Matthew",
+                "chapter": "26",
+                "verse": {
+                    "start": "39",
+                    "end": "41"
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/gethsemane/jesuspraying.jpg"
+        },
+        {
+            "text": "He went away again the second time, and prayed, saying, O my Father, if this cup may not pass away from me, except I drink it, thy will be done.  And he came and found them asleep again: for their eyes were heavy.  ",
+            "reference": {
+                "book": "Matthew",
+                "chapter": "26",
+                "verse": {
+                    "start": "42",
+                    "end": "43"
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/gethsemane/sleeping.jpg"
+        },
+        {
+            "text": "And he left them, and went away again, and prayed the third time, saying the same words.  Then cometh he to his disciples, and saith unto them, Sleep on now, and take [your] rest: behold, the hour is at hand, and the Son of man is betrayed into the hands of sinners.  Rise, let us be going: behold, he is at hand that doth betray me.  ",
+            "reference": {
+                "book": "Matthew",
+                "chapter": "26",
+                "verse": {
+                    "start": "44",
+                    "end": "46"
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/gethsemane/jesuswakes.jpg"
+        },
+        {
+            "text": "And while he yet spake, lo, Judas, one of the twelve, came, and with him a great multitude with swords and staves, from the chief priests and elders of the people.  ",
+            "reference": {
+                "book": "Matthew",
+                "chapter": "26",
+                "verse": {
+                    "start": "47",
+                    "end": "47"
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/gethsemane/swordsstaves.jpg"
+        },
+        {
+            "text": "Now he that betrayed him gave them a sign, saying, Whomsoever I shall kiss, that same is he: hold him fast.  And forthwith he came to Jesus, and said, Hail, master; and kissed him.  And Jesus said unto him, Friend, wherefore art thou come? Then came they, and laid hands on Jesus, and took him.  ",
+            "reference": {
+                "book": "Matthew",
+                "chapter": "26",
+                "verse": {
+                    "start": "48",
+                    "end": "50"
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/gethsemane/kiss.jpg"
+        },
+        {
+            "text": "And, behold, one of them which were with Jesus stretched out [his] hand, and drew his sword, and struck a servant of the high priest's, and smote off his ear.  ",
+            "reference": {
+                "book": "Matthew",
+                "chapter": "26",
+                "verse": {
+                    "start": "51",
+                    "end": "51"
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/gethsemane/ear.jpg"
+        },
+        {
+            "text": "Then said Jesus unto him, Put up again thy sword into his place: for all they that take the sword shall perish with the sword.  Thinkest thou that I cannot now pray to my Father, and he shall presently give me more than twelve legions of angels?  But how then shall the scriptures be fulfilled, that thus it must be?  ",
+            "reference": {
+                "book": "Matthew",
+                "chapter": "26",
+                "verse": {
+                    "start": "52",
+                    "end": "54"
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/gethsemane/swordputaway.jpg"
+        },
+        {
+            "text": "In that same hour said Jesus to the multitudes, Are ye come out as against a thief with swords and staves for to take me? I sat daily with you teaching in the temple, and ye laid no hold on me.  But all this was done, that the scriptures of the prophets might be fulfilled. Then all the disciples forsook him, and fled.   ",
+            "reference": {
+                "book": "Matthew",
+                "chapter": "26",
+                "verse": {
+                    "start": "55",
+                    "end": "56"
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/gethsemane/fulfilled.jpg"
+        }
+    ],
+    "questions": [
+        {
+            "question": "What is the name of the place where Jesus went to pray?",
+            "answer": "Gethsemane",
+            "choices": [
+                "Gethsemane",
+                "Olives",
+                "Moriah",
+                "Bethany"
+            ]
+        },
+        {
+            "question": "What was Peter and two other disciples doing while Jesus was praying?",
+            "answer": "sleeping",
+            "choices": [
+                "sleeping",
+                "eating",
+                "playing",
+                "talking"
+            ]
+        },
+        {
+            "question": "How many times did Jesus pray?",
+            "answer": "3 times",
+            "choices": [
+                "3 times",
+                "2 times",
+                "1 time",
+                "4 times"
+            ]
+        },
+        {
+            "question": "Who betrayed Jesus?",
+            "answer": "Judas",
+            "choices": [
+                "Judas",
+                "Peter",
+                "John",
+                "Andrew"
+            ]
+        },
+        {
+            "question": "What did one of Jesus disciples do to a servant of the high priest who came to arrest Jesus?",
+            "answer": "cut off his ear",
+            "choices": [
+                "cut off his ear",
+                "cut off his head",
+                "cut off his legs",
+                "cut off his hands"
+            ]
+        }
+    ],
+    "activities": [],
+    "references": [],
+    "poster": "https://gesab001.github.io/assets/images/gethsemane/poster.jpg"
+}

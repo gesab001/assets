@@ -112,6 +112,18 @@
                 "judges"
             ],
             "newcoverposter": "https://raw.githubusercontent.com/gesab001/assets/master/images/ehud/dagger.jpg"
+        },
+        {
+            "title": "Gethsemane",
+            "otherTitle": "Gethsemane",
+            "video": "Gethsemane.mp4",
+            "description": "Jesus goes to Gethsemane to pray accompanied by his disciples.  He asked his disciples to watch and pray but found them sleeping. Judas, one of his disciples betrayed Him with a kiss which led to Jesus' arrest to be tried and crucified.",
+            "categories": [
+                "new testament",
+                "gospel",
+                "jesus"
+            ],
+            "newcoverposter": "https://raw.githubusercontent.com/gesab001/assets/master/images/gethsemane/fulfilled.jpg"
         }
     ],
     "atoz": [
@@ -418,6 +430,18 @@
                         "david"
                     ],
                     "newcoverposter": "https://gesab001.github.io/assets/goliath/newcoverposter.jpg"
+                },
+                {
+                    "title": "Gethsemane",
+                    "otherTitle": "Gethsemane",
+                    "video": "Gethsemane.mp4",
+                    "description": "Jesus goes to Gethsemane to pray accompanied by his disciples.  He asked his disciples to watch and pray but found them sleeping. Judas, one of his disciples betrayed Him with a kiss which led to Jesus' arrest to be tried and crucified.",
+                    "categories": [
+                        "new testament",
+                        "gospel",
+                        "jesus"
+                    ],
+                    "newcoverposter": "https://gesab001.github.io/assets/gethsemane/newcoverposter.jpg"
                 }
             ]
         },
