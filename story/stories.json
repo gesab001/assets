@@ -124,6 +124,19 @@
                 "jesus"
             ],
             "newcoverposter": "https://raw.githubusercontent.com/gesab001/assets/master/images/gethsemane/fulfilled.jpg"
+        },
+        {
+            "title": "Jericho",
+            "otherTitle": "Jericho",
+            "video": "Jericho.mp4",
+            "description": "Joshua leads the army of Israel to conquer the city of Jericho. As God had commanded, they marched around the city a number of times and finished it with a loud shout with their trumpets and the walls of Jericho fell down.  Everyone were destroyed except Rahab and her family.",
+            "categories": [
+                "old testament",
+                "joshua",
+                "rahab",
+                "jericho"
+            ],
+            "newcoverposter": "https://raw.githubusercontent.com/gesab001/assets/master/images/jericho/fell.jpg"
         }
     ],
     "atoz": [
@@ -474,7 +487,21 @@
         },
         {
             "letter": "J",
-            "names": []
+            "names": [
+                {
+                    "title": "Jericho",
+                    "otherTitle": "Jericho",
+                    "video": "Jericho.mp4",
+                    "description": "Joshua leads the army of Israel to conquer the city of Jericho. As God had commanded, they marched around the city a number of times and finished it with a loud shout with their trumpets and the walls of Jericho fell down.  Everyone were destroyed except Rahab and her family.",
+                    "categories": [
+                        "old testament",
+                        "joshua",
+                        "rahab",
+                        "jericho"
+                    ],
+                    "newcoverposter": "https://gesab001.github.io/assets/jericho/newcoverposter.jpg"
+                }
+            ]
         },
         {
             "letter": "K",
