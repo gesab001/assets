@@ -83,995 +83,216 @@
                 ]
             },
             {
-                "question": "1 + 1",
-                "answer": 2,
+                "question": "Thousands of tiny _______ grow all over your body, to help you stay warm",
+                "answer": "hairs",
                 "choices": [
-                    2,
-                    0,
-                    1,
-                    3
+                    "hairs",
+                    "skin",
+                    "bones",
+                    "teeth"
                 ]
             },
             {
-                "question": "2 + 1",
-                "answer": 3,
+                "question": "_______ keep dust from your eyes",
+                "answer": "Eyelashes",
                 "choices": [
-                    3,
-                    1,
-                    2,
-                    4
+                    "Eyelashes",
+                    "Eyelids",
+                    "Eyebrows",
+                    "Retina"
                 ]
             },
             {
-                "question": "3 + 1",
-                "answer": 4,
+                "question": "Your eyes can recognize _______ different shades",
+                "answer": "10 million",
                 "choices": [
-                    4,
-                    2,
-                    3,
-                    5
+                    "10",
+                    "100 thousand",
+                    "10 billion",
+                    "10 million"
                 ]
-            },
-            {
-                "question": "4 + 1",
-                "answer": 5,
-                "choices": [
-                    5,
-                    3,
-                    4,
-                    6
-                ]
-            },
-            {
-                "question": "5 + 1",
-                "answer": 6,
-                "choices": [
-                    6,
-                    4,
-                    5,
-                    7
-                ]
-            },
-            {
-                "question": "6 + 1",
-                "answer": 7,
-                "choices": [
-                    7,
-                    5,
-                    6,
-                    8
-                ]
-            },
-            {
-                "question": "7 + 1",
-                "answer": 8,
-                "choices": [
-                    8,
-                    6,
-                    7,
-                    9
-                ]
-            },
-            {
-                "question": "8 + 1",
-                "answer": 9,
-                "choices": [
-                    9,
-                    7,
-                    8,
-                    10
-                ]
-            },
-            {
-                "question": "9 + 1",
-                "answer": 10,
-                "choices": [
-                    10,
-                    8,
-                    9,
-                    11
-                ]
-            },
-            {
-                "question": "10 + 1",
-                "answer": 11,
-                "choices": [
-                    11,
-                    9,
-                    10,
-                    12
-                ]
-            },
-            {
-                "question": "11 + 1",
-                "answer": 12,
-                "choices": [
-                    12,
-                    10,
-                    11,
-                    13
-                ]
-            },
-            {
-                "question": "12 + 1",
-                "answer": 13,
-                "choices": [
-                    13,
-                    11,
-                    12,
-                    14
-                ]
-            },
-            {
-                "question": "13 + 1",
-                "answer": 14,
-                "choices": [
-                    14,
-                    12,
-                    13,
-                    15
-                ]
-            },
-            {
-                "question": "14 + 1",
-                "answer": 15,
-                "choices": [
-                    15,
-                    13,
-                    14,
-                    16
-                ]
-            },
-            {
-                "question": "15 + 1",
-                "answer": 16,
-                "choices": [
-                    16,
-                    14,
-                    15,
-                    17
-                ]
-            },
-            {
-                "question": "16 + 1",
-                "answer": 17,
-                "choices": [
-                    17,
-                    15,
-                    16,
-                    18
-                ]
-            },
-            {
-                "question": "17 + 1",
-                "answer": 18,
-                "choices": [
-                    18,
-                    16,
-                    17,
-                    19
-                ]
-            },
-            {
-                "question": "18 + 1",
-                "answer": 19,
-                "choices": [
-                    19,
-                    17,
-                    18,
-                    20
-                ]
-            },
-            {
-                "question": "19 + 1",
-                "answer": 20,
-                "choices": [
-                    20,
-                    18,
-                    19,
-                    21
-                ]
-            },
-            {
-                "question": "20 + 1",
-                "answer": 21,
-                "choices": [
-                    21,
-                    19,
-                    20,
-                    22
-                ]
-            },
-            {
-                "question": "21 + 1",
-                "answer": 22,
-                "choices": [
-                    22,
-                    20,
-                    21,
-                    23
-                ]
-            },
-            {
-                "question": "22 + 1",
-                "answer": 23,
-                "choices": [
-                    23,
-                    21,
-                    22,
-                    24
-                ]
-            },
-            {
-                "question": "23 + 1",
-                "answer": 24,
-                "choices": [
-                    24,
-                    22,
-                    23,
-                    25
-                ]
-            },
-            {
-                "question": "24 + 1",
-                "answer": 25,
-                "choices": [
-                    25,
-                    23,
-                    24,
-                    26
-                ]
-            },
-            {
-                "question": "25 + 1",
-                "answer": 26,
-                "choices": [
-                    26,
-                    24,
-                    25,
-                    27
-                ]
-            },
-            {
-                "question": "26 + 1",
-                "answer": 27,
-                "choices": [
-                    27,
-                    25,
-                    26,
-                    28
-                ]
-            },
-            {
-                "question": "27 + 1",
-                "answer": 28,
-                "choices": [
-                    28,
-                    26,
-                    27,
-                    29
-                ]
-            },
-            {
-                "question": "28 + 1",
-                "answer": 29,
-                "choices": [
-                    29,
-                    27,
-                    28,
-                    30
-                ]
-            },
-            {
-                "question": "29 + 1",
-                "answer": 30,
-                "choices": [
-                    30,
-                    28,
-                    29,
-                    31
-                ]
-            },
-            {
-                "question": "30 + 1",
-                "answer": 31,
-                "choices": [
-                    31,
-                    29,
-                    30,
-                    32
-                ]
-            },
-            {
-                "question": "31 + 1",
-                "answer": 32,
-                "choices": [
-                    32,
-                    30,
-                    31,
-                    33
-                ]
-            },
-            {
-                "question": "32 + 1",
-                "answer": 33,
-                "choices": [
-                    33,
-                    31,
-                    32,
-                    34
-                ]
-            },
-            {
-                "question": "33 + 1",
-                "answer": 34,
-                "choices": [
-                    34,
-                    32,
-                    33,
-                    35
-                ]
-            },
-            {
-                "question": "34 + 1",
-                "answer": 35,
-                "choices": [
-                    35,
-                    33,
-                    34,
-                    36
-                ]
-            },
-            {
-                "question": "35 + 1",
-                "answer": 36,
-                "choices": [
-                    36,
-                    34,
-                    35,
-                    37
-                ]
-            },
-            {
-                "question": "36 + 1",
-                "answer": 37,
-                "choices": [
-                    37,
-                    35,
-                    36,
-                    38
-                ]
-            },
-            {
-                "question": "37 + 1",
-                "answer": 38,
-                "choices": [
-                    38,
-                    36,
-                    37,
-                    39
-                ]
-            },
-            {
-                "question": "38 + 1",
-                "answer": 39,
-                "choices": [
-                    39,
-                    37,
-                    38,
-                    40
-                ]
-            },
-            {
-                "question": "39 + 1",
-                "answer": 40,
-                "choices": [
-                    40,
-                    38,
-                    39,
-                    41
-                ]
-            },
-            {
-                "question": "40 + 1",
-                "answer": 41,
-                "choices": [
-                    41,
-                    39,
-                    40,
-                    42
-                ]
-            },
-            {
-                "question": "41 + 1",
-                "answer": 42,
-                "choices": [
-                    42,
-                    40,
-                    41,
-                    43
-                ]
-            },
-            {
-                "question": "42 + 1",
-                "answer": 43,
-                "choices": [
-                    43,
-                    41,
-                    42,
-                    44
-                ]
-            },
-            {
-                "question": "43 + 1",
-                "answer": 44,
-                "choices": [
-                    44,
-                    42,
-                    43,
-                    45
-                ]
-            },
-            {
-                "question": "44 + 1",
-                "answer": 45,
-                "choices": [
-                    45,
-                    43,
-                    44,
-                    46
-                ]
-            },
-            {
-                "question": "45 + 1",
-                "answer": 46,
-                "choices": [
-                    46,
-                    44,
-                    45,
-                    47
-                ]
-            },
-            {
-                "question": "46 + 1",
-                "answer": 47,
-                "choices": [
-                    47,
-                    45,
-                    46,
-                    48
-                ]
-            },
-            {
-                "question": "47 + 1",
-                "answer": 48,
-                "choices": [
-                    48,
-                    46,
-                    47,
-                    49
-                ]
-            },
-            {
-                "question": "48 + 1",
-                "answer": 49,
-                "choices": [
-                    49,
-                    47,
-                    48,
-                    50
-                ]
-            },
-            {
-                "question": "49 + 1",
-                "answer": 50,
-                "choices": [
-                    50,
-                    48,
-                    49,
-                    51
-                ]
-            },
-            {
-                "question": "50 + 1",
-                "answer": 51,
-                "choices": [
-                    51,
-                    49,
-                    50,
-                    52
-                ]
-            },
-            {
-                "question": "51 + 1",
-                "answer": 52,
-                "choices": [
-                    52,
-                    50,
-                    51,
-                    53
-                ]
-            },
-            {
-                "question": "52 + 1",
-                "answer": 53,
-                "choices": [
-                    53,
-                    51,
-                    52,
-                    54
-                ]
-            },
-            {
-                "question": "53 + 1",
-                "answer": 54,
-                "choices": [
-                    54,
-                    52,
-                    53,
-                    55
-                ]
-            },
-            {
-                "question": "54 + 1",
-                "answer": 55,
-                "choices": [
-                    55,
-                    53,
-                    54,
-                    56
-                ]
-            },
-            {
-                "question": "55 + 1",
-                "answer": 56,
-                "choices": [
-                    56,
-                    54,
-                    55,
-                    57
-                ]
-            },
-            {
-                "question": "56 + 1",
-                "answer": 57,
-                "choices": [
-                    57,
-                    55,
-                    56,
-                    58
-                ]
-            },
-            {
-                "question": "57 + 1",
-                "answer": 58,
-                "choices": [
-                    58,
-                    56,
-                    57,
-                    59
-                ]
-            },
-            {
-                "question": "58 + 1",
-                "answer": 59,
-                "choices": [
-                    59,
-                    57,
-                    58,
-                    60
-                ]
-            },
-            {
-                "question": "59 + 1",
-                "answer": 60,
-                "choices": [
-                    60,
-                    58,
-                    59,
-                    61
-                ]
-            },
-            {
-                "question": "60 + 1",
-                "answer": 61,
-                "choices": [
-                    61,
-                    59,
-                    60,
-                    62
-                ]
-            },
-            {
-                "question": "61 + 1",
-                "answer": 62,
-                "choices": [
-                    62,
-                    60,
-                    61,
-                    63
-                ]
-            },
-            {
-                "question": "62 + 1",
-                "answer": 63,
-                "choices": [
-                    63,
-                    61,
-                    62,
-                    64
-                ]
-            },
-            {
-                "question": "63 + 1",
-                "answer": 64,
-                "choices": [
-                    64,
-                    62,
-                    63,
-                    65
-                ]
-            },
-            {
-                "question": "64 + 1",
-                "answer": 65,
-                "choices": [
-                    65,
-                    63,
-                    64,
-                    66
-                ]
-            },
-            {
-                "question": "65 + 1",
-                "answer": 66,
-                "choices": [
-                    66,
-                    64,
-                    65,
-                    67
-                ]
-            },
-            {
-                "question": "66 + 1",
-                "answer": 67,
-                "choices": [
-                    67,
-                    65,
-                    66,
-                    68
-                ]
-            },
-            {
-                "question": "67 + 1",
-                "answer": 68,
-                "choices": [
-                    68,
-                    66,
-                    67,
-                    69
-                ]
-            },
-            {
-                "question": "68 + 1",
-                "answer": 69,
-                "choices": [
-                    69,
-                    67,
-                    68,
-                    70
-                ]
-            },
-            {
-                "question": "69 + 1",
-                "answer": 70,
-                "choices": [
-                    70,
-                    68,
-                    69,
-                    71
-                ]
-            },
-            {
-                "question": "70 + 1",
-                "answer": 71,
-                "choices": [
-                    71,
-                    69,
-                    70,
-                    72
-                ]
-            },
-            {
-                "question": "71 + 1",
-                "answer": 72,
-                "choices": [
-                    72,
-                    70,
-                    71,
-                    73
-                ]
-            },
-            {
-                "question": "72 + 1",
-                "answer": 73,
-                "choices": [
-                    73,
-                    71,
-                    72,
-                    74
-                ]
-            },
-            {
-                "question": "73 + 1",
-                "answer": 74,
-                "choices": [
-                    74,
-                    72,
-                    73,
-                    75
-                ]
-            },
-            {
-                "question": "74 + 1",
-                "answer": 75,
-                "choices": [
-                    75,
-                    73,
-                    74,
-                    76
-                ]
-            },
-            {
-                "question": "75 + 1",
-                "answer": 76,
-                "choices": [
-                    76,
-                    74,
-                    75,
-                    77
-                ]
-            },
-            {
-                "question": "76 + 1",
-                "answer": 77,
-                "choices": [
-                    77,
-                    75,
-                    76,
-                    78
-                ]
-            },
-            {
-                "question": "77 + 1",
-                "answer": 78,
-                "choices": [
-                    78,
-                    76,
-                    77,
-                    79
-                ]
-            },
-            {
-                "question": "78 + 1",
-                "answer": 79,
-                "choices": [
-                    79,
-                    77,
-                    78,
-                    80
-                ]
-            },
-            {
-                "question": "79 + 1",
-                "answer": 80,
-                "choices": [
-                    80,
-                    78,
-                    79,
-                    81
-                ]
-            },
-            {
-                "question": "80 + 1",
-                "answer": 81,
-                "choices": [
-                    81,
-                    79,
-                    80,
-                    82
-                ]
-            },
-            {
-                "question": "81 + 1",
-                "answer": 82,
-                "choices": [
-                    82,
-                    80,
-                    81,
-                    83
-                ]
-            },
+            },            
             {
-                "question": "82 + 1",
-                "answer": 83,
+                "question": "Your eyelids blink 15 times a minutes to spread tears so your eyes _____________________",
+                "answer": "don't dry out",
                 "choices": [
-                    83,
-                    81,
-                    82,
-                    84
+                    "don't become red",
+                    "don't get tired",
+                    "don't dry out",
+                    "are always clean"
                 ]
-            },
+            }, 
             {
-                "question": "83 + 1",
-                "answer": 84,
+                "question": "Around 100,000 hairs on your head protect you from ___________________",
+                "answer": "harmful rays from the Sun",
                 "choices": [
-                    84,
-                    82,
-                    83,
-                    85
+                    "harmful rays from the Sun",
+                    "the rain",
+                    "dust",
+                    "bugs"
                 ]
-            },
+            }, 
             {
-                "question": "84 + 1",
-                "answer": 85,
+                "question": "Your nose is made of bendy material called _______, that doesn't break easily",
+                "answer": "cartilage",
                 "choices": [
-                    85,
-                    83,
-                    84,
-                    86
+                    "cartilage",
+                    "carriage",
+                    "carnage",
+                    "garbage"
                 ]
-            },
+            }, 
             {
-                "question": "85 + 1",
-                "answer": 86,
+                "question": "Your ____ pick up sounds, detect where sounds come from and help you to balance",
+                "answer": "ears",
                 "choices": [
-                    86,
-                    84,
-                    85,
-                    87
+                    "ears",
+                    "nose",
+                    "eyes",
+                    "brain"
                 ]
-            },
+            }, 
             {
-                "question": "86 + 1",
-                "answer": 87,
+                "question": "When you get hot, your skin releases _________________",
+                "answer": "sweat to cool you down",
                 "choices": [
-                    87,
-                    85,
-                    86,
-                    88
+                    "sweat to keep you warm",
+                    "sweat to make you strong",
+                    "sweat to help you sleep",
+                    "sweat to cool you down"
                 ]
-            },
+            }, 
             {
-                "question": "87 + 1",
-                "answer": 88,
+                "question": "_____ protect the tips of your fingers and toes.",
+                "answer": "Nails",
                 "choices": [
-                    88,
-                    86,
-                    87,
-                    89
+                    "Nails",
+                    "Skin",
+                    "Hand",
+                    "Muscles"
                 ]
-            },
+            }, 
             {
-                "question": "88 + 1",
-                "answer": 89,
+                "question": "Nails grow about 4cm (1.5 inches) a _____",
+                "answer": "year",
                 "choices": [
-                    89,
-                    87,
-                    88,
-                    90
+                    "year",
+                    "day",
+                    "month",
+                    "week"
                 ]
             },
             {
-                "question": "89 + 1",
-                "answer": 90,
+                "question": "Nails grow about  _____ (1.5 inches) a year",
+                "answer": "4cm",
                 "choices": [
-                    90,
-                    88,
-                    89,
-                    91
+                    "4cm",
+                    "5cm",
+                    "40cm",
+                    "1m"
                 ]
-            },
+            },              
             {
-                "question": "90 + 1",
-                "answer": 91,
+                "question": "Tube called blood vessels carry _____ throughout your body",
+                "answer": "blood",
                 "choices": [
-                    91,
-                    89,
-                    90,
-                    92
+                    "blood",
+                    "water",
+                    "oxygen",
+                    "bacteria"
                 ]
-            },
+            }, 
             {
-                "question": "91 + 1",
-                "answer": 92,
+                "question": "Bones form a solid frame for your body called a _____",
+                "answer": "skeleton",
                 "choices": [
-                    92,
-                    90,
-                    91,
-                    93
+                    "skeleton",
+                    "joint",
+                    "skull",
+                    "marrow"
                 ]
-            },
+            }, 
             {
-                "question": "92 + 1",
-                "answer": 93,
+                "question": "_______ form a solid frame for your body called a skeleton",
+                "answer": "Bones",
                 "choices": [
-                    93,
-                    91,
-                    92,
-                    94
+                    "Bones",
+                    "Muscles",
+                    "Skin",
+                    "Nerves"
                 ]
-            },
+            },             
             {
-                "question": "93 + 1",
-                "answer": 94,
+                "question": "Your body is made up of lots of different parts - bones, blood, muscles, organs, nerves and skin - all __________ to keep you alive and well",
+                "answer": "working together",
                 "choices": [
-                    94,
-                    92,
-                    93,
-                    95
+                    "working together",
+                    "fighting each other",
+                    "killing each other",
+                    "not working together"
                 ]
-            },
+            }, 
             {
-                "question": "94 + 1",
-                "answer": 95,
+                "question": "Your ________ blink 15 times a minutes to spread tears so your eyes don't dry out",
+                "answer": "eyelids",
                 "choices": [
-                    95,
-                    93,
-                    94,
-                    96
+                    "eyelids",
+                    "eyelashes",
+                    "eyebrows",
+                    "mouth"
                 ]
-            },
+            }, 
             {
-                "question": "95 + 1",
-                "answer": 96,
+                "question": "When you get _____, your skin releases sweat to cool you down",
+                "answer": "hot",
                 "choices": [
-                    96,
-                    94,
-                    95,
-                    97
+                    "hot",
+                    "cold",
+                    "warm",
+                    "tired"
                 ]
-            },
+            }, 
             {
-                "question": "96 + 1",
-                "answer": 97,
+                "question": "Inside your body are parts called _____, such as your stomach or liver.  Each organ has a special job to do.",
+                "answer": "organs",
                 "choices": [
-                    97,
-                    95,
-                    96,
-                    98
+                    "muscles",
+                    "skeleton",
+                    "nerves",
+                    "organs"
                 ]
-            },
+            }, 
             {
-                "question": "97 + 1",
-                "answer": 98,
+                "question": "You have a network of ____ to carry messages at high speed from your brain to the rest of your body and back",
+                "answer": "nerves",
                 "choices": [
-                    98,
-                    96,
-                    97,
-                    99
+                    "nerves",
+                    "blood vessels",
+                    "intestine",
+                    "wires"
                 ]
-            },
+            }, 
             {
-                "question": "98 + 1",
-                "answer": 99,
+                "question": "Tubes called ___________ carry blood throughout your body",
+                "answer": "blood vessels",
                 "choices": [
-                    99,
-                    97,
-                    98,
-                    100
+                    "blood vessels",
+                    "cells",
+                    "lungs",
+                    "white vessels"
                 ]
-            },
+            }, 
             {
-                "question": "99 + 1",
-                "answer": 100,
+                "question": "Covering your bones is a layer of ______",
+                "answer": "muscles",
                 "choices": [
-                    100,
-                    98,
-                    99,
-                    101
+                    "muscles",
+                    "skin",
+                    "nerves",
+                    "fat"
                 ]
-            }
+            }                                                            
+
         ]
     },
     "m1c1": {
