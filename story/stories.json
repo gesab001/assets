@@ -137,6 +137,18 @@
                 "jericho"
             ],
             "newcoverposter": "https://raw.githubusercontent.com/gesab001/assets/master/images/jericho/fell.jpg"
+        },
+        {
+            "title": "Fire",
+            "otherTitle": "Fire",
+            "video": "Fire.mp4",
+            "description": "Elijah gathers the people of Israel who have been in apostasy to the top of Mt. Carmel.  He leads them back to the worship of the true God.  He gives them a chance to see and decide between the worshipping Baal or God. Fire came down from heaven as an answer to Elijah's prayer.",
+            "categories": [
+                "elijah",
+                "old testament",
+                "apostasy"
+            ],
+            "newcoverposter": "https://raw.githubusercontent.com/gesab001/assets/master/images/fire/fire.jpg"
         }
     ],
     "atoz": [
@@ -427,6 +439,18 @@
                         "beginnings"
                     ],
                     "newcoverposter": "https://gesab001.github.io/assets/thegreatflood/newcoverposter.jpg"
+                },
+                {
+                    "title": "Fire",
+                    "otherTitle": "Fire",
+                    "video": "Fire.mp4",
+                    "description": "Elijah gathers the people of Israel who have been in apostasy to the top of Mt. Carmel.  He leads them back to the worship of the true God.  He gives them a chance to see and decide between the worshipping Baal or God. Fire came down from heaven as an answer to Elijah's prayer.",
+                    "categories": [
+                        "elijah",
+                        "old testament",
+                        "apostasy"
+                    ],
+                    "newcoverposter": "https://gesab001.github.io/assets/fire/newcoverposter.jpg"
                 }
             ]
         },
