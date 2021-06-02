@@ -1,0 +1,180 @@
+{
+    "title": "Zarephath",
+    "slides": [
+        {
+            "text": "And the word of the LORD came unto him, saying,  Arise, get thee to Zarephath, which [belongeth] to Zidon, and dwell there: behold, I have commanded a widow woman there to sustain thee.  ",
+            "reference": {
+                "book": "1 Kings",
+                "chapter": "17",
+                "verse": {
+                    "start": "8.",
+                    "end": "9."
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/zarephath/brook.jpg"
+        },
+        {
+            "text": "So he arose and went to Zarephath. And when he came to the gate of the city, behold, the widow woman [was] there gathering of sticks: and he called to her, and said, Fetch me, I pray thee, a little water in a vessel, that I may drink.  And as she was going to fetch [it,] he called to her, and said, Bring me, I pray thee, a morsel of bread in thine hand.  ",
+            "reference": {
+                "book": "1 Kings",
+                "chapter": "17",
+                "verse": {
+                    "start": "10",
+                    "end": "11"
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/zarephath/widowsticks.jpg"
+        },
+        {
+            "text": "And she said, [As] the LORD thy God liveth, I have not a cake, but an handful of meal in a barrel, and a little oil in a cruse: and, behold, I [am] gathering two sticks, that I may go in and dress it for me and my son, that we may eat it, and die.  And Elijah said unto her, Fear not; go [and] do as thou hast said: but make me thereof a little cake first, and bring [it] unto me, and after make for thee and for thy son.  For thus saith the LORD God of Israel, The barrel of meal shall not waste, neither shall the cruse of oil fail, until the day [that] the LORD sendeth rain upon the earth.  ",
+            "reference": {
+                "book": "1 Kings",
+                "chapter": "17",
+                "verse": {
+                    "start": "12",
+                    "end": "14"
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/zarephath/promise.jpg"
+        },
+        {
+            "text": "And she went and did according to the saying of Elijah: and she, and he, and her house, did eat [many] days.  ",
+            "reference": {
+                "book": "1 Kings",
+                "chapter": "17",
+                "verse": {
+                    "start": "15",
+                    "end": "15"
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/zarephath/makebread.jpg"
+        },
+        {
+            "text": "[And] the barrel of meal wasted not, neither did the cruse of oil fail, according to the word of the LORD, which he spake by Elijah.  ",
+            "reference": {
+                "book": "1 Kings",
+                "chapter": "17",
+                "verse": {
+                    "start": "16",
+                    "end": "16"
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/zarephath/barreloil.jpg"
+        },
+        {
+            "text": "And it came to pass after these things, [that] the son of the woman, the mistress of the house, fell sick; and his sickness was so sore, that there was no breath left in him.  And she said unto Elijah, What have I to do with thee, O thou man of God? art thou come unto me to call my sin to remembrance, and to slay my son?  ",
+            "reference": {
+                "book": "1 Kings",
+                "chapter": "17",
+                "verse": {
+                    "start": "17",
+                    "end": "18"
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/zarephath/sondie.jpg"
+        },
+        {
+            "text": "And he said unto her, Give me thy son. And he took him out of her bosom, and carried him up into a loft, where he abode, and laid him upon his own bed.  And he cried unto the LORD, and said, O LORD my God, hast thou also brought evil upon the widow with whom I sojourn, by slaying her son?  ",
+            "reference": {
+                "book": "1 Kings",
+                "chapter": "17",
+                "verse": {
+                    "start": "19",
+                    "end": "20"
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/zarephath/bed.jpg"
+        },
+        {
+            "text": "And he stretched himself upon the child three times, and cried unto the LORD, and said, O LORD my God, I pray thee, let this child's soul come into him again.  ",
+            "reference": {
+                "book": "1 Kings",
+                "chapter": "17",
+                "verse": {
+                    "start": "21",
+                    "end": "21"
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/zarephath/stretch.jpg"
+        },
+        {
+            "text": "And the LORD heard the voice of Elijah; and the soul of the child came into him again, and he revived.  ",
+            "reference": {
+                "book": "1 Kings",
+                "chapter": "17",
+                "verse": {
+                    "start": "22",
+                    "end": "22"
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/zarephath/wakeup.jpg"
+        },
+        {
+            "text": "And Elijah took the child, and brought him down out of the chamber into the house, and delivered him unto his mother: and Elijah said, See, thy son liveth.  And the woman said to Elijah, Now by this I know that thou [art] a man of God, [and] that the word of the LORD in thy mouth [is] truth.   ",
+            "reference": {
+                "book": "1 Kings",
+                "chapter": "17",
+                "verse": {
+                    "start": "23",
+                    "end": "24"
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/zarephath/songive.jpg"
+        }
+    ],
+    "questions": [
+        {
+            "question": "Where did God tell Elijah to go?",
+            "answer": "Zarephath",
+            "choices": [
+                "Zarephath",
+                "Jerusalem",
+                "Nineveh",
+                "Bethlehem"
+            ]
+        },
+        {
+            "question": "What was the widow gathering when Elijah arrived there?",
+            "answer": "sticks",
+            "choices": [
+                "sticks",
+                "stones",
+                "sand",
+                "leaves"
+            ]
+        },
+        {
+            "question": "What did Elijah ask the widow to give him?",
+            "answer": "water and bread",
+            "choices": [
+                "water and bread",
+                "sheep",
+                "money",
+                "clothes"
+            ]
+        },
+        {
+            "question": "What did God promise to the widow if she obeyed?",
+            "answer": "she will always have flour and oil until God sends the rain",
+            "choices": [
+                "she will always have flour and oil until God sends the rain",
+                "she will be resurrected",
+                "she will always have water",
+                "God will give her rain"
+            ]
+        },
+        {
+            "question": "Who did Elijah heal during his stay at the widow's house?",
+            "answer": "the widow's son who died",
+            "choices": [
+                "the widow's son who died",
+                "the widow who became sick",
+                "their pet",
+                "the widow's daughter who died"
+            ]
+        }
+    ],
+    "activities": [],
+    "references": [],
+    "poster": "https://gesab001.github.io/assets/images/zarephath/poster.jpg"
+}

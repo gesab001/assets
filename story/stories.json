@@ -149,6 +149,18 @@
                 "apostasy"
             ],
             "newcoverposter": "https://raw.githubusercontent.com/gesab001/assets/master/images/fire/fire.jpg"
+        },
+        {
+            "title": "Zarephath",
+            "otherTitle": "Zarephath",
+            "video": "Zarephath.mp4",
+            "description": "A widow provides for Elijah in the time of famine and drought.",
+            "categories": [
+                "elijah",
+                "old testament",
+                "faith"
+            ],
+            "newcoverposter": "https://raw.githubusercontent.com/gesab001/assets/master/images/zarephath/widowsticks.jpg"
         }
     ],
     "atoz": [
@@ -970,7 +982,20 @@
         },
         {
             "letter": "Z",
-            "names": []
+            "names": [
+                {
+                    "title": "Zarephath",
+                    "otherTitle": "Zarephath",
+                    "video": "Zarephath.mp4",
+                    "description": "A widow provides for Elijah in the time of famine and drought.",
+                    "categories": [
+                        "elijah",
+                        "old testament",
+                        "faith"
+                    ],
+                    "newcoverposter": "https://gesab001.github.io/assets/zarephath/newcoverposter.jpg"
+                }
+            ]
         }
     ]
 }
