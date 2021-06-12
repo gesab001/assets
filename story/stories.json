@@ -184,6 +184,17 @@
                 " comfort"
             ],
             "newcoverposter": "https://raw.githubusercontent.com/gesab001/assets/master/images/voice/earthquake.jpg"
+        },
+        {
+            "title": "Consumed",
+            "otherTitle": "Consumed",
+            "video": "consumed.mp4",
+            "description": "Elijah calls for fire down from heaven to burn down a whole army.",
+            "categories": [
+                "elijah",
+                "old testament"
+            ],
+            "newcoverposter": "https://gesab001.github.io/assets/consumed/newcoverposter.jpg"
         }
     ],
     "atoz": [
@@ -373,6 +384,17 @@
                         "old testament",
                         "beginnings"
                     ]
+                },
+                {
+                    "title": "Consumed",
+                    "otherTitle": "Consumed",
+                    "video": "consumed.mp4",
+                    "description": "Elijah calls for fire down from heaven to burn down a whole army.",
+                    "categories": [
+                        "elijah",
+                        "old testament"
+                    ],
+                    "newcoverposter": "https://gesab001.github.io/assets/consumed/newcoverposter.jpg"
                 }
             ]
         },
