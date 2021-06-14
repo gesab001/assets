@@ -200,13 +200,13 @@
             "title": "Chariot",
             "otherTitle": "Chariot",
             "video": "chariot.mp4",
-            "description": "God takes Elijah away to heaven.  He sends a chariot of fire and horses fire to take him.",
+            "description": "God takes Elijah to heaven and passes on the prophetic gift to Elisha.  A chariot of fire and horses of fire came to take Elijah away. ",
             "categories": [
                 "elijah",
                 "old testament"
             ],
-            "newcoverposter": "https://raw.githubusercontent.com/gesab001/assets/master/images/consumed/fifty2.jpg"
-        }        
+            "newcoverposter": "https://raw.githubusercontent.com/gesab001/assets/master/images/chariot/chariots.jpg"
+        }
     ],
     "atoz": [
         {
@@ -407,17 +407,17 @@
                     ],
                     "newcoverposter": "https://gesab001.github.io/assets/consumed/newcoverposter.jpg"
                 },
-		{
-		    "title": "Chariot",
-		    "otherTitle": "Chariot",
-		    "video": "chariot.mp4",
-		    "description": "God takes Elijah away to heaven.  He sends a chariot of fire and horses fire to take him up to heaven.",
-		    "categories": [
-		        "elijah",
-		        "old testament"
-		    ],
-		    "newcoverposter": "https://raw.githubusercontent.com/gesab001/assets/master/images/consumed/fifty2.jpg"
-		}                       
+                {
+                    "title": "Chariot",
+                    "otherTitle": "Chariot",
+                    "video": "chariot.mp4",
+                    "description": "God takes Elijah to heaven and passes on the prophetic gift to Elisha.  A chariot of fire and horses of fire came to take Elijah away. ",
+                    "categories": [
+                        "elijah",
+                        "old testament"
+                    ],
+                    "newcoverposter": "https://gesab001.github.io/assets/chariot/newcoverposter.jpg"
+                }
             ]
         },
         {

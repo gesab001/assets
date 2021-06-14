@@ -1,0 +1,180 @@
+{
+    "title": "Chariot",
+    "slides": [
+        {
+            "text": "And it came to pass, when the LORD would take up Elijah into heaven by a whirlwind, that Elijah went with Elisha from Gilgal.  ",
+            "reference": {
+                "book": "2 Kings",
+                "chapter": "2",
+                "verse": {
+                    "start": "1.",
+                    "end": "1."
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/chariot/elishaelijah.jpg"
+        },
+        {
+            "text": "And Elijah said unto Elisha, Tarry here, I pray thee; for the LORD hath sent me to Bethel. And Elisha said [unto him, As] the LORD liveth, and as thy soul liveth, I will not leave thee. So they went down to Bethel.  And the sons of the prophets that [were] at Bethel came forth to Elisha, and said unto him, Knowest thou that the LORD will take away thy master from thy head to day? And he said, Yea, I know [it;] hold ye your peace.  ",
+            "reference": {
+                "book": "2 Kings",
+                "chapter": "2",
+                "verse": {
+                    "start": "2.",
+                    "end": "3."
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/chariot/bethel.jpg"
+        },
+        {
+            "text": "And Elijah said unto him, Elisha, tarry here, I pray thee; for the LORD hath sent me to Jericho. And he said, [As] the LORD liveth, and [as] thy soul liveth, I will not leave thee. So they came to Jericho.  And the sons of the prophets that [were] at Jericho came to Elisha, and said unto him, Knowest thou that the LORD will take away thy master from thy head to day? And he answered, Yea, I know [it;] hold ye your peace.  ",
+            "reference": {
+                "book": "2 Kings",
+                "chapter": "2",
+                "verse": {
+                    "start": "4.",
+                    "end": "5."
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/chariot/jericho.jpg"
+        },
+        {
+            "text": "And Elijah said unto him, Tarry, I pray thee, here; for the LORD hath sent me to Jordan. And he said, [As] the LORD liveth, and [as] thy soul liveth, I will not leave thee. And they two went on.  ",
+            "reference": {
+                "book": "2 Kings",
+                "chapter": "2",
+                "verse": {
+                    "start": "6.",
+                    "end": "6."
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/chariot/jordanriver.jpg"
+        },
+        {
+            "text": "And fifty men of the sons of the prophets went, and stood to view afar off: and they two stood by Jordan.  ",
+            "reference": {
+                "book": "2 Kings",
+                "chapter": "2",
+                "verse": {
+                    "start": "7.",
+                    "end": "7."
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/chariot/fifty.jpg"
+        },
+        {
+            "text": "And Elijah took his mantle, and wrapped [it] together, and smote the waters, and they were divided hither and thither, so that they two went over on dry ground.  ",
+            "reference": {
+                "book": "2 Kings",
+                "chapter": "2",
+                "verse": {
+                    "start": "8.",
+                    "end": "8."
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/chariot/smite.jpg"
+        },
+        {
+            "text": "And it came to pass, when they were gone over, that Elijah said unto Elisha, Ask what I shall do for thee, before I be taken away from thee. And Elisha said, I pray thee, let a double portion of thy spirit be upon me.  And he said, Thou hast asked a hard thing: [nevertheless,] if thou see me [when I am] taken from thee, it shall be so unto thee; but if not, it shall not be so.  ",
+            "reference": {
+                "book": "2 Kings",
+                "chapter": "2",
+                "verse": {
+                    "start": "9.",
+                    "end": "10"
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/chariot/doubleportion.jpg"
+        },
+        {
+            "text": "And it came to pass, as they still went on, and talked, that, behold, [there appeared] a chariot of fire, and horses of fire, and parted them both asunder; and Elijah went up by a whirlwind into heaven.  And Elisha saw [it,] and he cried, My father, my father, the chariot of Israel, and the horsemen thereof. And he saw him no more: and he took hold of his own clothes, and rent them in two pieces.  ",
+            "reference": {
+                "book": "2 Kings",
+                "chapter": "2",
+                "verse": {
+                    "start": "11",
+                    "end": "12"
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/chariot/chariots.jpg"
+        },
+        {
+            "text": "He took up also the mantle of Elijah that fell from him, and went back, and stood by the bank of Jordan;  And he took the mantle of Elijah that fell from him, and smote the waters, and said, Where [is] the LORD God of Elijah? and when he also had smitten the waters, they parted hither and thither: and Elisha went over.  ",
+            "reference": {
+                "book": "2 Kings",
+                "chapter": "2",
+                "verse": {
+                    "start": "13",
+                    "end": "14"
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/chariot/elishamantle.jpg"
+        },
+        {
+            "text": "And when the sons of the prophets which [were] to view at Jericho saw him, they said, The spirit of Elijah doth rest on Elisha. And they came to meet him, and bowed themselves to the ground before him.   ",
+            "reference": {
+                "book": "2 Kings",
+                "chapter": "2",
+                "verse": {
+                    "start": "15",
+                    "end": "15"
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/chariot/bow.jpg"
+        }
+    ],
+    "questions": [
+        {
+            "question": "What came from heaven to take Elijah to heaven?",
+            "answer": "a chariot of fire and horses of fire",
+            "choices": [
+                "a chariot of fire and horses of fire",
+                "angel",
+                "clouds",
+                "airplane"
+            ]
+        },
+        {
+            "question": "What happened to the Jordan river when Elijah hit the waters with his mantle?",
+            "answer": "it divided to make dry ground so Elijah could cross over.",
+            "choices": [
+                "it divided to make dry ground so Elijah could cross over.",
+                "it became blood",
+                "it dried up",
+                "it became smelly"
+            ]
+        },
+        {
+            "question": "What did Elisha ask from Elijah?",
+            "answer": "a double portion of his spirit",
+            "choices": [
+                "a double portion of his spirit",
+                "his mantle",
+                "his money",
+                "his staff"
+            ]
+        },
+        {
+            "question": "How did Elijah go up to heaven?",
+            "answer": "by a whirlwind",
+            "choices": [
+                "by a whirlwind",
+                "by an airplane",
+                "by clouds",
+                "by birds"
+            ]
+        },
+        {
+            "question": "How did Elisha cross the Jordan river?",
+            "answer": "he divided the waters just like Elijah with the Elijah's mantle",
+            "choices": [
+                "he divided the waters just like Elijah with the Elijah's mantle",
+                "he rode a boat",
+                "he flew over",
+                "he swum across"
+            ]
+        }
+    ],
+    "activities": [],
+    "references": [],
+    "poster": "https://gesab001.github.io/assets/images/chariot/poster.jpg"
+}
