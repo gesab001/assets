@@ -1,7 +1,7 @@
 import json
 import subprocess
-from tkinter import *
-from tkinter import messagebox
+#from tkinter import *
+#from tkinter import messagebox
 
 f = open("stories.json")
 jsondata = json.load(f)

@@ -195,7 +195,18 @@
                 "old testament"
             ],
             "newcoverposter": "https://raw.githubusercontent.com/gesab001/assets/master/images/consumed/fifty2.jpg"
-        }
+        },
+        {
+            "title": "Chariot",
+            "otherTitle": "Chariot",
+            "video": "chariot.mp4",
+            "description": "God takes Elijah away to heaven.  He sends a chariot of fire and horses fire to take him.",
+            "categories": [
+                "elijah",
+                "old testament"
+            ],
+            "newcoverposter": "https://raw.githubusercontent.com/gesab001/assets/master/images/consumed/fifty2.jpg"
+        }        
     ],
     "atoz": [
         {
@@ -395,7 +406,18 @@
                         "old testament"
                     ],
                     "newcoverposter": "https://gesab001.github.io/assets/consumed/newcoverposter.jpg"
-                }
+                },
+		{
+		    "title": "Chariot",
+		    "otherTitle": "Chariot",
+		    "video": "chariot.mp4",
+		    "description": "God takes Elijah away to heaven.  He sends a chariot of fire and horses fire to take him up to heaven.",
+		    "categories": [
+		        "elijah",
+		        "old testament"
+		    ],
+		    "newcoverposter": "https://raw.githubusercontent.com/gesab001/assets/master/images/consumed/fifty2.jpg"
+		}                       
             ]
         },
         {
