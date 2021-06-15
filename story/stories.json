@@ -206,6 +206,17 @@
                 "old testament"
             ],
             "newcoverposter": "https://raw.githubusercontent.com/gesab001/assets/master/images/chariot/chariots.jpg"
+        },
+        {
+            "title": "Bears",
+            "otherTitle": "Bears",
+            "video": "Bears.mp4",
+            "description": "After Elijah was taken to heaven, Elisha became the new prophet of Israel. Immediately, people notice that Elisha has taken Elijah's place.  He parted the waters of the Jordan river and healed the waters of Jericho.  Then female bears attacked and killed 42 disrespectful youth after cursing them.",
+            "categories": [
+                "elisha",
+                "old testament"
+            ],
+            "newcoverposter": "https://raw.githubusercontent.com/gesab001/assets/master/images/bears/attack.jpg"
         }
     ],
     "atoz": [
@@ -336,6 +347,17 @@
                         "old testament",
                         "judgment"
                     ]
+                },
+                {
+                    "title": "Bears",
+                    "otherTitle": "Bears",
+                    "video": "Bears.mp4",
+                    "description": "After Elijah was taken to heaven, Elisha became the new prophet of Israel. Immediately, people notice that Elisha has taken Elijah's place.  He parted the waters of the Jordan river and healed the waters of Jericho.  Then female bears attacked and killed 42 disrespectful youth after cursing them.",
+                    "categories": [
+                        "elisha",
+                        "old testament"
+                    ],
+                    "newcoverposter": "https://gesab001.github.io/assets/bears/newcoverposter.jpg"
                 }
             ]
         },

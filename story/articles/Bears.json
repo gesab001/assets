@@ -1,0 +1,180 @@
+{
+    "title": "Bears",
+    "slides": [
+        {
+            "text": "And it came to pass, as they still went on, and talked, that, behold, [there appeared] a chariot of fire, and horses of fire, and parted them both asunder; and Elijah went up by a whirlwind into heaven.   ",
+            "reference": {
+                "book": "2 Kings",
+                "chapter": "2",
+                "verse": {
+                    "start": "11",
+                    "end": "11"
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/bears/chariotsoffire.jpg"
+        },
+        {
+            "text": "And they said unto him, Behold now, there be with thy servants fifty strong men; let them go, we pray thee, and seek thy master: lest peradventure the Spirit of the LORD hath taken him up, and cast him upon some mountain, or into some valley. And he said, Ye shall not send.  ",
+            "reference": {
+                "book": "2 Kings",
+                "chapter": "2",
+                "verse": {
+                    "start": "16",
+                    "end": "16"
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/bears/mount.jpg"
+        },
+        {
+            "text": "And when they urged him till he was ashamed, he said, Send. They sent therefore fifty men; and they sought three days, but found him not.  ",
+            "reference": {
+                "book": "2 Kings",
+                "chapter": "2",
+                "verse": {
+                    "start": "17",
+                    "end": "17"
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/bears/looking.jpg"
+        },
+        {
+            "text": "And when they came again to him, (for he tarried at Jericho,) he said unto them, Did I not say unto you, Go not?  ",
+            "reference": {
+                "book": "2 Kings",
+                "chapter": "2",
+                "verse": {
+                    "start": "18",
+                    "end": "18"
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/bears/jericho.jpg"
+        },
+        {
+            "text": "And the men of the city said unto Elisha, Behold, I pray thee, the situation of this city [is] pleasant, as my lord seeth: but the water [is] naught, and the ground barren.  ",
+            "reference": {
+                "book": "2 Kings",
+                "chapter": "2",
+                "verse": {
+                    "start": "19",
+                    "end": "19"
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/bears/water.jpg"
+        },
+        {
+            "text": "And he said, Bring me a new cruse, and put salt therein. And they bring [it] to him.  ",
+            "reference": {
+                "book": "2 Kings",
+                "chapter": "2",
+                "verse": {
+                    "start": "20",
+                    "end": "20"
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/bears/salt.jpg"
+        },
+        {
+            "text": "And he went forth unto the spring of the waters, and cast the salt in there, and said, Thus saith the LORD, I have healed these waters; there shall not be from thence any more death or barren [land. ]  ",
+            "reference": {
+                "book": "2 Kings",
+                "chapter": "2",
+                "verse": {
+                    "start": "21",
+                    "end": "21"
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/bears/sprinkled.jpg"
+        },
+        {
+            "text": "So the waters were healed unto this day, according to the saying of Elisha which he spake.  ",
+            "reference": {
+                "book": "2 Kings",
+                "chapter": "2",
+                "verse": {
+                    "start": "22",
+                    "end": "22"
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/bears/healedwater.jpg"
+        },
+        {
+            "text": "And he went up from thence unto Bethel: and as he was going up by the way, there came forth little children out of the city, and mocked him, and said unto him, Go up, thou bald head; go up, thou bald head.  ",
+            "reference": {
+                "book": "2 Kings",
+                "chapter": "2",
+                "verse": {
+                    "start": "23",
+                    "end": "23"
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/bears/making fun.jpg"
+        },
+        {
+            "text": "And he turned back, and looked on them, and cursed them in the name of the LORD. And there came forth two she bears out of the wood, and tare forty and two children of them.  And he went from thence to mount Carmel, and from thence he returned to Samaria.  ",
+            "reference": {
+                "book": "2 Kings",
+                "chapter": "2",
+                "verse": {
+                    "start": "24",
+                    "end": "25"
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/bears/attack.jpg"
+        }
+    ],
+    "questions": [
+        {
+            "question": "What did fifty people asked Elisha?",
+            "answer": "they wanted permission to find Elijah.",
+            "choices": [
+                "they wanted permission to find Elijah.",
+                "they wanted money",
+                "they wanted him to anoint them.",
+                "they wanted to follow him."
+            ]
+        },
+        {
+            "question": "How many days did they spend looking for Elijah?",
+            "answer": "3 days",
+            "choices": [
+                "3 days",
+                "4 days",
+                "2 days",
+                "1 day"
+            ]
+        },
+        {
+            "question": "What was wrong with the water in Jericho?",
+            "answer": "the water was polluted.",
+            "choices": [
+                "the water was polluted.",
+                "the water was bitter",
+                "the water full of fish.",
+                "there was very little water."
+            ]
+        },
+        {
+            "question": "HOw did Elisha heal the waters of Jericho?",
+            "answer": "He put salt in the waters and declared it healed in God's name.",
+            "choices": [
+                "He put salt in the waters and declared it healed in God's name.",
+                "He filtered the waters.",
+                "He touched the waters with his foot.",
+                "He got baptized in the spring of the waters."
+            ]
+        },
+        {
+            "question": "What did the children do to make Elisah angry?",
+            "answer": "They mocked him because he was bald.",
+            "choices": [
+                "They mocked him because he was bald.",
+                "They mocked him because he was old.",
+                "They mocked him because he was blind.",
+                "They mocked him because he had a disability."
+            ]
+        }
+    ],
+    "activities": [],
+    "references": [],
+    "poster": "https://gesab001.github.io/assets/images/bears/poster.jpg"
+}
