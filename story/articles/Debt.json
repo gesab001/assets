@@ -1,0 +1,180 @@
+{
+    "title": "Debt",
+    "slides": [
+        {
+            "text": "Now there cried a certain woman of the wives of the sons of the prophets unto Elisha, saying,   ",
+            "reference": {
+                "book": "2 Kings",
+                "chapter": "4",
+                "verse": {
+                    "start": "1.",
+                    "end": "1."
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/debt/help.jpg"
+        },
+        {
+            "text": "Thy servant my husband is dead; and thou knowest that thy servant did fear the LORD:   ",
+            "reference": {
+                "book": "2 Kings",
+                "chapter": "4",
+                "verse": {
+                    "start": "1.",
+                    "end": "1."
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/debt/dead.jpg"
+        },
+        {
+            "text": "and the creditor is come to take unto him my two sons to be bondmen.  ",
+            "reference": {
+                "book": "2 Kings",
+                "chapter": "4",
+                "verse": {
+                    "start": "1.",
+                    "end": "1."
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/debt/collector.jpg"
+        },
+        {
+            "text": "And Elisha said unto her, What shall I do for thee? tell me, what hast thou in the house?   ",
+            "reference": {
+                "book": "2 Kings",
+                "chapter": "4",
+                "verse": {
+                    "start": "2.",
+                    "end": "2."
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/debt/house.jpg"
+        },
+        {
+            "text": "And she said, Thine handmaid hath not any thing in the house, save a pot of oil.  ",
+            "reference": {
+                "book": "2 Kings",
+                "chapter": "4",
+                "verse": {
+                    "start": "2.",
+                    "end": "2."
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/debt/potoil.jpg"
+        },
+        {
+            "text": "Then he said, Go, borrow thee vessels abroad of all thy neighbours, [even] empty vessels; borrow not a few.  ",
+            "reference": {
+                "book": "2 Kings",
+                "chapter": "4",
+                "verse": {
+                    "start": "3.",
+                    "end": "3."
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/debt/pots.jpg"
+        },
+        {
+            "text": "And when thou art come in, thou shalt shut the door upon thee and upon thy sons, and shalt pour out into all those vessels, and thou shalt set aside that which is full.  ",
+            "reference": {
+                "book": "2 Kings",
+                "chapter": "4",
+                "verse": {
+                    "start": "4.",
+                    "end": "4."
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/debt/pour.jpg"
+        },
+        {
+            "text": "So she went from him, and shut the door upon her and upon her sons, who brought [the vessels] to her; and she poured out.  ",
+            "reference": {
+                "book": "2 Kings",
+                "chapter": "4",
+                "verse": {
+                    "start": "5.",
+                    "end": "5."
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/debt/poouringoil.jpg"
+        },
+        {
+            "text": "And it came to pass, when the vessels were full, that she said unto her son, Bring me yet a vessel. And he said unto her, [There is] not a vessel more. And the oil stayed.  ",
+            "reference": {
+                "book": "2 Kings",
+                "chapter": "4",
+                "verse": {
+                    "start": "6.",
+                    "end": "6."
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/debt/nomore.jpg"
+        },
+        {
+            "text": "Then she came and told the man of God. And he said, Go, sell the oil, and pay thy debt, and live thou and thy children of the rest.   ",
+            "reference": {
+                "book": "2 Kings",
+                "chapter": "4",
+                "verse": {
+                    "start": "7.",
+                    "end": "7."
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/debt/money.jpg"
+        }
+    ],
+    "questions": [
+        {
+            "question": "Why did the woman come to Elisha for help?",
+            "answer": "she is in a lot of debt after her husband died.",
+            "choices": [
+                "she is in a lot of debt after her husband died.",
+                "he lost his job",
+                "he went to a far away country",
+                "he became very sick"
+            ]
+        },
+        {
+            "question": "What does the woman have in her house?",
+            "answer": "a pot of oil",
+            "choices": [
+                "a pot of oil",
+                "a pot of rice",
+                "a pot of flour",
+                "a pot of water"
+            ]
+        },
+        {
+            "question": "What did Elisha tell the woman to borrow?",
+            "answer": "vessels of all her neighbors",
+            "choices": [
+                "vessels of all her neighbors",
+                "money from her neighbors",
+                "money from the bank",
+                "clothes to sell in the market"
+            ]
+        },
+        {
+            "question": "What did Elisha tell the woman to pour into the vessels?",
+            "answer": "oil",
+            "choices": [
+                "oil",
+                "water",
+                "juice",
+                "flour"
+            ]
+        },
+        {
+            "question": "What did Elisha tell the woman to do after all the vessels were filled with oil?",
+            "answer": "sell the oil and pay off her debt",
+            "choices": [
+                "sell the oil and pay off her debt",
+                "give the oil to her neighbors",
+                "store the oil to use for herself",
+                "borrow more pots to fill with oil."
+            ]
+        }
+    ],
+    "activities": [],
+    "references": [],
+    "poster": "https://gesab001.github.io/assets/images/debt/poster.jpg"
+}

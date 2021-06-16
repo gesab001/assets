@@ -217,6 +217,17 @@
                 "old testament"
             ],
             "newcoverposter": "https://raw.githubusercontent.com/gesab001/assets/master/images/bears/attack.jpg"
+        },
+        {
+            "title": "Debt",
+            "otherTitle": "Debt",
+            "video": "debt.mp4",
+            "description": "Elisha helps a widow pay off her debt after her husband dies.  ",
+            "categories": [
+                "elisha",
+                "old testament"
+            ],
+            "newcoverposter": "https://raw.githubusercontent.com/gesab001/assets/master/images/debt/pour.jpg"
         }
     ],
     "atoz": [
@@ -462,6 +473,17 @@
                         "old testament",
                         "salvation"
                     ]
+                },
+                {
+                    "title": "Debt",
+                    "otherTitle": "Debt",
+                    "video": "debt.mp4",
+                    "description": "Elisha helps a widow pay off her debt after her husband dies.  ",
+                    "categories": [
+                        "elisha",
+                        "old testament"
+                    ],
+                    "newcoverposter": "https://gesab001.github.io/assets/debt/newcoverposter.jpg"
                 }
             ]
         },
