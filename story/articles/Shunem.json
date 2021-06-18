@@ -1,0 +1,180 @@
+{
+    "title": "Shunem",
+    "slides": [
+        {
+            "text": "And it fell on a day, that Elisha passed to Shunem, where [was] a great woman; and she constrained him to eat bread. And so it was, [that] as oft as he passed by, he turned in thither to eat bread.  ",
+            "reference": {
+                "book": "2 Kings",
+                "chapter": "4",
+                "verse": {
+                    "start": "8.",
+                    "end": "8."
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/shunem/bread.jpg"
+        },
+        {
+            "text": "And she said unto her husband, Behold now, I perceive that this [is] an holy man of God, which passeth by us continually.  ",
+            "reference": {
+                "book": "2 Kings",
+                "chapter": "4",
+                "verse": {
+                    "start": "9.",
+                    "end": "9."
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/shunem/passby.jpg"
+        },
+        {
+            "text": "Let us make a little chamber, I pray thee, on the wall; and let us set for him there a bed, and a table, and a stool, and a candlestick: and it shall be, when he cometh to us, that he shall turn in thither.  ",
+            "reference": {
+                "book": "2 Kings",
+                "chapter": "4",
+                "verse": {
+                    "start": "10",
+                    "end": "10"
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/shunem/room.jpg"
+        },
+        {
+            "text": "And it fell on a day, that he came thither, and he turned into the chamber, and lay there.  ",
+            "reference": {
+                "book": "2 Kings",
+                "chapter": "4",
+                "verse": {
+                    "start": "11",
+                    "end": "11"
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/shunem/elisharoom.jpg"
+        },
+        {
+            "text": "And he said to Gehazi his servant, Call this Shunammite. And when he had called her, she stood before him.  ",
+            "reference": {
+                "book": "2 Kings",
+                "chapter": "4",
+                "verse": {
+                    "start": "12",
+                    "end": "12"
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/shunem/woman.jpg"
+        },
+        {
+            "text": "And he said unto him, Say now unto her, Behold, thou hast been careful for us with all this care; what [is] to be done for thee? wouldest thou be spoken for to the king, or to the captain of the host? And she answered, I dwell among mine own people.  ",
+            "reference": {
+                "book": "2 Kings",
+                "chapter": "4",
+                "verse": {
+                    "start": "13",
+                    "end": "13"
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/shunem/elishaspeaking.jpg"
+        },
+        {
+            "text": "And he said, What then [is] to be done for her? And Gehazi answered, Verily she hath no child, and her husband is old.  ",
+            "reference": {
+                "book": "2 Kings",
+                "chapter": "4",
+                "verse": {
+                    "start": "14",
+                    "end": "14"
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/shunem/nochild.jpg"
+        },
+        {
+            "text": "And he said, Call her. And when he had called her, she stood in the door.  ",
+            "reference": {
+                "book": "2 Kings",
+                "chapter": "4",
+                "verse": {
+                    "start": "15",
+                    "end": "15"
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/shunem/door.jpg"
+        },
+        {
+            "text": "And he said, About this season, according to the time of life, thou shalt embrace a son. And she said, Nay, my lord, [thou] man of God, do not lie unto thine handmaid.  ",
+            "reference": {
+                "book": "2 Kings",
+                "chapter": "4",
+                "verse": {
+                    "start": "16",
+                    "end": "16"
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/shunem/baby.jpg"
+        },
+        {
+            "text": "And the woman conceived, and bare a son at that season that Elisha had said unto her, according to the time of life.   ",
+            "reference": {
+                "book": "2 Kings",
+                "chapter": "4",
+                "verse": {
+                    "start": "17",
+                    "end": "17"
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/shunem/womanbaby.jpg"
+        }
+    ],
+    "questions": [
+        {
+            "question": "Where did the woman live?",
+            "answer": "in Shunem",
+            "choices": [
+                "in Shunem",
+                "in Jericho",
+                "in Bethel",
+                "in Mt. Carmel"
+            ]
+        },
+        {
+            "question": "What did the woman give to Elisha each time he passed through Shunem?",
+            "answer": "she gives him bread to eat",
+            "choices": [
+                "she gives him bread to eat",
+                "she gives him water to drink",
+                "she gives him clothes to wear",
+                "she gives him flour for making bread."
+            ]
+        },
+        {
+            "question": "What did the woman and her husband make for Elisha?",
+            "answer": "a little chamber, a bed, a table, a stool and a candlestick for Elisha to sleep in and use.",
+            "choices": [
+                "a little chamber, a bed, a table, a stool and a candlestick for Elisha to sleep in and use.",
+                "a house for him live in.",
+                "a school for him to teach in.",
+                "a kitchen for him to cook in."
+            ]
+        },
+        {
+            "question": "What did the woman not have?",
+            "answer": "a child",
+            "choices": [
+                "a child",
+                "a house",
+                "water",
+                "oil"
+            ]
+        },
+        {
+            "question": "What did Elisha promise to the woman?",
+            "answer": "she will give birth to a son.",
+            "choices": [
+                "she will give birth to a son.",
+                "she will give birth to a daughter.",
+                "she wil live a long life.",
+                "she will be healthy."
+            ]
+        }
+    ],
+    "activities": [],
+    "references": [],
+    "poster": "https://gesab001.github.io/assets/images/shunem/poster.jpg"
+}

@@ -228,6 +228,17 @@
                 "old testament"
             ],
             "newcoverposter": "https://raw.githubusercontent.com/gesab001/assets/master/images/debt/pour.jpg"
+        },
+        {
+            "title": "Shunem",
+            "otherTitle": "Shunem",
+            "video": "shunem.mp4",
+            "description": "Elisha blesses a woman of Shunem and she gives birth to a son.",
+            "categories": [
+                "elisha",
+                "old testament"
+            ],
+            "newcoverposter": "https://raw.githubusercontent.com/gesab001/assets/master/images/shunem/womanbaby.jpg"
         }
     ],
     "atoz": [
@@ -964,6 +975,17 @@
                         "justice"
                     ],
                     "newcoverposter": "https://gesab001.github.io/assets/sodom/newcoverposter.jpg"
+                },
+                {
+                    "title": "Shunem",
+                    "otherTitle": "Shunem",
+                    "video": "shunem.mp4",
+                    "description": "Elisha blesses a woman of Shunem and she gives birth to a son.",
+                    "categories": [
+                        "elisha",
+                        "old testament"
+                    ],
+                    "newcoverposter": "https://gesab001.github.io/assets/shunem/newcoverposter.jpg"
                 }
             ]
         },
