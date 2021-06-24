@@ -239,6 +239,17 @@
                 "old testament"
             ],
             "newcoverposter": "https://raw.githubusercontent.com/gesab001/assets/master/images/shunem/womanbaby.jpg"
+        },
+        {
+            "title": "Naaman",
+            "otherTitle": "Naaman",
+            "video": "naaman.mp4",
+            "description": "Elisha heals a leper called Naaman, a captain in the Syrian army.",
+            "categories": [
+                "elisha",
+                "old testament"
+            ],
+            "newcoverposter": "https://raw.githubusercontent.com/gesab001/assets/master/images/naaman/wash.jpg"
         }
     ],
     "atoz": [
@@ -794,6 +805,17 @@
                         "new testament",
                         "miracles"
                     ]
+                },
+                {
+                    "title": "Naaman",
+                    "otherTitle": "Naaman",
+                    "video": "naaman.mp4",
+                    "description": "Elisha heals a leper called Naaman, a captain in the Syrian army.",
+                    "categories": [
+                        "elisha",
+                        "old testament"
+                    ],
+                    "newcoverposter": "https://gesab001.github.io/assets/naaman/newcoverposter.jpg"
                 }
             ]
         },
