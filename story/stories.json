@@ -250,6 +250,17 @@
                 "old testament"
             ],
             "newcoverposter": "https://raw.githubusercontent.com/gesab001/assets/master/images/naaman/wash.jpg"
+        },
+        {
+            "title": "Axe",
+            "otherTitle": "Axe",
+            "video": "axe.mp4",
+            "description": "Elisha performs a miracle by making a borrowed axe float in the water.",
+            "categories": [
+                "elisha",
+                "old testament"
+            ],
+            "newcoverposter": "https://raw.githubusercontent.com/gesab001/assets/master/images/axe/fell.jpg"
         }
     ],
     "atoz": [
@@ -303,6 +314,17 @@
                         "old testament"
                     ],
                     "newcoverposter": "https://gesab001.github.io/assets/anointed/newcoverposter.jpg"
+                },
+                {
+                    "title": "Axe",
+                    "otherTitle": "Axe",
+                    "video": "axe.mp4",
+                    "description": "Elisha performs a miracle by making a borrowed axe float in the water.",
+                    "categories": [
+                        "elisha",
+                        "old testament"
+                    ],
+                    "newcoverposter": "https://gesab001.github.io/assets/axe/newcoverposter.jpg"
                 }
             ]
         },

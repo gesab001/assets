@@ -1,0 +1,180 @@
+{
+    "title": "Axe",
+    "slides": [
+        {
+            "text": "And the sons of the prophets said unto Elisha, Behold now, the place where we dwell with thee is too strait for us.  ",
+            "reference": {
+                "book": "2 Kings",
+                "chapter": "6",
+                "verse": {
+                    "start": "1.",
+                    "end": "1."
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/axe/room.jpg"
+        },
+        {
+            "text": "Let us go, we pray thee, unto Jordan, and take thence every man a beam, and let us make us a place there, where we may dwell. And he answered, Go ye.  ",
+            "reference": {
+                "book": "2 Kings",
+                "chapter": "6",
+                "verse": {
+                    "start": "2.",
+                    "end": "2."
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/axe/housebuild.jpg"
+        },
+        {
+            "text": "And one said, Be content, I pray thee, and go with thy servants. And he answered, I will go.  ",
+            "reference": {
+                "book": "2 Kings",
+                "chapter": "6",
+                "verse": {
+                    "start": "3.",
+                    "end": "3."
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/axe/go.jpg"
+        },
+        {
+            "text": "So he went with them. And when they came to Jordan, they cut down wood.  ",
+            "reference": {
+                "book": "2 Kings",
+                "chapter": "6",
+                "verse": {
+                    "start": "4.",
+                    "end": "4."
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/axe/cutdowntree.jpg"
+        },
+        {
+            "text": "But as one was felling a beam, the axe head fell into the water: and he cried, and said, Alas, master! for it was borrowed.  ",
+            "reference": {
+                "book": "2 Kings",
+                "chapter": "6",
+                "verse": {
+                    "start": "5.",
+                    "end": "5."
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/axe/fell.jpg"
+        },
+        {
+            "text": "And the man of God said, Where fell it? And he shewed him the place.   ",
+            "reference": {
+                "book": "2 Kings",
+                "chapter": "6",
+                "verse": {
+                    "start": "6.",
+                    "end": "6."
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/axe/point.jpg"
+        },
+        {
+            "text": "And he cut down a stick,   ",
+            "reference": {
+                "book": "2 Kings",
+                "chapter": "6",
+                "verse": {
+                    "start": "6.",
+                    "end": "6."
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/axe/stick.jpg"
+        },
+        {
+            "text": "and cast [it] in thither;   ",
+            "reference": {
+                "book": "2 Kings",
+                "chapter": "6",
+                "verse": {
+                    "start": "6.",
+                    "end": "6."
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/axe/stickinthewater.jpg"
+        },
+        {
+            "text": "and the iron did swim.  ",
+            "reference": {
+                "book": "2 Kings",
+                "chapter": "6",
+                "verse": {
+                    "start": "6.",
+                    "end": "6."
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/axe/axeswim.jpg"
+        },
+        {
+            "text": "Therefore said he, Take [it] up to thee. And he put out his hand, and took it.  ",
+            "reference": {
+                "book": "2 Kings",
+                "chapter": "6",
+                "verse": {
+                    "start": "7.",
+                    "end": "7."
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/axe/pickupaxe.jpg"
+        }
+    ],
+    "questions": [
+        {
+            "question": "Who wanted to build a place to live?",
+            "answer": "the sons of the prophets",
+            "choices": [
+                "the sons of the prophets",
+                "the daughters of the prophets",
+                "Elisha",
+                "Elijah"
+            ]
+        },
+        {
+            "question": "Why did they want to a build a house?",
+            "answer": "because the house they currently live in is too small for them.",
+            "choices": [
+                "because the house they currently live in is too small for them.",
+                "because they wanted to build a more beautiful house.",
+                "because they wanted a house with a swimming pool",
+                "because the house they currently live in is too old."
+            ]
+        },
+        {
+            "question": "Where did they go to build a place?",
+            "answer": "Jordan.",
+            "choices": [
+                "Jordan.",
+                "Jerusalem",
+                "Jericho",
+                "Carmel"
+            ]
+        },
+        {
+            "question": "What fell into the water?",
+            "answer": "an axe head.",
+            "choices": [
+                "an axe head.",
+                "a nail",
+                "a hammer",
+                "a helmet"
+            ]
+        },
+        {
+            "question": "What did Elisha do to make the axe float?",
+            "answer": "he cut down a stick and cast it in the spot where the axe was.",
+            "choices": [
+                "he cut down a stick and cast it in the spot where the axe was.",
+                "he went into the water and made it float.",
+                "he used a long stick to make it float.",
+                "he put lots of salt in the water to make it float."
+            ]
+        }
+    ],
+    "activities": [],
+    "references": [],
+    "poster": "https://gesab001.github.io/assets/images/axe/poster.jpg"
+}
