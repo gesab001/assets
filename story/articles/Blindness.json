@@ -1,0 +1,180 @@
+{
+    "title": "Blindness",
+    "slides": [
+        {
+            "text": "Then the king of Syria warred against Israel, and took counsel with his servants, saying, In such and such a place [shall be] my camp.  ",
+            "reference": {
+                "book": "2 Kings",
+                "chapter": "6",
+                "verse": {
+                    "start": "8.",
+                    "end": "8."
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/blindness/king.jpg"
+        },
+        {
+            "text": "And the man of God sent unto the king of Israel, saying, Beware that thou pass not such a place; for thither the Syrians are come down.  And the king of Israel sent to the place which the man of God told him and warned him of, and saved himself there, not once nor twice.  ",
+            "reference": {
+                "book": "2 Kings",
+                "chapter": "6",
+                "verse": {
+                    "start": "9.",
+                    "end": "10"
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/blindness/army.jpg"
+        },
+        {
+            "text": "Therefore the heart of the king of Syria was sore troubled for this thing; and he called his servants, and said unto them, Will ye not shew me which of us [is] for the king of Israel?  And one of his servants said, None, my lord, O king: but Elisha, the prophet that [is] in Israel, telleth the king of Israel the words that thou speakest in thy bedchamber.  ",
+            "reference": {
+                "book": "2 Kings",
+                "chapter": "6",
+                "verse": {
+                    "start": "11",
+                    "end": "12"
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/blindness/kingelisha.jpg"
+        },
+        {
+            "text": "And he said, Go and spy where he [is,] that I may send and fetch him. And it was told him, saying, Behold, [he is] in Dothan.  Therefore sent he thither horses, and chariots, and a great host: and they came by night, and compassed the city about.  ",
+            "reference": {
+                "book": "2 Kings",
+                "chapter": "6",
+                "verse": {
+                    "start": "13",
+                    "end": "14"
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/blindness/agreatarmy.jpg"
+        },
+        {
+            "text": "And when the servant of the man of God was risen early, and gone forth, behold, an host compassed the city both with horses and chariots. And his servant said unto him, Alas, my master! how shall we do?  ",
+            "reference": {
+                "book": "2 Kings",
+                "chapter": "6",
+                "verse": {
+                    "start": "15",
+                    "end": "15"
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/blindness/early.jpg"
+        },
+        {
+            "text": "And he answered, Fear not: for they that [be] with us [are] more than they that [be] with them.  And Elisha prayed, and said, LORD, I pray thee, open his eyes, that he may see. And the LORD opened the eyes of the young man; and he saw: and, behold, the mountain [was] full of horses and chariots of fire round about Elisha.  ",
+            "reference": {
+                "book": "2 Kings",
+                "chapter": "6",
+                "verse": {
+                    "start": "16",
+                    "end": "17"
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/blindness/chariotsoffire.jpg"
+        },
+        {
+            "text": "And when they came down to him, Elisha prayed unto the LORD, and said, Smite this people, I pray thee, with blindness. And he smote them with blindness according to the word of Elisha.  ",
+            "reference": {
+                "book": "2 Kings",
+                "chapter": "6",
+                "verse": {
+                    "start": "18",
+                    "end": "18"
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/blindness/blind.jpg"
+        },
+        {
+            "text": "And Elisha said unto them, This [is] not the way, neither [is] this the city: follow me, and I will bring you to the man whom ye seek. But he led them to Samaria.  And it came to pass, when they were come into Samaria, that Elisha said, LORD, open the eyes of these [men,] that they may see. And the LORD opened their eyes, and they saw; and, behold, [they were] in the midst of Samaria.  ",
+            "reference": {
+                "book": "2 Kings",
+                "chapter": "6",
+                "verse": {
+                    "start": "19",
+                    "end": "20"
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/blindness/elishaleadsblind.jpg"
+        },
+        {
+            "text": "And the king of Israel said unto Elisha, when he saw them, My father, shall I smite [them?] shall I smite [them? ]  And he answered, Thou shalt not smite [them:] wouldest thou smite those whom thou hast taken captive with thy sword and with thy bow? set bread and water before them, that they may eat and drink, and go to their master.  ",
+            "reference": {
+                "book": "2 Kings",
+                "chapter": "6",
+                "verse": {
+                    "start": "21",
+                    "end": "22"
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/blindness/samaria.jpg"
+        },
+        {
+            "text": "And he prepared great provision for them: and when they had eaten and drunk, he sent them away, and they went to their master. So the bands of Syria came no more into the land of Israel.   ",
+            "reference": {
+                "book": "2 Kings",
+                "chapter": "6",
+                "verse": {
+                    "start": "23",
+                    "end": "23"
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/blindness/eat.jpg"
+        }
+    ],
+    "questions": [
+        {
+            "question": "How did the king of Israel know where the Syrian army was going to camp?",
+            "answer": "Elisha told him.",
+            "choices": [
+                "Elisha told him.",
+                "The birds told him.",
+                "There was a spy who told him.",
+                "God told him."
+            ]
+        },
+        {
+            "question": "What did the king of Syria send to arrest Elisha?",
+            "answer": "horses, chariots and a great army",
+            "choices": [
+                "horses, chariots and a great army",
+                "a few soldiers",
+                "a captain",
+                "a messenger"
+            ]
+        },
+        {
+            "question": "What did the servant of Elisha see when God opened his eyes?",
+            "answer": "full of horses and chariots of fire protecting Elisha.",
+            "choices": [
+                "full of horses and chariots of fire protecting Elisha.",
+                "angels.",
+                "the Israel army",
+                "many people."
+            ]
+        },
+        {
+            "question": "What did Elisha do to the army of Syria?",
+            "answer": "he made them blind.",
+            "choices": [
+                "he made them blind.",
+                "he killed them.",
+                "he called fire from heaven to burn them.",
+                "he made them get sick and die."
+            ]
+        },
+        {
+            "question": "What did Elisha say to the king of Israel to do to the Syrian army?",
+            "answer": "feed them with food.",
+            "choices": [
+                "feed them with food.",
+                "kill them.",
+                "put them in prison",
+                "fight them."
+            ]
+        }
+    ],
+    "activities": [],
+    "references": [],
+    "poster": "https://gesab001.github.io/assets/images/blindness/poster.jpg"
+}

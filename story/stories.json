@@ -261,6 +261,17 @@
                 "old testament"
             ],
             "newcoverposter": "https://raw.githubusercontent.com/gesab001/assets/master/images/axe/fell.jpg"
+        },
+        {
+            "title": "Blindness",
+            "otherTitle": "Blindness",
+            "video": "blindness.mp4",
+            "description": "Elisha makes a whole army of Syria blind when they came to his place to arrest him.",
+            "categories": [
+                "elisha",
+                "old testament"
+            ],
+            "newcoverposter": "https://raw.githubusercontent.com/gesab001/assets/master/images/blindness/chariotsoffire.jpg"
         }
     ],
     "atoz": [
@@ -413,6 +424,17 @@
                         "old testament"
                     ],
                     "newcoverposter": "https://gesab001.github.io/assets/bears/newcoverposter.jpg"
+                },
+                {
+                    "title": "Blindness",
+                    "otherTitle": "Blindness",
+                    "video": "blindness.mp4",
+                    "description": "Elisha makes a whole army of Syria blind when they came to his place to arrest him.",
+                    "categories": [
+                        "elisha",
+                        "old testament"
+                    ],
+                    "newcoverposter": "https://gesab001.github.io/assets/blindness/newcoverposter.jpg"
                 }
             ]
         },
