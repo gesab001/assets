@@ -272,6 +272,17 @@
                 "old testament"
             ],
             "newcoverposter": "https://raw.githubusercontent.com/gesab001/assets/master/images/blindness/chariotsoffire.jpg"
+        },
+        {
+            "title": "Shunammite",
+            "otherTitle": "Shunammite",
+            "video": "shunammite.mp4",
+            "description": "Elisha brings back to life the son of a shun",
+            "categories": [
+                "elisha",
+                "old testament"
+            ],
+            "newcoverposter": "https://raw.githubusercontent.com/gesab001/assets/master/images/shunammite/womanhugchild.jpg"
         }
     ],
     "atoz": [
@@ -1052,6 +1063,17 @@
                         "old testament"
                     ],
                     "newcoverposter": "https://gesab001.github.io/assets/shunem/newcoverposter.jpg"
+                },
+                {
+                    "title": "Shunammite",
+                    "otherTitle": "Shunammite",
+                    "video": "shunammite.mp4",
+                    "description": "Elisha brings back to life the son of a shun",
+                    "categories": [
+                        "elisha",
+                        "old testament"
+                    ],
+                    "newcoverposter": "https://gesab001.github.io/assets/shunammite/newcoverposter.jpg"
                 }
             ]
         },
@@ -1148,17 +1170,6 @@
                         "elijah",
                         " old testament",
                         " comfort"
-                    ],
-                    "newcoverposter": "https://gesab001.github.io/assets/voice/newcoverposter.jpg"
-                },
-                {
-                    "title": "Voice",
-                    "otherTitle": "Voice",
-                    "video": "voice.mp4",
-                    "description": "Afraid of Jezebel's threats, Elijah loses his courage after a greatshow of faith upon mount Carmel and runs away and prays for God to take away his life. But God encourages Him in a still small voice.",
-                    "categories": [
-                        "elijah",
-                        " old testament"
                     ],
                     "newcoverposter": "https://gesab001.github.io/assets/voice/newcoverposter.jpg"
                 }
