@@ -1,0 +1,180 @@
+{
+    "title": "Bones",
+    "slides": [
+        {
+            "text": "Now Elisha was fallen sick of his sickness whereof he died.   ",
+            "reference": {
+                "book": "2 Kings",
+                "chapter": "13",
+                "verse": {
+                    "start": "14",
+                    "end": "14"
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/bones/sick.jpg"
+        },
+        {
+            "text": "And Joash the king of Israel came down unto him, and wept over his face, and said, O my father, my father, the chariot of Israel, and the horsemen thereof.",
+            "reference": {
+                "book": "2 Kings",
+                "chapter": "13",
+                "verse": {
+                    "start": "14",
+                    "end": "14"
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/bones/cry.jpg"
+        },
+        {
+            "text": "And Elisha said unto him, Take bow and arrows. And he took unto him bow and arrows.  ",
+            "reference": {
+                "book": "2 Kings",
+                "chapter": "13",
+                "verse": {
+                    "start": "15",
+                    "end": "15"
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/bones/bowarrow.jpg"
+        },
+        {
+            "text": "And he said to the king of Israel, Put thine hand upon the bow. And he put his hand [upon it:] and Elisha put his hands upon the king's hands.  ",
+            "reference": {
+                "book": "2 Kings",
+                "chapter": "13",
+                "verse": {
+                    "start": "16",
+                    "end": "16"
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/bones/shootbowarrow.jpg"
+        },
+        {
+            "text": "And he said, Open the window eastward. And he opened [it.] Then Elisha said, Shoot. And he shot. And he said, The arrow of the LORD'S deliverance, and the arrow of deliverance from Syria: for thou shalt smite the Syrians in Aphek, till thou have consumed [them. ]  ",
+            "reference": {
+                "book": "2 Kings",
+                "chapter": "13",
+                "verse": {
+                    "start": "17",
+                    "end": "17"
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/bones/window.jpg"
+        },
+        {
+            "text": "And he said, Take the arrows. And he took [them.] And he said unto the king of Israel, Smite upon the ground. And he smote thrice, and stayed.  ",
+            "reference": {
+                "book": "2 Kings",
+                "chapter": "13",
+                "verse": {
+                    "start": "18",
+                    "end": "18"
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/bones/smite.jpg"
+        },
+        {
+            "text": "And the man of God was wroth with him, and said, Thou shouldest have smitten five or six times; then hadst thou smitten Syria till thou hadst consumed [it:] whereas now thou shalt smite Syria [but] thrice.  ",
+            "reference": {
+                "book": "2 Kings",
+                "chapter": "13",
+                "verse": {
+                    "start": "19",
+                    "end": "19"
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/bones/sixtimes.jpg"
+        },
+        {
+            "text": "And Elisha died, and they buried him. And the bands of the Moabites invaded the land at the coming in of the year.  ",
+            "reference": {
+                "book": "2 Kings",
+                "chapter": "13",
+                "verse": {
+                    "start": "20",
+                    "end": "20"
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/bones/buried.jpg"
+        },
+        {
+            "text": "And it came to pass, as they were burying a man, that, behold, they spied a band [of men;] and they cast the man into the sepulchre of Elisha:   ",
+            "reference": {
+                "book": "2 Kings",
+                "chapter": "13",
+                "verse": {
+                    "start": "21",
+                    "end": "21"
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/bones/thrown.jpg"
+        },
+        {
+            "text": "and when the man was let down, and touched the bones of Elisha, he revived, and stood up on his feet.  ",
+            "reference": {
+                "book": "2 Kings",
+                "chapter": "13",
+                "verse": {
+                    "start": "21",
+                    "end": "21"
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/bones/revived.jpg"
+        }
+    ],
+    "questions": [
+        {
+            "question": "What was wrong with Elisha?",
+            "answer": "He was sick and dying.",
+            "choices": [
+                "He was sick and dying.",
+                "He was captured by the Syrian army and put in prison.",
+                "he was injured.",
+                "he was hungry."
+            ]
+        },
+        {
+            "question": "What did Elisha tell the king of Israel to take?",
+            "answer": "bow and arrows.",
+            "choices": [
+                "bow and arrows.",
+                "food",
+                "water",
+                "bag and arrows."
+            ]
+        },
+        {
+            "question": "What is the meaning of the arrow that was shot?",
+            "answer": "the arrow of the Lord's deliverance.",
+            "choices": [
+                "the arrow of the Lord's deliverance.",
+                "the arrow of death",
+                "the arrow of life",
+                "the arrow of Satan."
+            ]
+        },
+        {
+            "question": "After shooting an arrow, what did Elisha tell the king of Israel to do with the arrows?",
+            "answer": "to smite it upon the ground.",
+            "choices": [
+                "to smite it upon the ground.",
+                "to throw it in the air.",
+                "shoot some more arrows.",
+                "break the arrows."
+            ]
+        },
+        {
+            "question": "What happened to a dead man that was thrown into Elisha's sepulchre?",
+            "answer": "he revived and stood up on his feet.",
+            "choices": [
+                "he revived and stood up on his feet.",
+                "he started flying.",
+                "he revived and smiled.",
+                "he revived and started fighting."
+            ]
+        }
+    ],
+    "activities": [],
+    "references": [],
+    "poster": "https://gesab001.github.io/assets/images/bones/poster.jpg"
+}

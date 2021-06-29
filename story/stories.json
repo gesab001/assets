@@ -283,6 +283,17 @@
                 "old testament"
             ],
             "newcoverposter": "https://raw.githubusercontent.com/gesab001/assets/master/images/shunammite/womanhugchild.jpg"
+        },
+        {
+            "title": "Bones",
+            "otherTitle": "Bones",
+            "video": "bones.mp4",
+            "description": "The bones of Elisha revives a dead man.",
+            "categories": [
+                "elisha",
+                " old testament"
+            ],
+            "newcoverposter": "https://raw.githubusercontent.com/gesab001/assets/master/images/bones/revived.jpg"
         }
     ],
     "atoz": [
@@ -446,6 +457,17 @@
                         "old testament"
                     ],
                     "newcoverposter": "https://gesab001.github.io/assets/blindness/newcoverposter.jpg"
+                },
+                {
+                    "title": "Bones",
+                    "otherTitle": "Bones",
+                    "video": "bones.mp4",
+                    "description": "The bones of Elisha revives a dead man.",
+                    "categories": [
+                        "elisha",
+                        " old testament"
+                    ],
+                    "newcoverposter": "https://gesab001.github.io/assets/bones/newcoverposter.jpg"
                 }
             ]
         },
