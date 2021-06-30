@@ -294,6 +294,17 @@
                 " old testament"
             ],
             "newcoverposter": "https://raw.githubusercontent.com/gesab001/assets/master/images/bones/revived.jpg"
+        },
+        {
+            "title": "Syrians",
+            "otherTitle": "Syrians",
+            "video": "syrians.mp4",
+            "description": "Elisha prophesied that there would be plenty of food in Samaria. The prophecy came true when the Syrians fled from their camp and left al belongings and food in their tents.",
+            "categories": [
+                "elisha",
+                "old testament"
+            ],
+            "newcoverposter": "https://raw.githubusercontent.com/gesab001/assets/master/images/syrians/flour.jpg"
         }
     ],
     "atoz": [
@@ -1096,6 +1107,17 @@
                         "old testament"
                     ],
                     "newcoverposter": "https://gesab001.github.io/assets/shunammite/newcoverposter.jpg"
+                },
+                {
+                    "title": "Syrians",
+                    "otherTitle": "Syrians",
+                    "video": "syrians.mp4",
+                    "description": "Elisha prophesied that there would be plenty of food in Samaria. The prophecy came true when the Syrians fled from their camp and left al belongings and food in their tents.",
+                    "categories": [
+                        "elisha",
+                        "old testament"
+                    ],
+                    "newcoverposter": "https://gesab001.github.io/assets/syrians/newcoverposter.jpg"
                 }
             ]
         },
