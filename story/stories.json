@@ -305,6 +305,17 @@
                 "old testament"
             ],
             "newcoverposter": "https://raw.githubusercontent.com/gesab001/assets/master/images/syrians/flour.jpg"
+        },
+        {
+            "title": "Pot",
+            "otherTitle": "Pot",
+            "video": "pot.mp4",
+            "description": "Elisha removes poison in a pot of cooked food",
+            "categories": [
+                "elisha",
+                "old testament"
+            ],
+            "newcoverposter": "https://raw.githubusercontent.com/gesab001/assets/master/images/pot/dearth.jpg"
         }
     ],
     "atoz": [
@@ -940,6 +951,17 @@
                         "new testament",
                         "parables"
                     ]
+                },
+                {
+                    "title": "Pot",
+                    "otherTitle": "Pot",
+                    "video": "pot.mp4",
+                    "description": "Elisha removes poison in a pot of cooked food",
+                    "categories": [
+                        "elisha",
+                        "old testament"
+                    ],
+                    "newcoverposter": "https://gesab001.github.io/assets/pot/newcoverposter.jpg"
                 }
             ]
         },

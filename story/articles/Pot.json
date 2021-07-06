@@ -1,0 +1,180 @@
+{
+    "title": "Pot",
+    "slides": [
+        {
+            "text": "And Elisha came again to Gilgal:   ",
+            "reference": {
+                "book": "2 Kings",
+                "chapter": "4",
+                "verse": {
+                    "start": "38",
+                    "end": "38"
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/pot/gilgal.jpg"
+        },
+        {
+            "text": "and [there was] a dearth in the land;   ",
+            "reference": {
+                "book": "2 Kings",
+                "chapter": "4",
+                "verse": {
+                    "start": "38",
+                    "end": "38"
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/pot/dearth.jpg"
+        },
+        {
+            "text": "and the sons of the prophets [were] sitting before him: and he said unto his servant, Set on the great pot, and seethe pottage for the sons of the prophets.  ",
+            "reference": {
+                "book": "2 Kings",
+                "chapter": "4",
+                "verse": {
+                    "start": "38",
+                    "end": "38"
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/pot/pot.jpg"
+        },
+        {
+            "text": "And one went out into the field to gather herbs, and found a wild vine, and gathered thereof wild gourds his lap full, and came and shred [them] into the pot of pottage: for they knew [them] not.  ",
+            "reference": {
+                "book": "2 Kings",
+                "chapter": "4",
+                "verse": {
+                    "start": "39",
+                    "end": "39"
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/pot/herbs.jpg"
+        },
+        {
+            "text": "So they poured out for the men to eat.   ",
+            "reference": {
+                "book": "2 Kings",
+                "chapter": "4",
+                "verse": {
+                    "start": "40",
+                    "end": "40"
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/pot/serving.jpg"
+        },
+        {
+            "text": "And it came to pass, as they were eating of the pottage, that they cried out, and said, O [thou] man of God, [there is] death in the pot. And they could not eat [thereof. ]  ",
+            "reference": {
+                "book": "2 Kings",
+                "chapter": "4",
+                "verse": {
+                    "start": "40",
+                    "end": "40"
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/pot/notyummy.jpg"
+        },
+        {
+            "text": "But he said, Then bring meal. And he cast [it] into the pot; and he said, Pour out for the people, that they may eat. And there was no harm in the pot.  ",
+            "reference": {
+                "book": "2 Kings",
+                "chapter": "4",
+                "verse": {
+                    "start": "41",
+                    "end": "41"
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/pot/meal.jpg"
+        },
+        {
+            "text": "And there came a man from Baal-shalisha, and brought the man of God bread of the firstfruits, twenty loaves of barley, and full ears of corn in the husk thereof. And he said, Give unto the people, that they may eat.  ",
+            "reference": {
+                "book": "2 Kings",
+                "chapter": "4",
+                "verse": {
+                    "start": "42",
+                    "end": "42"
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/pot/barley.jpg"
+        },
+        {
+            "text": "And his servitor said, What, should I set this before an hundred men? He said again, Give the people, that they may eat: for thus saith the LORD, They shall eat, and shall leave [thereof. ]  ",
+            "reference": {
+                "book": "2 Kings",
+                "chapter": "4",
+                "verse": {
+                    "start": "43",
+                    "end": "43"
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/pot/hungry.jpg"
+        },
+        {
+            "text": "So he set [it] before them, and they did eat, and left [thereof,] according to the word of the LORD.   ",
+            "reference": {
+                "book": "2 Kings",
+                "chapter": "4",
+                "verse": {
+                    "start": "44",
+                    "end": "44"
+                }
+            },
+            "image": "https://raw.githubusercontent.com/gesab001/assets/master/images/pot/eating.jpg"
+        }
+    ],
+    "questions": [
+        {
+            "question": "Where did Elisha go?",
+            "answer": "Gilgal",
+            "choices": [
+                "Gilgal",
+                "Jerusalem",
+                "Jericho",
+                "Carmel"
+            ]
+        },
+        {
+            "question": "What did Elisha order his servant to do?",
+            "answer": "cook some food in a big pot",
+            "choices": [
+                "cook some food in a big pot",
+                "boil some water",
+                "gather some sticks",
+                "harvest wheat"
+            ]
+        },
+        {
+            "question": "What did he gather in the field?",
+            "answer": "herbs",
+            "choices": [
+                "herbs",
+                "grapes",
+                "apples",
+                "oranges"
+            ]
+        },
+        {
+            "question": "Why were the sons of prophets afraid to eat from the pot?",
+            "answer": "the food had poison in it.",
+            "choices": [
+                "the food had poison in it.",
+                "the food was not yummy.",
+                "the food was cold.",
+                "the food was old."
+            ]
+        },
+        {
+            "question": "How many people did Elisha feed?",
+            "answer": "100 men",
+            "choices": [
+                "100 men",
+                "200 men",
+                "5 men",
+                "2 people"
+            ]
+        }
+    ],
+    "activities": [],
+    "references": [],
+    "poster": "https://gesab001.github.io/assets/images/pot/poster.jpg"
+}
