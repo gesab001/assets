@@ -35,12 +35,16 @@ for x in range(0, len(chapList)):
   print(parList)
   print(references)
   for i in range(0, len(parList)):
-    par = parList[i].strip()
+    word = parList[i].strip()
+    containsPageNumber = re.search(r'\d', word)
+    print(word)
+    print("containsPageNumber: " + containsPageNumber)
+    proceed = input("pause: ")
     reference = references[i].replace("{", "")
     reference = reference.replace("}", "")
     page = reference.split(" ")[1].split(".")[0]
     paragraphNumber = reference.split(" ")[1].split(".")[1]
-    jsonobj = {"reference": reference, "page": page, "paragraphNo": paragraphNumber, "word": par}
+    jsonobj = {"reference": reference, "page": page, "paragraphNo": paragraphNumber, "word": word}
     jsondata["chapters"][chapterNu]["paragraphs"].append(jsonobj)
     
 
