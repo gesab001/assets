@@ -100,6 +100,11 @@
 			"title": "Bible"
 		},
 		{
+			"total": 4237,
+			"bookcode": "FAST",
+			"title": "Fast"
+		},
+		{
 			"total": 3157,
 			"bookcode": "SABBATH",
 			"title": "Sabbath"
