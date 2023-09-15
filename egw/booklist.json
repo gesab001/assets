@@ -105,6 +105,31 @@
 			"title": "Fast"
 		},
 		{
+			"total": 6208,
+			"bookcode": "RICH",
+			"title": "Rich"
+		},
+		{
+			"total": 1285,
+			"bookcode": "WEALTH",
+			"title": "Wealth"
+		},		
+		{
+			"total": 8518,
+			"bookcode": "HOUSE",
+			"title": "House"
+		},	
+		{
+			"total": 7510,
+			"bookcode": "LAND",
+			"title": "Land"
+		},			
+		{
+			"total": 680,
+			"bookcode": "SOIL",
+			"title": "Soil"
+		},	
+		{
 			"total": 3157,
 			"bookcode": "SABBATH",
 			"title": "Sabbath"
