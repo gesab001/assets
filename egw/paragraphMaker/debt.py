@@ -1,5 +1,5 @@
 
-f = open("debt.txt", "r")
+f = open("fast.txt", "r")
 string = f.read()
 #print(string)
 import re
@@ -20,7 +20,7 @@ print(len(references))
 index = 0
 for x in range(0, len(paraList)):
   word = paraList[x].strip()
-  if "debt" in word.lower():
+  if "fast" in word.lower():
     reference = references[x]
     reference = re.sub("{", "", reference)
     reference = re.sub("}", "", reference) 
@@ -34,7 +34,7 @@ for x in range(0, len(paraList)):
     print ("par: " + par)
     index = index + 1
     print("index: " + str(index))
-    filenameBookCode = "DEBT"
+    filenameBookCode = "FAST"
     filename = "book_"+filenameBookCode+"_id_"+str(index)+".json"#book_DA_id_2122.json
     jsonObj = {"word": word, "paragraph": int(par), "bookcode": bookCode, "page": int(page)}
     print("filename: " + filename)
