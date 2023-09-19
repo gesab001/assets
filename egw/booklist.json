@@ -105,6 +105,11 @@
 			"title": "Fast"
 		},
 		{
+			"total": 16075,
+			"bookcode": "PRAY",
+			"title": "Pray"
+		},
+		{
 			"total": 6208,
 			"bookcode": "RICH",
 			"title": "Rich"
@@ -124,6 +129,11 @@
 			"bookcode": "LAND",
 			"title": "Land"
 		},			
+		{
+			"total": 26766,
+			"bookcode": "HEAVEN",
+			"title": "Heaven"
+		},	
 		{
 			"total": 680,
 			"bookcode": "SOIL",
@@ -158,6 +168,16 @@
 			"total": 18820,
 			"bookcode": "JESUS",
 			"title": "Jesus"
+		},
+		{
+			"total": 15460,
+			"bookcode": "SATAN",
+			"title": "Satan"
+		},
+		{
+			"total": 14410,
+			"bookcode": "ANGEL",
+			"title": "Angel"
 		},
 		{
 			"total": 1090,
