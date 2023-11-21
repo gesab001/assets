@@ -125,6 +125,11 @@
 			"title": "House"
 		},	
 		{
+			"total": 153,
+			"bookcode": "HOTEL",
+			"title": "Hotel"
+		},		
+		{
 			"total": 7510,
 			"bookcode": "LAND",
 			"title": "Land"
