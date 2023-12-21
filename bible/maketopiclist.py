@@ -38,5 +38,5 @@ sorted_topiclist2.sort()
 result = {"topiclist": sorted_topiclist2, "items": jsonObj2}
 print(jsonObj2.keys())    
 
-with open("topics5.json", "w") as outfile:
+with open("topics4.json", "w") as outfile:
   json.dump(result, outfile, indent=4, sort_keys=True)
