@@ -29,7 +29,7 @@ for x in range(1, 67):
              print(word)    
              newobj = {"book": bookname, "chapter": chapterN, "verse": verseN, "word": word}
              topicjson[keyword].append(newobj)
-                         
+print(len(topicjson))                         
 with open ("topics3.json", "w") as outfile:
    json.dump(topicjson, outfile, indent=4)
 
