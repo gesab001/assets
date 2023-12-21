@@ -12,21 +12,26 @@ sorted_topiclist.sort()
 
 
 f = open("topics3.json", "r")
-jsonObj2 = json.loads(f.read())
+jsonObj2 = {}
 f.close()
 sorted_topiclist2 = []
 
 for x in topics:
-    jsonObj2[x.title()] = jsonObj2[x]
+    jsonObj2[x.title()] = jsonObj[x]
     totalverses = len(jsonObj2[x.title()])
-    del jsonObj2[x]
     if totalverses==0:
       del jsonObj2[x.title()]
 
 sorted_topiclist2 = list(jsonObj2.keys())
 sorted_topiclist2.sort()
 
-
+for x in topics:
+    try:
+      verses = jsonObj2[x.title()]
+      for i in range(0, len(verses)):
+        del jsonObj2[x.title()][i]["word"]
+    except:
+        print(x + " doesn't exist")
 """
     print("totalverses: " + str(totalverses))
     if totalverses==0:

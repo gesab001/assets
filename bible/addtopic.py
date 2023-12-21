@@ -24,11 +24,11 @@ for x in range(1, 67):
 
           word = verses[verseN]["verse"]
 
-          if keyword in word:
+          if keyword.lower() in word.lower():
              print(bookname + " " + chapterN + ":" + verseN)
              print(word)    
              newobj = {"book": bookname, "chapter": chapterN, "verse": verseN, "word": word}
-             topicjson[keyword].append(newobj)
+             topicjson[keyword.title()].append(newobj)
 print(len(topicjson))                         
 with open ("topics3.json", "w") as outfile:
    json.dump(topicjson, outfile, indent=4)
