@@ -20,13 +20,21 @@ while True:
     if proceed.lower()=="y":
        egw.append(comment)
 
-
-jsonData[book][chapter][verse] = {"word": word, "egw": egw}
-
+if book in jsonData:
+ if chapter in jsonData[book]:
+   jsonData[book][chapter][verse] = {"word": word, "egw": egw}
+ else:
+   jsonData[book][chapter] = {verse: {}}
+   jsonData[book][chapter][verse] = {"word": word, "egw": egw}
+else:
+  jsonData[book] = {}
+  jsonData[book][chapter] = {verse: {}}
+  jsonData[book][chapter][verse] = {"word": word, "egw": egw}
+  
 with open("egw_commentary.json", "w") as outfile:
   json.dump(jsonData, outfile, indent=4)    
 
-verseFileName = book.replace(" ", "-") + "_"+chapter+"_"+verse+"_.json"  
+verseFileName = book.replace(" ", "-") + "_"+chapter+"_"+verse+".json"  
 verseJsonData = {book: chapter}
 with open(verseFileName, "w") as outfile:
   json.dump(verseJsonData, outfile, indent=4)   
