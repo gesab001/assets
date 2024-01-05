@@ -35,6 +35,7 @@ with open("egw_commentary.json", "w") as outfile:
   json.dump(jsonData, outfile, indent=4)    
 
 verseFileName = book.replace(" ", "-") + "_"+chapter+"_"+verse+".json"  
-verseJsonData = {book: chapter}
+verseJsonData = {book: {chapter: {}}}
+verseJsonData[book][chapter][verse] = {"word": word, "egw": egw}
 with open(verseFileName, "w") as outfile:
   json.dump(verseJsonData, outfile, indent=4)   
