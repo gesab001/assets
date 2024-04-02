@@ -14,9 +14,12 @@ references = re.findall(pattern, string )
 #print(x)
 # ['one', 'two', 'three', 'four']
 
+
 print(len(paraList))
 print(len(references))
 keyword = input("word to search: ")
+
+"""
 os.mkdir(keyword.upper())
 index = 0
 for x in range(0, len(paraList)):
@@ -44,4 +47,46 @@ for x in range(0, len(paraList)):
 
     with open("./" + filenameBookCode +"/"+filename, "w") as outfile:
           json.dump(jsonObj, outfile, indent=4)
+"""
+
+paragraphs = os.listdir(keyword.upper())
+totalP = len(paragraphs)
+bookCode = keyword.upper()
+title = keyword.title()
+jsonObj = {"total": totalP, "bookcode": bookCode, "title": title}
+fopen = open("../booklist.json", "r")
+booklistjsonstring = fopen.read()
+booklistjson = json.loads(booklistjsonstring)
+fopen.close()
+
+print(jsonObj)
+for item in booklistjson["items"]:
+  itemBookcode = item["bookcode"]
+  if itemBookcode== bookCode:
+    print("bookcode already exist")
+  else:  
+    booklistjson["items"].append(jsonObj)
+    with open("../booklist.json", "w") as outfile:
+       json.dump(booklistjson, outfile, indent=4)
+    break   
+
+print(booklistjson)
+
+
+  
+import shutil
+
+original = bookCode
+target = "../" + original
+try:
+ shutil.move(original, target)
+ print("directory moved successfully")
+except:
+ print("directory does not exist")
+
+proceed = input("push to git?")
+if proceed=="y":
+  import subprocess
+  command = "cd .. && cd .. && py pushtogit.py"
+  subprocess.call(command, shell=True)
    
