@@ -19,7 +19,7 @@ print(len(paraList))
 print(len(references))
 keyword = input("word to search: ")
 
-
+"""
 os.mkdir(keyword.upper())
 index = 0
 for x in range(0, len(paraList)):
@@ -84,9 +84,10 @@ try:
 except:
  print("directory does not exist")
 
-proceed = input("push to git?")
-if proceed=="y":
-  import subprocess
-  command = "cd .. && cd .. && py pushtogit.py"
-  subprocess.call(command, shell=True)
+#proceed = input("push to git?")
+#if proceed=="y":
+"""
+import subprocess
+command = "cd .. && cd .. && py pushtogit.py"
+subprocess.call(command, shell=True)
    
