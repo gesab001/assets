@@ -19,7 +19,7 @@ print(len(paraList))
 print(len(references))
 keyword = input("word to search: ")
 
-"""
+
 os.mkdir(keyword.upper())
 index = 0
 for x in range(0, len(paraList)):
@@ -47,7 +47,7 @@ for x in range(0, len(paraList)):
 
     with open("./" + filenameBookCode +"/"+filename, "w") as outfile:
           json.dump(jsonObj, outfile, indent=4)
-"""
+
 
 paragraphs = os.listdir(keyword.upper())
 totalP = len(paragraphs)

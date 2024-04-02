@@ -244,6 +244,11 @@
             "total": 5084,
             "bookcode": "FOOD",
             "title": "Food"
+        },
+        {
+            "total": 29715,
+            "bookcode": "POWER",
+            "title": "Power"
         }
     ]
 }
