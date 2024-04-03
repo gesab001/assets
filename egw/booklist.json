@@ -354,6 +354,11 @@
             "total": 25034,
             "bookcode": "MIND",
             "title": "Mind"
+        },
+        {
+            "total": 2679,
+            "bookcode": "WIFE",
+            "title": "Wife"
         }
     ]
 }
