@@ -389,6 +389,11 @@
             "total": 26043,
             "bookcode": "WAR",
             "title": "War"
+        },
+        {
+            "total": 5311,
+            "bookcode": "BATTLE",
+            "title": "Battle"
         }
     ]
 }
