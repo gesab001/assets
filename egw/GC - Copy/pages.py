@@ -26,6 +26,8 @@ for x in range(1, totalfiles+1):
      print("filename: " + filename)
      print(filename)
      proceed = input("continue?")
+     if proceed=="n":
+        break
   try:
    if str(int(page)+1) in word:
      print(word)
@@ -33,5 +35,7 @@ for x in range(1, totalfiles+1):
      print("filename: " + filename)
      print(filename)
      proceed = input("continue?")  
+     if proceed=="n":
+        break
   except:
      print("not a number")  
