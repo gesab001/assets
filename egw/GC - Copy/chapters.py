@@ -2,11 +2,11 @@ import json
 import os
 
 bookcode = "GC"
-chapterT = "The Waldenses"
-chapterN = 4
-startFileNumber = 133
-startPage = 61
-newPage = 79
+chapterT = "John Wycliffe"
+chapterN = 5
+startFileNumber = 179
+startPage = 79
+newPage = 97
 
 files = os.listdir()
 jsonfiles = []
